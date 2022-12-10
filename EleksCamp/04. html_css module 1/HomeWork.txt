@@ -1,0 +1,4 @@
+ДЗ:
+1. Форкнути репозиторій https://github.com/eleks-bootcamp/css-html-module-hw
+2. Виконати завдання згідно інструкції в `readme.md`
+3. Створити pull-request
