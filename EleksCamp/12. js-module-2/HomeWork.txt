@@ -1,0 +1,8 @@
+ДЗ: 
+
+- http://online-editor.bootcamp.place - виконати задачу `sum`
+username: bootcamp
+password: bootcamp
+
+- https://github.com/eleks-bootcamp/online-store - можно брати в роботу будь яку компоненту, задача зверстати,
+дивись в директорію "01-css-task"
