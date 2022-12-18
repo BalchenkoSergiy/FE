@@ -1,0 +1,10 @@
+http://online-editor.bootcamp.place
+
+login: bootcamp
+pass: bootcamp
+Задачі:
+* toUpperCase
+* sliceString
+* revertCase
+* arrToString
+* stringToArray
