@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+/* * { */
+/*     padding: 0; */
+/*     margin: 0; */
+/* } */
+
 body {
     background-color: #f1f1f1;
     color: #0f141e;
@@ -35,6 +40,10 @@ a:visited{
     box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
 }
 
+.info {
+    margin-bottom: 20px;
+}
+
 .info p {
     color: #86898f;
     margin: 0; 
@@ -53,7 +62,7 @@ a:visited{
 }
 
 
-.social {
+/*.social { */
     /*background: green;*/
     /*padding: 15px;*/
     /*padding: 15px 40px;*/
@@ -73,7 +82,7 @@ a:visited{
     /*border-bottom-style: dotted;*/
     /*border-top-width: 15px;*/
     /*border-right-color: blue;*/
-} 
+/* } */ 
 
 
 /* .box-model div {
@@ -85,3 +94,89 @@ a:visited{
     box-sizing: border-box;
 } */
 
+
+.bg-yellow {
+    background: #fff9dc;
+}
+
+.bg-green {
+    background: #e5ffe7;
+}
+
+.bg-red {
+    background: #ffe5e5;
+}
+
+.card {
+    padding: 15px 20px;
+    /*background: red;*/
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+
+.card h2 {
+    margin-bottom: 10px;
+}
+
+.list {
+    padding: 0 20px;
+    list-style: none;
+}
+
+.list li {
+    color: #86898f;
+    margin-bottom: 10px;
+    /*border-bottom: 1px solid gray;*/
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    padding-bottom: 10px;
+}
+
+.table td:nth-child(2), .table td:nth-child(3){
+    color: #86898f;
+}
+
+/*
+.table tr:nth-child(even) {
+    background: red;
+}
+*/
+
+.link-list {
+    list-style: none;
+    padding: 0;
+}
+
+.link-list {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+.contact h2 {
+    text-align: center;
+}
+
+.form-group label {
+    display: block;
+    font-size: 14px;
+    color: #86898f;
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #ccc;
+    color: #000;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+}
