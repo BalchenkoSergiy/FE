@@ -1,6 +1,6 @@
 26.01.2023
     Inventory number include:
-        001 - SK office
+        001 - SK office (Regina)
         002 - ON office
         003 - Home
 
