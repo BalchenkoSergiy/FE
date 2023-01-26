@@ -1,12 +1,12 @@
 Inventory number include:
- 001 - SK office
- 002 - ON office
- 003 - Home
+    001 - SK office
+    002 - ON office
+    003 - Home
 
-01 - Working Computers
-02 - Unworking Computers
-03 - Headsets
-04 - Monitors
-05 - Keyboards
-06 - Mouses
-07 - Cables
+    01 - Working Computers
+    02 - Unworking Computers
+    03 - Headsets
+    04 - Monitors
+    05 - Keyboards
+    06 - Mouses
+    07 - Cables
