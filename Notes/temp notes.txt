@@ -1,3 +1,6 @@
+27.01.2023
+    INFOTECH-19 "1329 Building Policies Confluence Page"
+
 26.01.2023
     Inventory number include:
         001 - SK office (Regina)
