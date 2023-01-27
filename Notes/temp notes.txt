@@ -1,7 +1,9 @@
 27.01.2023
-    INFOTECH-59 'Spring Meeting for IT' 1h 15m
+    TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
 
-    INFOTECH-15 "Create policy for document storage" 
+    INFOTECH-59 "Spring Meeting for IT" 1h 15m
+
+    INFOTECH-15 "Create policy for document storage"
 
     INFOTECH-19 "1329 Building Policies Confluence Page" 1h 30m
         Create a Confluence document that describes all 1329 building Policies:
