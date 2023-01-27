@@ -1,6 +1,21 @@
 27.01.2023
     INFOTECH-19 "1329 Building Policies Confluence Page"
+        Create a Confluence document that describes all 1329 building Policies:
+            - First employee in / last employee out
+            - Security system, alarm panels
+            - Door lock policy
+            - Parking
+            - etc
+
     Manage SSL Certificates - Check which will finish less than 30 days.
+        LGAQ:
+            SSL Expire: February 25, 2023
+            Days Until Expiration: 29
+            Client Notified: No
+        Med-Lab:
+            SSL Expire: January 15, 2023
+            Days Until Expiration: -12
+            Client Notified: Yes
 
 26.01.2023
     Inventory number include:
