@@ -2,22 +2,22 @@
     INFOTECH-19 "1329 Building Policies Confluence Page"
         Create a Confluence document that describes all 1329 building Policies:
             - 1. First employee in (Перший співробітник прийшов)
-                1.0 'Перед відкриттям дверей впевніться що ви знаєте актуальний пароль відключення сигналізації.'
-                1.1 'Відкриваючи двері, зверніть увагу що вони були зачинені до вашого приходу.'
-                1.2 'Зайшовши всередину одразу введіть пароль відключення сигналізації.'
-                1.3 'Почніть свій робочий день.'
+                1.0 Перед відкриттям дверей впевніться що ви знаєте актуальний пароль відключення сигналізації. (Before opening the door, make sure you know the current password for disarming the alarm.)
+                1.1 Відкриваючи двері, зверніть увагу що вони були зачинені до вашого приходу. (When opening the door, note that it was closed before your arrival)
+                1.2 Зайшовши всередину одразу введіть пароль відключення сигналізації. (Once inside, immediately enter the password to disable the alarm)
+                1.3 Почніть свій робочий день. (Start your working day)
             - 2. last employee out (останній співробітник вийшов)
-                2.1 'Якщо ви виходите останній але у офісі знаходяться співробітники іншої компанії:'
-                    '2.1.1 вам необхідно їх сповістити.'
-                2.2 'Якщо ви виходите останній:'
-                    '2.2.1 вимкніть світло та прилади які можуть спричинити пожежу'
-                    '2.2.2 перевірте чи закрита вода'
-                    '2.2.3 увімкніть сигналізацію (натиснувши на пульті керування сигналізацією: Disarmed, ready to arm)'
-                    '2.2.4 Після попереднього кроку ви повинні у короткий час залишити приміщення та зачинити двері на замок'
+                2.1 Якщо ви виходите останній але у офісі знаходяться співробітники іншої компанії (If you are the last to leave but there are employees of another company in the office):
+                    2.1.1 вам необхідно їх сповістити (you need to notify them that you are leaving).
+                2.2 Якщо ви виходите останній (If you are the last employee out):
+                    2.2.1 вимкніть світло та прилади які можуть спричинити пожежу (turn off lights and devices that can cause fire)
+                    2.2.2 перевірте чи закрита вода (check whether the water is closed)
+                    2.2.3 увімкніть сигналізацію (натиснувши на пульті керування сигналізацією: Disarmed, ready to arm) (turn on the alarm (by clicking on the alarm control panel: Disarmed, ready to arm))
+                    2.2.4 Після попереднього кроку ви повинні у короткий час залишити приміщення та зачинити двері на замок (After the previous step, you must leave the office in a short time and lock the door)
             - 3. Security system, alarm panels (Охоронна система, сигналізація)
-                3.1 'Код до включення/відключення сигналізайції повинен оновлюватись після кожної зміни у команді.'
+                3.1 Код до включення/відключення сигналізайції повинен оновлюватись після кожної зміни у команді (The code to enable/disable the alarm must be updated after each change in the command).
             - 4. Door lock policy (Політика блокування дверей)
-                4.1 'У не робочий час або у час коли у фісі немає нікого - двері завжди повинні бути зачиненими'
+                4.1 У не робочий час або у час коли у фісі немає нікого - двері завжди повинні бути зачиненими (During non-working hours or when there is no one in the office - the door must always be closed)
             - 5. Parking (Паркінг)
 
     Manage SSL Certificates - Check which will finish less than 30 days.
