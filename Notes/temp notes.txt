@@ -1,8 +1,19 @@
 30.01.2023
+    # 4h INFOTECH-18 "Create procedure for new employee onboarding"
+        Update document based on Nick's feedback:
+            - Make the decision on if we absolutely need UPS on laptops based on cost
+                1. https://www.amazon.ca/CyberPower-EC850LCD-Ecologic-Outlets-Compact/dp/B00DBAA696/ref=sr_1_2_sspa?crid=ZGBBBYKSCTWB&keywords=CyberPower%2BEC850LCD&qid=1675110551&sprefix=cyberpower%2Bec850lcd%2Caps%2C392&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQkpBWkNRRklVNzVaJmVuY3J5cHRlZElkPUEwNjY4MTkwTExBOTA3VUVCSk5FJmVuY3J5cHRlZEFkSWQ9QTA0MTE5NTExOUFUTTlJUkRXRzBZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
+                2. https://www.amazon.ca/dp/B07RRYB3RJ?tag=track-ect-ca-904581-20&linkCode=osi&th=1
+
+            - Come up with a firm list. Office, VS etc. that IT group needs to install, and then IT can create a task for the new employee to install the other items such as XRMtool.
+                1. Microsoft Teams
+                2. Additional browsers: Chrome, Firefox
+                3. Notepad ++
+                4. Microsoft Office
     # 1h "Quick Review of IT progress"
     # "ARCTIC - Kick off Meeting"
     # INFOTECH-64 "Set up computers for February employyees"
-    # INFOTECH-15 "Create policy for document storage"
+    # 45m INFOTECH-15 "Create policy for document storage"
         "Our company policy provides for three environments to protect and save your work data:"
             - OneDrive: 
                 1. Personal files (Desktop, documents, etc.)
