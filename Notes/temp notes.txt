@@ -3,10 +3,10 @@
     # "ARCTIC - Kick off Meeting"
     # INFOTECH-64 "Set up computers for February employyees"
     # INFOTECH-15 "Create policy for document storage"
-        "Політикою нашої компанії передбачено три середовища для збереження ваших робочих даних:"
+        "Our company policy provides for three environments to protect and save your work data:"
             - OneDrive: 
-                1. Personal files (Desktop, documents, etc.) (Збереження особистих робочих файлів)
-                2. Temporary working files (збереження тимчасових робочих файлів)
+                1. Personal files (Desktop, documents, etc.)
+                2. Temporary working files
             - SharePoints:
                 1. Useful files that should be accessible by anyone on the team
                 2. Client folders should contain project-relevant files and documents, images, logos, etc.
@@ -19,37 +19,7 @@
                     "Example: documentation that provides outline, instructions, or step-by-step guides, such as technical instructions for managing a website, CRM, custom code, etc."
                 4. Provide useful information on products or services we use
                 5. Can be useful for documenting difficult steps or troubleshooting
-        
-            Probably OneDrive for “personal” files, and SharePoint for anything that would be of use to others.
-
-        We need to document this in Confluence, and communicate to the team.
-
-        The goal is that if someone’s computer is destroyed, they shouldn’t lose more than the current day’s worth of work.
-
-        OneDrive vs SharePoint vs Confluence
-
-        Create Confluence document that outlines the policy for document storage
-        2-4h
-        Define each use-case for
-        
-        - OneDrive
-            - Personal files (Desktop, documents, etc.)
-            - Temporary working files
-        
-        - SharePoint
-            - Useful files that should be accessible by anyone on the team
-            - Client folders should contain project-relevant files and documents, images, logos, etc.
-            - Brand folder should contain EC-relevant files and documents, images, logos, stationary/letterhead, business cards, RFP docs, etc.
-            - IT folder should contain IT-relevant files and documents.
-        
-        - Confluence
-            - Use to document company, IT, and HR policy
-            - Use to document customer general details
-            - Use to document customer-specific information
-                "Example: documentation that provides outline, instructions, or step-by-step guides, such as technical instructions for managing a website, CRM, custom code, etc."
-            - Provide useful information on products or services we use
-            - Can be useful for documenting difficult steps or troubleshooting
-
+ 
 
 27.01.2023
     # TRAIN-395
