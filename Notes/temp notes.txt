@@ -1,6 +1,11 @@
+30.01.2023
+    INFOTECH-64 "Set up computers for February employyees"
+    INFOTECH-15 "Create policy for document storage"
+
+
 27.01.2023
-    TRAIN-395 "3"
-    !TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
+    TRAIN-395
+    TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
 
     INFOTECH-59 "Spring Meeting for IT" 1h 15m
 
