@@ -1,16 +1,26 @@
 30.01.2023
-    INFOTECH-64 "Set up computers for February employyees"
-    INFOTECH-15 "Create policy for document storage"
-
-
-27.01.2023
-    TRAIN-395
-    TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
-
-    INFOTECH-59 "Spring Meeting for IT" 1h 15m
-
-    INFOTECH-15 "Create policy for document storage"
-        Probably OneDrive for “personal” files, and SharePoint for anything that would be of use to others.
+    # 1h "Quick Review of IT progress"
+    # "ARCTIC - Kick off Meeting"
+    # INFOTECH-64 "Set up computers for February employyees"
+    # INFOTECH-15 "Create policy for document storage"
+        "Політикою нашої компанії передбачено три середовища для збереження ваших робочих даних:"
+            - OneDrive: 
+                1. Personal files (Desktop, documents, etc.) (Збереження особистих робочих файлів)
+                2. Temporary working files (збереження тимчасових робочих файлів)
+            - SharePoints:
+                1. Useful files that should be accessible by anyone on the team
+                2. Client folders should contain project-relevant files and documents, images, logos, etc.
+                3. Brand folder should contain EC-relevant files and documents, images, logos, stationary/letterhead, business cards, RFP docs, etc.
+                4. IT folder should contain IT-relevant files and documents.
+            - Confluence"
+                1. Use to document company, IT, and HR policy
+                2. Use to document customer general details
+                3. Use to document customer-specific information
+                    "Example: documentation that provides outline, instructions, or step-by-step guides, such as technical instructions for managing a website, CRM, custom code, etc."
+                4. Provide useful information on products or services we use
+                5. Can be useful for documenting difficult steps or troubleshooting
+        
+            Probably OneDrive for “personal” files, and SharePoint for anything that would be of use to others.
 
         We need to document this in Confluence, and communicate to the team.
 
@@ -21,24 +31,37 @@
         Create Confluence document that outlines the policy for document storage
         2-4h
         Define each use-case for
-        OneDrive
-        Personal files (Desktop, documents, etc.)
-        Temporary working files
-        SharePoint
-        Useful files that should be accessible by anyone on the team
-        Client folders should contain project-relevant files and documents, images, logos, etc.
-        Brand folder should contain EC-relevant files and documents, images, logos, stationary/letterhead, business cards, RFP docs, etc.
-        IT folder should contain IT-relevant files and documents.
-        Confluence
-        Use to document company, IT, and HR policy
-        Use to document customer general details
-        Use to document customer-specific information
-        Example: documentation that provides outline, instructions, or step-by-step guides, such as technical instructions for managing a website, CRM, custom code, etc.
-        Provide useful information on products or services we use
-        Can be useful for documenting difficult steps or troubleshooting
+        
+        - OneDrive
+            - Personal files (Desktop, documents, etc.)
+            - Temporary working files
+        
+        - SharePoint
+            - Useful files that should be accessible by anyone on the team
+            - Client folders should contain project-relevant files and documents, images, logos, etc.
+            - Brand folder should contain EC-relevant files and documents, images, logos, stationary/letterhead, business cards, RFP docs, etc.
+            - IT folder should contain IT-relevant files and documents.
+        
+        - Confluence
+            - Use to document company, IT, and HR policy
+            - Use to document customer general details
+            - Use to document customer-specific information
+                "Example: documentation that provides outline, instructions, or step-by-step guides, such as technical instructions for managing a website, CRM, custom code, etc."
+            - Provide useful information on products or services we use
+            - Can be useful for documenting difficult steps or troubleshooting
+
+
+27.01.2023
+    # TRAIN-395
+    # TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
+
+    # INFOTECH-59 "Spring Meeting for IT" 1h 15m
+
+    # INFOTECH-15 "Create policy for document storage"
+        Researching
  
 
-    INFOTECH-19 "1329 Building Policies Confluence Page" 1h 30m
+    # INFOTECH-19 "1329 Building Policies Confluence Page" 1h 30m
         Create a Confluence document that describes all 1329 building Policies:
             - 1. First employee in (Перший співробітник прийшов)
                 1.0 'Перед відкриттям дверей впевніться що ви знаєте актуальний пароль відключення сигналізації.'' (Before opening the door, make sure you know the current password for disarming the alarm.)
@@ -59,7 +82,7 @@
                 4.1 'У не робочий час або у час коли у фісі немає нікого - двері завжди повинні бути зачиненими' (During non-working hours or when there is no one in the office - the door must always be closed)
             - 5. Parking (Паркінг)
 
-    Manage SSL Certificates - Check which will finish less than 30 days.
+    # Manage SSL Certificates - Check which will finish less than 30 days.
         LGAQ:
             SSL Expire: February 25, 2023
             Days Until Expiration: 29
@@ -70,7 +93,7 @@
             Client Notified: Yes
 
 26.01.2023
-    Inventory number include:
+    # Inventory number include:
         001 - SK office (Regina)
         002 - ON office
         003 - Home
