@@ -11,7 +11,7 @@
                 3. Notepad ++
                 4. Microsoft Office
     # 1h "Quick Review of IT progress"
-    # "ARCTIC - Kick off Meeting"
+    # 1h 15m Report under Training"ARCTIC - Kick off Meeting"
     # INFOTECH-64 "Set up computers for February employyees"
     # 45m INFOTECH-15 "Create policy for document storage"
         "Our company policy provides for three environments to protect and save your work data:"
