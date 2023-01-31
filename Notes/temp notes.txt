@@ -1,9 +1,10 @@
 31.01.2023
-    # INFOTECH-64 "Set up computers for February employyees"
-    # Meeting "Cyber Security Review"
-    # Upload video "200 - Celebrating..."
-    # UPS - Talk to Nick about purchasing them
-    # FNU/NCCIE - Monthly Maintenance Reports - RECURRING
+    --> # INFOTECH-64 "Set up computers for February employyees"
+    --> In progress # Meeting "Cyber Security Review"
+    --> DONE # Upload video "200 - Celebrating..."
+    --> # UPS - Talk to Nick about purchasing them
+    --> In progress 2h # FNU/NCCIE - Monthly Maintenance Reports - RECURRING
+    --> # LGAQ - remind about SSL, Nick Approved 
 
 30.01.2023
     # 15m INFOTECH-19 "Building Policies Confluence Page" 
