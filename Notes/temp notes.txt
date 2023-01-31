@@ -1,4 +1,13 @@
+31.01.2023
+    # INFOTECH-64 "Set up computers for February employyees"
+    # Meeting "Cyber Security Review"
+    # Upload video "200 - Celebrating..."
+    # UPS - Talk to Nick about purchasing them
+    # FNU/NCCIE - Monthly Maintenance Reports - RECURRING
+
 30.01.2023
+    # 15m INFOTECH-19 "Building Policies Confluence Page" 
+        Updated document based on last meeting feedbacks
     # 4h INFOTECH-18 "Create procedure for new employee onboarding"
         Update document based on Nick's feedback:
             - Make the decision on if we absolutely need UPS on laptops based on cost
@@ -12,8 +21,7 @@
                 4. Microsoft Office
     # 1h "Quick Review of IT progress"
     # 1h 15m Report under Training"ARCTIC - Kick off Meeting"
-    # INFOTECH-64 "Set up computers for February employyees"
-    # 45m INFOTECH-15 "Create policy for document storage"
+    # 1h INFOTECH-15 "Create policy for document storage"
         "Our company policy provides for three environments to protect and save your work data:"
             - OneDrive: 
                 1. Personal files (Desktop, documents, etc.)
