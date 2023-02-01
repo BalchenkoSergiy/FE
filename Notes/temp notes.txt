@@ -1,9 +1,12 @@
 01.02.2023
-    --> Ask password for Coccon in Paul
-    --> HQC - Maintenance is August and February
-    --> Procedure for exiting employee
-    --> AER Meeting - RECURRING
-    --> Video course and reading documentation
+    --> # Ask password for Coccon in Paul
+    --> # HQC - Maintenance is August and February
+    --> 3h # INFOTECH-55 "Procedure for exiting employee"
+        - Researching information about protect information when Employee leave. Best practice from different companies
+        - Intune product
+    --> # AER Meeting - RECURRING
+    --> 1h # Video course and reading documentation
+    --> 30m # Helped new employee
 
 
 31.01.2023
