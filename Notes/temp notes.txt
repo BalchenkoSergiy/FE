@@ -4,7 +4,7 @@
     --> 3h # INFOTECH-55 "Procedure for exiting employee"
         - Researching information about protect information when Employee leave. Best practice from different companies
         - Intune product
-    --> # AER Meeting - RECURRING
+    --> 45m # AER Meeting - RECURRING
     --> 1h # Video course and reading documentation
     --> 30m # Helped new employee
 
