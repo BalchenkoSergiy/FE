@@ -1,7 +1,7 @@
 02.02.2023
     --> DONE 30m # HQC - Maintenance is August and February
     --> DONE 30m # Meeting with Teta to review daily tasks
-    --> # TRAIN-411 "Watching the MS Products Nick speech about evolution"
+    --> DONE 45m # TRAIN-411 "Watching the MS Products Nick speech about evolution"
     --> # INFOTECH-16 "Implement Backup Strategy"
     --> # INFOTECH-7 "Process to create Dataverse Environments"
     --> # Change the confluence document about HQC Maintenance
