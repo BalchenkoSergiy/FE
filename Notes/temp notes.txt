@@ -3,10 +3,12 @@
     --> DONE 30m # Meeting with Teta to review daily tasks
     --> DONE 45m # TRAIN-411 "Watching the MS Products Nick speech about evolution"
     --> # INFOTECH-16 "Implement Backup Strategy"
-    --> IN progress # INFOTECH-7 "Process to create Dataverse Environments"
+    --> DONE 1h 30m # INFOTECH-7 "Process to create Dataverse Environments"
         - Created spreadsheet with information about all our environments
+        - Created document in COnfluence "Process to create Dataverse Environment"
     --> # Change the confluence document about HQC Maintenance
     --> # INFOTECH-6 "Create policy for working on non-EC domain computers"
+    --> In progress 1h # Meeting with Paul
 
 01.02.2023
     --> DONE # Ask password for Coccon in Paul
