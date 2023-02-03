@@ -1,4 +1,5 @@
 02.02.2023
+    --> MY Site: https://balchenkosergiy.github.io/FE-Dev/
     --> DONE 30m # HQC - Maintenance is August and February
     --> DONE 30m # Meeting with Teta to review daily tasks
     --> DONE 45m # TRAIN-411 "Watching the MS Products Nick speech about evolution"
