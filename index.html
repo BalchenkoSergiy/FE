@@ -3,39 +3,33 @@
     <head>
         <meta charset="UTF-8" />
         <title>CV time -0:20:30</title>
-        <link rel="stylesheet" href="styles.css">
+        <link href="styles.css" rel="stylesheet" />
     </head>
     <body">
         <div class="container">
             <div class="info">
                 <img src="https://scontent.fyqr2-1.fna.fbcdn.net/v/t39.30808-6/290551507_565707498606821_8066495193007903584_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=dI_KDJq7gX4AX9WUnuF&_nc_ht=scontent.fyqr2-1.fna&oh=00_AfC72CqAJ0ynIg4ji7RhkSies8G9ksMse_fdqgOrX30HQQ&oe=63D0A402" alt="тут моя фотка" class="avatar" />
-                <h1>Serhii Balchenko</h1>
-                <p>I'm Technician in <strong>Engineered code inc.</strong></p>
-                <p>I like programming and sports</p>
-            </div>
-
-            
-
-            <div class="info">
-                <h2>My social networks</h2>
-                <a href="https://www.instagram.com/balchenko_sergiy/" target="_blank">Instagram</a>
-                    |
-                <a href="https://www.facebook.com/sergiy.balchenko.908" target="_blank">Facebook</a>
-                    |
-                <a target="_blank" href="https://t.me/Sokol_Zero">Telegram</a>
+                <div class="info-text"></div>    
+                    <h1>Serhii Balchenko</h1>
+                    <p>I'm Technician in <strong>Engineered code inc.</strong></p>
+                    <p>I like programming and sports</p>
+                    
+                    <h4>My social networks</h4>
+                    <a href="https://www.instagram.com/balchenko_sergiy/" target="_blank">Instagram</a>
+                        |
+                    <a href="https://www.facebook.com/sergiy.balchenko.908" target="_blank">Facebook</a>
+                </div>
             </div>
 
             
             <div class="card bg-yellow">
                 <h2>My Hobbies</h2>
-                <div class="list">
-                    <ol>
-                        <li>Computer technologies</li>
-                        <li>Sport</li>
-                        <li>Psychology</li>
-                        <li>Djing</li>
-                    </ol>
-                </div>
+                <ol class="list">
+                    <li>Computer technologies</li>
+                    <li>Sport</li>
+                    <li>Psychology</li>
+                    <li>Djing</li>
+                </ol>
             </div>
 
             
@@ -89,14 +83,16 @@
                 <h2>Contact with me:</h2>
 
                 <form action="/">
-                    <div class="form-group">
-                        <label for="name">Your name</label>
-                        <input type="text" id="name" placeholder="Insert your name...">
-                    </div>
+                    <div class="row">
+                        <div class="form-group">
+                            <label for="name">Your name</label>
+                            <input type="text" id="name" placeholder="Insert your name...">
+                        </div>
 
-                    <div class="form-group">
-                        <label for="email">Your email:</label>
-                        <input type="email" id="email" placeholder="Insert email...">
+                        <div class="form-group">
+                            <label for="email">Your email:</label>
+                            <input type="email" id="email" placeholder="Insert email...">
+                        </div>
                     </div>
 
                     <div class="form-group">
@@ -104,13 +100,16 @@
                         <textarea id="text" rows="2" cols="35"></textarea>
                     </div>
 
-                    <input type="submit" value="Connect!">
+                    <input cls="btn" type="submit" value="Connect!">
                 </form>
+            </div>
+            <div class="position">
+                <div class="box"></div>
             </div>
         </div>
         
         <div style="margin-bottom: 500px">
-        
+
         </div>
     </body>
 </html>
