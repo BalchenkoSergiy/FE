@@ -25,6 +25,37 @@
             - Click on the "Upload custom CSS" link and add your custom theme files:
                 "bootstrap-override.min.css" - це файл із темою яку ми створили у першому кроці
                 "custom.css"
+        "Modifying the CSS"
+            - After you have added two CSS files, go into the CRM Portal Management app
+            - Got to 'WEB FILES'
+            - Open 'theme.min.css' and set "Display Order" to 3
+            - Open 'custom.css' and set "Display order" to 4
+            - Go back to the "Portal studio"
+            - Click "Themes"
+            - Open "custom.css" and add any additional CSS you may need to fix display issues on the portal
+            - In the "custom.css" add:
+                @font-face {
+                    font-family: 'Glyphicons Halflings';
+                    src: url("../fonts/glyphicons-halflings-regular.eot");
+                    src: url("../fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+                }
+
+                .dropdown-menu>li>a, html[dir=ltr] li a {
+                    margin-left: 0;
+                }
+
+                .blue_border {
+                    border-bottom: 7px solid #[BRAND PRIMARY COLOUR];
+                }
+
+                .sidebar-home {
+                    border-top: 7px solid #[BRAND PRIMARY COLOUR];
+                }
+        "Інші вимоги"
+            - Під час створення веб-шаблонів для порталу ми додаємо перед їхніми іменами акронім клієнта/проекту (Наприклад EC - Header)
+            - Ми копіюємо Header and Footer із згаданим вище префіксом щоб файли в оригіналі залишались недоторканими
+            - За замовчуванням  портал використовує INVERSE NAVBAR. Тому, якщо ви не хочете це використовувати то після того як зкопіюєте Header вам потрібно відредагувати цей веб шаблон, а саме видалити класс "navbar-inverse" з navbar div.
+            
     --> 45m # Worked on Learn Project                                                   9:00
     --> # Spring meeting for IT
     --> # INFOTECH-16 "Implement Backup Strategy"
