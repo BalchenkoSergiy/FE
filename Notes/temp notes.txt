@@ -1,5 +1,17 @@
 03.02.2023
     --> # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45
+        "Creating Custom Theme"
+        - Add CSS file
+        - Change CSS file depends what you need
+        - Go to "bootstrap-live-customizer.com"
+        - Change Version to 3.3.6
+        - Modify the variables to match the style of the target website
+        - When you are ready to export - click Download
+            "bootstrap.min.css" - Мінімізований файл теми, який містить фреймфорк Bootstrap із кольорами та стилями, які ви надали "bootstrap-live-customizer.com"
+            "bootstrap.css" - Файл теми, який містить фреймфорк Bootstrap із кольорами та стилями, які ви надали "bootstrap-live-customizer.com"
+            "variables.less" - Файл містить усі LESS змінні і відповідний стиль для кожної
+            "theme.less" - Кастомний код LESS застосований після bootstrap's LESS files, може використовувати будь-які змінні та міксини.
+        - Save these files  to a git repository as per company policy "{repo}\src\css"
     --> 45m # Worked on Learn Project                                                   9:00
     --> # Spring meeting for IT
     --> # INFOTECH-16 "Implement Backup Strategy"
