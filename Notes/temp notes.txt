@@ -1,5 +1,6 @@
 03.02.2023
-    --> # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45
+    --> DONE 30m # HQC - Maintenance is August and February
+    --> 1h 30m # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
         "Creating Custom Theme"
             - Add CSS file
             - Change CSS file depends what you need
@@ -55,11 +56,14 @@
             - Під час створення веб-шаблонів для порталу ми додаємо перед їхніми іменами акронім клієнта/проекту (Наприклад EC - Header)
             - Ми копіюємо Header and Footer із згаданим вище префіксом щоб файли в оригіналі залишались недоторканими
             - За замовчуванням  портал використовує INVERSE NAVBAR. Тому, якщо ви не хочете це використовувати то після того як зкопіюєте Header вам потрібно відредагувати цей веб шаблон, а саме видалити класс "navbar-inverse" з navbar div.
-            
-    --> 45m # Worked on Learn Project                                                   9:00
-    --> # Spring meeting for IT
+
+    --> 3h # Worked on Learn Project                                                   
+                RS-59 Custom Layout for Header
+                RS-60 Custom Layout for Footer
+                RS-61 Create Schema file
+    --> 1h # Spring meeting for IT
     --> # INFOTECH-16 "Implement Backup Strategy"
-    --> # INFOTECH-6 "Create policy f:)or working on non-EC domain computers"
+    --> # INFOTECH-6 "Create policy f:) or working on non-EC domain computers"
     --> # Meeting with Paul
     --> 1h # Video course and reading documentation
 
