@@ -1,15 +1,20 @@
+03.02.2023
+    --> # Spring meeting for IT
+    --> # INFOTECH-16 "Implement Backup Strategy"
+    --> # INFOTECH-6 "Create policy for working on non-EC domain computers"
+    --> # Meeting with Paul
+    --> # Video course and reading documentation
+
 02.02.2023
     --> MY Site: https://balchenkosergiy.github.io/FE-Dev/
     --> DONE 30m # HQC - Maintenance is August and February
     --> DONE 30m # Meeting with Teta to review daily tasks
     --> DONE 45m # TRAIN-411 "Watching the MS Products Nick speech about evolution"
-    --> # INFOTECH-16 "Implement Backup Strategy"
     --> DONE 1h 30m # INFOTECH-7 "Process to create Dataverse Environments"
         - Created spreadsheet with information about all our environments
         - Created document in COnfluence "Process to create Dataverse Environment"
     --> # Change the confluence document about HQC Maintenance
-    --> # INFOTECH-6 "Create policy for working on non-EC domain computers"
-    --> In progress 3h # Meeting with Paul
+    --> DONE 3h # Meeting with Paul
     --> DONE 1h 45m # Video course and reading documentation
 
 01.02.2023
