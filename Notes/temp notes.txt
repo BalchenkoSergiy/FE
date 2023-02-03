@@ -1,9 +1,11 @@
 03.02.2023
+    --> # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45
+    --> 45m # Worked on Learn Project                                                   9:00
     --> # Spring meeting for IT
     --> # INFOTECH-16 "Implement Backup Strategy"
-    --> # INFOTECH-6 "Create policy for working on non-EC domain computers"
+    --> # INFOTECH-6 "Create policy f:)or working on non-EC domain computers"
     --> # Meeting with Paul
-    --> # Video course and reading documentation
+    --> 1h # Video course and reading documentation
 
 02.02.2023
     --> MY Site: https://balchenkosergiy.github.io/FE-Dev/
