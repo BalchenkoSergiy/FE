@@ -1,3 +1,13 @@
+06.03.2023
+    --> # Read about Schema File
+    --> # RS-65 "install Portal in Development/Sandbox Environment"
+    --> # RS-62 Deactivate "Out Of Box" (OOB) web file images
+    --> # RS-63 Set up Authentication in Development/Sandbox Environment
+    --> # RS-64 Set up Authentication in Production Environment
+    --> # MEETING "Fill out Cyber Secuirity Questionnaire"
+    --> # MEETING "Review Meeting for Cyber Security"
+
+
 03.02.2023
     --> DONE 30m # HQC - Maintenance is August and February
     --> DONE 1h 30m # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
