@@ -1,11 +1,13 @@
 06.03.2023
     -->             # Read about Schema File
-    -->     2h 30m  # RS-65 "install Portal in Development/Sandbox Environment"
-    -->     45m     # RS-62 Deactivate "Out Of Box" (OOB) web file images
-    -->     30m     # RS-63 Set up Authentication in Development/Sandbox Environment
-    -->     30m     # RS-64 Set up Authentication in Production Environment
-    -->     45m     # MEETING "Fill out Cyber Secuirity Questionnaire"
-    -->     3h      # RS-76 "Add Customer to SSL Certificate Page"
+    -->  DONE   45m  # RS-65 "install Portal in Development/Sandbox Environment"
+    -->  DONE   45m     # RS-62 Deactivate "Out Of Box" (OOB) web file images
+    -->  DONE   30m     # RS-63 Set up Authentication in Development/Sandbox Environment
+    -->  DONE   30m     # RS-64 Set up Authentication in Production Environment
+    -->  DONE   45m     # MEETING "Fill out Cyber Secuirity Questionnaire"
+    -->  DONE   3h 30m  # RS-76 "Add Customer to SSL Certificate Page"
+    -->  DONE   15m     # RS-73 "Uptime Robot"
+    -->     
     TOTAL:  8h
 
 03.02.2023
