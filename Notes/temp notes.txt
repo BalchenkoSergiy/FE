@@ -2,8 +2,8 @@
     --> # Read about Schema File
     --> 1h 30m # RS-65 "install Portal in Development/Sandbox Environment"
     --> 45m # RS-62 Deactivate "Out Of Box" (OOB) web file images
-    --> # RS-63 Set up Authentication in Development/Sandbox Environment
-    --> # RS-64 Set up Authentication in Production Environment
+    --> 1h # RS-63 Set up Authentication in Development/Sandbox Environment
+    --> 1h # RS-64 Set up Authentication in Production Environment
     --> 45m # MEETING "Fill out Cyber Secuirity Questionnaire"
 
 
