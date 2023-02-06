@@ -1,6 +1,6 @@
 03.02.2023
     --> DONE 30m # HQC - Maintenance is August and February
-    --> 1h 30m # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
+    --> DONE 1h 30m # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
         "Creating Custom Theme"
             - Add CSS file
             - Change CSS file depends what you need
@@ -58,10 +58,13 @@
             - За замовчуванням  портал використовує INVERSE NAVBAR. Тому, якщо ви не хочете це використовувати то після того як зкопіюєте Header вам потрібно відредагувати цей веб шаблон, а саме видалити класс "navbar-inverse" з navbar div.
 
     --> 3h # Worked on Learn Project                                                   
-                RS-59 Custom Layout for Header
-                RS-60 Custom Layout for Footer
-                RS-61 Create Schema file
-    --> 1h # Spring meeting for IT
+                - RS-59 Custom Layout for Header
+                - RS-60 Custom Layout for Footer
+                    "Portal Management app --> Web Templates --> Footer"
+                    "That is a HTML/Liquid code responsible to render the footer, you can make your changes there make sure to save a copy of the OOB code before applying your changes 
+                        1just in case you need to rollback"
+                - RS-61 Create Schema file
+    --> 1h DONE # Spring meeting for IT
     --> # INFOTECH-16 "Implement Backup Strategy"
     --> # INFOTECH-6 "Create policy f:) or working on non-EC domain computers"
     --> # Meeting with Paul
