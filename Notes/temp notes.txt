@@ -1,4 +1,13 @@
-06.03.2023
+07.02.2023
+    --> # RS-74 "Script checker"
+    --> # RS-71 "Add site to search indexes"
+    --> # RS-72 "Portal Registration"
+    --> # RS-75 "Don't Block Robots"
+    --> # MEETING "Review of some IT outstanding items"
+    --> # MEETING "ElectionsSK Azure Migration"
+    --> # Upload video
+
+06.02.2023
     -->             # Read about Schema File
     -->  DONE   45m  # RS-65 "install Portal in Development/Sandbox Environment"
     -->  DONE   45m     # RS-62 Deactivate "Out Of Box" (OOB) web file images
