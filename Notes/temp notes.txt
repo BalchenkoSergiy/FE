@@ -4,6 +4,7 @@
     --> 45m # Meeting "Kick Off Meeting for Patagoniz Project"
     --> 30m # Schedule Tip #202
     --> DONE 30m # RS-74 "Script checker"
+    --> DONE 45m # RS-72 "Portal Registration"
 
 07.02.2023
     --> 5h 15m  # TRAIN-414 "ElectionsSK Azure Migration"
