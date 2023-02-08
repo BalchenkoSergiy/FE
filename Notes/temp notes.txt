@@ -1,36 +1,35 @@
 08.02.2023
-    --> 2h 30m      # Fixing errors while I want create backup Database
-    --> 1h          # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
-    --> DONE 45m    # Meeting "Kick Off Meeting for Patagoniz Project"
-    --> DONE 30m    # Schedule Tip #202
-    --> DONE 30m    # RS-74 "Script checker"
-    --> DONE 45m    # RS-72 "Portal Registration"
-    --> 30m         # RS-71 "Add site to search indexes"
-    --> 30m         # RS-70 "Google analytics validation"
-    --> 1h          # RS-75 "Don't Block Robots"
-    TOTAL:  8h
+    --> 2h 30m          # Fixing errors while I want create backup Database
+    --> 1h              # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
+    --> DONE 45m        # Meeting "Kick Off Meeting for Patagoniz Project"
+    --> DONE 30m        # Schedule Tip #202
+    --> DONE 30m        # RS-74 "Script checker"
+    --> DONE 45m        # RS-72 "Portal Registration"
+    --> 30m             # RS-71 "Add site to search indexes"
+    --> 30m             # RS-70 "Google analytics validation"
+    --> 1h              # RS-75 "Don't Block Robots"
+    TOTAL:  8h  
 
-07.02.2023
-    --> 5h 15m  # TRAIN-414 "ElectionsSK Azure Migration"
-    --> 45m     # MEETING "Review of some IT outstanding items"
-    --> 2h      # MEETING "ElectionsSK Azure Migration"
+07.02.2023  
+    --> 5h 15m          # TRAIN-414 "ElectionsSK Azure Migration"
+    --> 45m             # MEETING "Review of some IT outstanding items"
+    --> 2h              # MEETING "ElectionsSK Azure Migration"
     TOTAL:  8h
 
 06.02.2023
-    -->             # Read about Schema File
-    -->  DONE   45m  # RS-65 "install Portal in Development/Sandbox Environment"
-    -->  DONE   45m     # RS-62 Deactivate "Out Of Box" (OOB) web file images
-    -->  DONE   30m     # RS-63 Set up Authentication in Development/Sandbox Environment
-    -->  DONE   30m     # RS-64 Set up Authentication in Production Environment
-    -->  DONE   45m     # MEETING "Fill out Cyber Secuirity Questionnaire"
-    -->  DONE   3h 30m  # RS-76 "Add Customer to SSL Certificate Page"
-    -->  DONE   15m     # RS-73 "Uptime Robot"
-    -->     
+    -->                 # Read about Schema File
+    -->  DONE 45m       # RS-65 "install Portal in Development/Sandbox Environment"
+    -->  DONE 45m       # RS-62 Deactivate "Out Of Box" (OOB) web file images
+    -->  DONE 30m       # RS-63 Set up Authentication in Development/Sandbox Environment
+    -->  DONE 30m       # RS-64 Set up Authentication in Production Environment
+    -->  DONE 45m       # MEETING "Fill out Cyber Secuirity Questionnaire"
+    -->  DONE 3h 30m    # RS-76 "Add Customer to SSL Certificate Page"
+    -->  DONE 15m       # RS-73 "Uptime Robot"
     TOTAL:  8h
 
 03.02.2023
-    --> DONE 30m # HQC - Maintenance is August and February
-    --> DONE 1h 30m # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
+    --> DONE 30m        # HQC - Maintenance is August and February
+    --> DONE 1h 30m     # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
         "Creating Custom Theme"
             - Add CSS file
             - Change CSS file depends what you need
@@ -87,53 +86,53 @@
             - Ми копіюємо Header and Footer із згаданим вище префіксом щоб файли в оригіналі залишались недоторканими
             - За замовчуванням  портал використовує INVERSE NAVBAR. Тому, якщо ви не хочете це використовувати то після того як зкопіюєте Header вам потрібно відредагувати цей веб шаблон, а саме видалити класс "navbar-inverse" з navbar div.
 
-    --> 3h # Worked on Learn Project                                                   
+    --> 3h DONE         # Worked on Learn Project                                                   
                 - RS-59 Custom Layout for Header
                 - RS-60 Custom Layout for Footer
                     "Portal Management app --> Web Templates --> Footer"
                     "That is a HTML/Liquid code responsible to render the footer, you can make your changes there make sure to save a copy of the OOB code before applying your changes 
                         1just in case you need to rollback"
                 - RS-61 Create Schema file
-    --> 1h DONE # Spring meeting for IT
-    --> # INFOTECH-16 "Implement Backup Strategy"
-    --> # INFOTECH-6 "Create policy f:) or working on non-EC domain computers"
-    --> # Meeting with Paul
-    --> 1h # Video course and reading documentation
+    --> 1h DONE         # Spring meeting for IT
+    -->                 # INFOTECH-16 "Implement Backup Strategy"
+    -->                 # INFOTECH-6 "Create policy f:) or working on non-EC domain computers"
+    -->                 # Meeting with Paul
+    --> 1h DONE         # Video course and reading documentation
 
 02.02.2023
     --> MY Site: https://balchenkosergiy.github.io/FE-Dev/
-    --> DONE 30m # HQC - Maintenance is August and February
-    --> DONE 30m # Meeting with Teta to review daily tasks
-    --> DONE 45m # TRAIN-411 "Watching the MS Products Nick speech about evolution"
-    --> DONE 1h 30m # INFOTECH-7 "Process to create Dataverse Environments"
+    --> DONE 30m        # HQC - Maintenance is August and February
+    --> DONE 30m        # Meeting with Teta to review daily tasks
+    --> DONE 45m        # TRAIN-411 "Watching the MS Products Nick speech about evolution"
+    --> DONE 1h 30m     # INFOTECH-7 "Process to create Dataverse Environments"
         - Created spreadsheet with information about all our environments
         - Created document in COnfluence "Process to create Dataverse Environment"
-    --> # Change the confluence document about HQC Maintenance
-    --> DONE 3h # Meeting with Paul
-    --> DONE 1h 45m # Video course and reading documentation
+    -->                 # Change the confluence document about HQC Maintenance
+    --> DONE 3h         # Meeting with Paul
+    --> DONE 1h 45m     # Video course and reading documentation
 
 01.02.2023
-    --> DONE # Ask password for Coccon in Paul
-    --> DONE 3h # INFOTECH-55 "Procedure for exiting employee"
+    --> DONE            # Ask password for Coccon in Paul
+    --> DONE 3h         # INFOTECH-55 "Procedure for exiting employee"
         - Researching information about protect information when Employee leave and he worked remotely. Best practice from different companies
         - Intune product
-    --> DONE 45m # AER Meeting - RECURRING
-    --> DONE 3h 45m # Video course and reading documentation
-    --> DONE 30m # Helped new employee
+    --> DONE 45m        # AER Meeting - RECURRING
+    --> DONE 3h 45m     # Video course and reading documentation
+    --> DONE 30m        # Helped new employee
 
 
 31.01.2023
-    --> DONE 3h 45m # INFOTECH-64 "Set up computers for February employyees"
-    --> DONE 45m # Meeting "Cyber Security Review"
-    --> DONE # Upload video "200 - Celebrating..."
-    --> DONE # UPS - Talk to Nick about purchasing them
-    --> DONE 3h 30m # FNU/NCCIE - Monthly Maintenance Reports - RECURRING
-    --> DONE # LGAQ - remind about SSL, Nick Approved 
+    --> DONE 3h 45m     # INFOTECH-64 "Set up computers for February employyees"
+    --> DONE 45m        # Meeting "Cyber Security Review"
+    --> DONE            # Upload video "200 - Celebrating..."
+    --> DONE            # UPS - Talk to Nick about purchasing them
+    --> DONE 3h 30m     # FNU/NCCIE - Monthly Maintenance Reports - RECURRING
+    --> DONE            # LGAQ - remind about SSL, Nick Approved 
 
 30.01.2023
-    # 15m INFOTECH-19 "Building Policies Confluence Page" 
+    --> DONE            # 15m INFOTECH-19 "Building Policies Confluence Page" 
         Updated document based on last meeting feedbacks
-    # 4h INFOTECH-18 "Create procedure for new employee onboarding"
+    --> DONE            # 4h INFOTECH-18 "Create procedure for new employee onboarding"
         Update document based on Nick's feedback:
             - Make the decision on if we absolutely need UPS on laptops based on cost
                 1. https://www.amazon.ca/CyberPower-EC850LCD-Ecologic-Outlets-Compact/dp/B00DBAA696/ref=sr_1_2_sspa?crid=ZGBBBYKSCTWB&keywords=CyberPower%2BEC850LCD&qid=1675110551&sprefix=cyberpower%2Bec850lcd%2Caps%2C392&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQkpBWkNRRklVNzVaJmVuY3J5cHRlZElkPUEwNjY4MTkwTExBOTA3VUVCSk5FJmVuY3J5cHRlZEFkSWQ9QTA0MTE5NTExOUFUTTlJUkRXRzBZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
@@ -144,9 +143,9 @@
                 2. Additional browsers: Chrome, Firefox
                 3. Notepad ++
                 4. Microsoft Office
-    # 1h "Quick Review of IT progress"
-    # 1h 15m Report under Training"ARCTIC - Kick off Meeting"
-    # 1h INFOTECH-15 "Create policy for document storage"
+    --> DONE            # 1h "Quick Review of IT progress"
+    --> DONE            # 1h 15m Report under Training"ARCTIC - Kick off Meeting"
+    --> DONE            # 1h INFOTECH-15 "Create policy for document storage"
         "Our company policy provides for three environments to protect and save your work data:"
             - OneDrive: 
                 1. Personal files (Desktop, documents, etc.)
@@ -166,16 +165,16 @@
  
 
 27.01.2023
-    # TRAIN-395
-    # TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
+    --> DONE            # TRAIN-395
+    --> DONE            # TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
 
-    # INFOTECH-59 "Spring Meeting for IT" 1h 15m
+    --> DONE            # INFOTECH-59 "Spring Meeting for IT" 1h 15m
 
-    # INFOTECH-15 "Create policy for document storage"
+    --> DONE            # INFOTECH-15 "Create policy for document storage"
         Researching
  
 
-    # INFOTECH-19 "1329 Building Policies Confluence Page" 1h 30m
+    --> DONE            # INFOTECH-19 "1329 Building Policies Confluence Page" 1h 30m
         Create a Confluence document that describes all 1329 building Policies:
             - 1. First employee in (Перший співробітник прийшов)
                 1.0 'Перед відкриттям дверей впевніться що ви знаєте актуальний пароль відключення сигналізації.'' (Before opening the door, make sure you know the current password for disarming the alarm.)
@@ -196,7 +195,7 @@
                 4.1 'У не робочий час або у час коли у фісі немає нікого - двері завжди повинні бути зачиненими' (During non-working hours or when there is no one in the office - the door must always be closed)
             - 5. Parking (Паркінг)
 
-    # Manage SSL Certificates - Check which will finish less than 30 days.
+    --> DONE            # Manage SSL Certificates - Check which will finish less than 30 days.
         LGAQ:
             SSL Expire: February 25, 2023
             Days Until Expiration: 29
@@ -207,7 +206,7 @@
             Client Notified: Yes
 
 26.01.2023
-    # Inventory number include:
+    --> DONE            # Inventory number include:
         001 - SK office (Regina)
         002 - ON office
         003 - Home
