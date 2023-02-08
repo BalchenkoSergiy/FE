@@ -1,11 +1,8 @@
 07.02.2023
-    --> # RS-74 "Script checker"
-    --> # RS-71 "Add site to search indexes"
-    --> # RS-72 "Portal Registration"
-    --> # RS-75 "Don't Block Robots"
-    --> # MEETING "Review of some IT outstanding items"
-    --> # MEETING "ElectionsSK Azure Migration"
-    --> # Upload video
+    --> 5h 15m  # TRAIN-414 "ElectionsSK Azure Migration"
+    --> 45m     # MEETING "Review of some IT outstanding items"
+    --> 2h      # MEETING "ElectionsSK Azure Migration"
+    TOTAL:  8h
 
 06.02.2023
     -->             # Read about Schema File
