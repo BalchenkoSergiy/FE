@@ -1,10 +1,14 @@
 08.02.2023
-    --> 2h 30m # Fixing errors while I want create backup Database
-    --> 1h # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
-    --> 45m # Meeting "Kick Off Meeting for Patagoniz Project"
-    --> 30m # Schedule Tip #202
-    --> DONE 30m # RS-74 "Script checker"
-    --> DONE 45m # RS-72 "Portal Registration"
+    --> 2h 30m      # Fixing errors while I want create backup Database
+    --> 1h          # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
+    --> DONE 45m    # Meeting "Kick Off Meeting for Patagoniz Project"
+    --> DONE 30m    # Schedule Tip #202
+    --> DONE 30m    # RS-74 "Script checker"
+    --> DONE 45m    # RS-72 "Portal Registration"
+    --> 30m         # RS-71 "Add site to search indexes"
+    --> 30m         # RS-70 "Google analytics validation"
+    --> 1h          # RS-75 "Don't Block Robots"
+    TOTAL:  8h
 
 07.02.2023
     --> 5h 15m  # TRAIN-414 "ElectionsSK Azure Migration"
