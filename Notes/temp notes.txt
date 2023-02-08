@@ -1,6 +1,6 @@
 08.02.2023
     --> # Fixing errors while I want create backup Database
-    --> # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
+    --> 30m # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
     --> # Meeting "Kick Off Meeting for Patagoniz Project"
     --> # Schedule Tip #202
 
