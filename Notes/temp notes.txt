@@ -2,8 +2,8 @@
     --> 2h 30m # Fixing errors while I want create backup Database
     --> 1h # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
     --> # Meeting "Kick Off Meeting for Patagoniz Project"
-    --> # Schedule Tip #202
-    --> 30m # RS-74 "Script checker"
+    --> 30m # Schedule Tip #202
+    --> DONE 30m # RS-74 "Script checker"
 
 07.02.2023
     --> 5h 15m  # TRAIN-414 "ElectionsSK Azure Migration"
