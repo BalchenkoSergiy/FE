@@ -4,6 +4,18 @@
 
     --> Time: "0h 00m";     Status: ""
         Description: "RS-66 Install Portal in prodaction Environment"
+            a. Provision a new portal in your target environment. Use the same portal template as you provisioned on your source environment. 
+                For example, if you provisioned the Dynamics 365 Customer Self-Service portal on your source environment, provision the 
+                Dynamics 365 Customer Self-Service portal on your target environment.
+            b. On the target environment, using the Portal Management app, delete the newly created website record. This will remove the 
+                default portal configuration data from the target environment.
+            c. On the target environment, delete the portal app. This will remove the portal app currently configured to render 
+                the default portal.
+            d. Transfer the portal metadata from the source environment using the Power Platform CLI or the Configuration Migration Tool.
+            e. On the target environment, provision a new portal using the existing portal website option. This process will configure 
+                a portal using the portal configuration you transferred from the source environment.
+            f. The portal updates from the source environment should be reflected in this new target environment. Going forward, you should 
+                be able to transfer configuration from your source to target environments by transferring the portal configuration data.
 
     --> Time: "0h 00m";     Status: ""
         Description: "RS-69 Set Up custom domain in production"
@@ -16,7 +28,7 @@
 
     --> Time: "0h 00m";     Status: ""
         Description: "RS-77 Project management"
-        
+
     --> Time: "0h 00m";     Status: ""
         Description: "RS-78 Code Assistance"
 
