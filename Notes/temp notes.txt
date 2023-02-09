@@ -2,7 +2,7 @@
     --> Time: "0h 00m";     Status: ""
         Description: "Meeting EC Learning"
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 00m";     Status: "DONE"
         Description: "RS-66 Install Portal in prodaction Environment"
             a. Provision a new portal in your target environment. Use the same portal template as you provisioned on your source environment. 
                 For example, if you provisioned the Dynamics 365 Customer Self-Service portal on your source environment, provision the 
@@ -17,7 +17,7 @@
             f. The portal updates from the source environment should be reflected in this new target environment. Going forward, you should 
                 be able to transfer configuration from your source to target environments by transferring the portal configuration data.
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 30m";     Status: "DONE"
         Description: "RS-69 Set Up custom domain in production"
 
     --> Time: "0h 00m";     Status: ""
@@ -31,8 +31,11 @@
 
     --> Time: "0h 00m";     Status: ""
         Description: "RS-78 Code Assistance"
+        
+    --> Time: "1h 00m";     Status: "DONE"
+        Description: "Meeting - Engineered Code and Matt - CyberSecurity"
 
-    TOTAL:  0h
+    TOTAL:  2h 30m
 
 08.02.2023
     --> 2h              # Fixing errors while I want create backup Database
