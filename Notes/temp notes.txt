@@ -23,14 +23,14 @@
     --> Time: "2h 00m";     Status: "DONE"
         Description: "RS-67 Move to production"
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 30m";     Status: "DONE"
         Description: "RS-68 Run Report - Portal checker after every project is complete and gone live"
 
     --> Time: "0h 00m";     Status: ""
-        Description: "RS-77 Project management"
+        Description: ""
 
     --> Time: "0h 00m";     Status: ""
-        Description: "RS-78 Code Assistance"
+        Description: ""
         
     --> Time: "1h 00m";     Status: "DONE"
         Description: "Meeting - Engineered Code and Matt - CyberSecurity"
