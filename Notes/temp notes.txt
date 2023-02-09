@@ -1,5 +1,29 @@
+09.02.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting EC Learning"
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "RS-66 Install Portal in prodaction Environment"
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "RS-69 Set Up custom domain in production"
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "RS-67 Move to production"
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "RS-68 Run Report - Portal checker after every project is complete and gone live"
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "RS-77 Project management"
+        
+    --> Time: "0h 00m";     Status: ""
+        Description: "RS-78 Code Assistance"
+
+    TOTAL:  0h
+
 08.02.2023
-    --> 2h          # Fixing errors while I want create backup Database
+    --> 2h              # Fixing errors while I want create backup Database
     --> 1h              # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
     --> DONE 45m        # Meeting "Kick Off Meeting for Patagoniz Project"
     --> DONE 30m        # Schedule Tip #202
