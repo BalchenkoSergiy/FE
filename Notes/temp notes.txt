@@ -1,5 +1,5 @@
 09.02.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 30m";     Status: "DONE"
         Description: "Meeting EC Learning"
 
     --> Time: "1h 00m";     Status: "DONE"
@@ -26,8 +26,8 @@
     --> Time: "0h 30m";     Status: "DONE"
         Description: "RS-68 Run Report - Portal checker after every project is complete and gone live"
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "1h 30m";     Status: "DONE"
+        Description: "Move www test database Nick task for EleksionSK"
 
     --> Time: "0h 00m";     Status: ""
         Description: ""
@@ -35,7 +35,7 @@
     --> Time: "1h 00m";     Status: "DONE"
         Description: "Meeting - Engineered Code and Matt - CyberSecurity"
 
-    TOTAL:  4h 30m
+    TOTAL:  5h 30m
 
 08.02.2023
     --> 2h              # Fixing errors while I want create backup Database
