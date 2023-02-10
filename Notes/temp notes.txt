@@ -2,28 +2,36 @@
     --> Time: "1h 00m";     Status: "DONE"
         Description: "ESKUP-123 Move www test database Nick task for EleksionSK"
 
-    --> Time: "2h 00m";     Status: "DONE"
+    --> Time: "3h 00m";     Status: "DONE"
         Description: "Studying GIT, Onboarding with Jacob"
+            - Fetch
+            - Pull
+            - Branch (sbalchenko/<task>)
+            - Make your changes
+            - Add to stage
+            - Commit
+            - Create pull request
+            - Squash commit
+
+    --> Time: "0h 30m";     Status: "IN Review"
+        Description: "TRAIN-419 Meeting AER B2C Config"
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Spring meeting for IT"
 
     --> Time: "0h 00m";     Status: ""
-        Description: ""
+        Description: "INFOTECH-19"
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "1h 00m";     Status: ""
+        Description: "TRAIN-421 Meeting Backlog Refinement and Sprint for Patagonia"
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "1h 30m";     Status: "DONE"
+        Description: "Update Application Insight Instrumentation Key for esk-results-prod"
         
     --> Time: "0h 00m";     Status: ""
         Description: ""
 
-    TOTAL:  3h 00m
+    TOTAL:  8h 00m
 
 
 09.02.2023
