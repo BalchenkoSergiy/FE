@@ -1,9 +1,9 @@
 10.02.2023
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "1h 00m";     Status: "DONE"
+        Description: "ESKUP-123 Move www test database Nick task for EleksionSK"
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "2h 00m";     Status: "DONE"
+        Description: "Studying GIT, Onboarding with Jacob"
 
     --> Time: "0h 00m";     Status: ""
         Description: ""
@@ -23,7 +23,7 @@
     --> Time: "0h 00m";     Status: ""
         Description: ""
 
-    TOTAL:  0h 00m
+    TOTAL:  3h 00m
 
 
 09.02.2023
