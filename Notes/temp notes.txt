@@ -3,7 +3,7 @@
         Description: "Meeting EC Learning"
 
     --> Time: "1h 00m";     Status: "DONE"
-        Description: "RS-66 Install Portal in prodaction Environment"
+        # Description: "RS-66 Install Portal in prodaction Environment"
             a. Provision a new portal in your target environment. Use the same portal template as you provisioned on your source environment. 
                 For example, if you provisioned the Dynamics 365 Customer Self-Service portal on your source environment, provision the 
                 Dynamics 365 Customer Self-Service portal on your target environment.
@@ -18,16 +18,16 @@
                 be able to transfer configuration from your source to target environments by transferring the portal configuration data.
 
     --> Time: "0h 30m";     Status: "DONE"
-        Description: "RS-69 Set Up custom domain in production"
+        # Description: "RS-69 Set Up custom domain in production"
 
     --> Time: "2h 00m";     Status: "DONE"
-        Description: "RS-67 Move to production"
+        # Description: "RS-67 Move to production"
 
     --> Time: "0h 30m";     Status: "DONE"
-        Description: "RS-68 Run Report - Portal checker after every project is complete and gone live"
+        # Description: "RS-68 Run Report - Portal checker after every project is complete and gone live"
 
     --> Time: "1h 30m";     Status: "DONE"
-        Description: "Move www test database Nick task for EleksionSK"
+        # Description: "Move www test database Nick task for EleksionSK"
 
     --> Time: "0h 00m";     Status: ""
         Description: ""
