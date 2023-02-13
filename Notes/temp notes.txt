@@ -2,8 +2,8 @@
     --> Time: "1h 00m";     Status: ""
     Description: "Try to fix problem, Work on ElectionsSK Azure Migration"
     
-    --> Time: "0h 00m";     Status: ""
-    Description: ""
+    --> Time: "1h 00m";     Status: ""
+    Description: "ESKSUP-125 Created resources for esk-www.prod and scbc-www-prod"
     
     --> Time: "0h 00m";     Status: ""
     Description: ""
