@@ -8,7 +8,7 @@
     --> Time: "0h 45m";     Status: ""
     Description: "Meeting - Kick-Off Meeting for LMS (EC-Learn) - as Teta was not last meeting"
     
-    --> Time: "0h 30m";     Status: ""
+    --> Time: "1h 30m";     Status: ""
     Description: "Onboarding with Paul"
     
     --> Time: "0h 15m";     Status: ""
@@ -17,11 +17,11 @@
     --> Time: "1h 00m";     Status: ""
     Description: "INFOTECH-6 Create policy for working on non-EC domain computers"
     
-    --> Time: "0h 00m";     Status: ""
-    Description: ""
+    --> Time: "1h 00m";     Status: ""
+    Description: "Monthly Meeting for Staff"
     
-    --> Time: "0h 00m";     Status: ""
-    Description: ""
+    --> Time: "1h 00m";     Status: ""
+    Description: "Kick-Off Meeting with Leasepath"
 
 10.02.2023
     --> Time: "1h 00m";     Status: "DONE"
