@@ -1,3 +1,28 @@
+13.02.2023
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+
 10.02.2023
     --> Time: "1h 00m";     Status: "DONE"
         Description: "ESKUP-123 Move www test database Nick task for EleksionSK"
@@ -14,22 +39,16 @@
             - Squash commit
 
     --> Time: "0h 30m";     Status: "IN Review"
-        Description: "TRAIN-419 Meeting AER B2C Config"
+        # Description: "TRAIN-419 Meeting AER B2C Config"
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Spring meeting for IT"
-
-    --> Time: "0h 00m";     Status: ""
-        Description: "INFOTECH-19"
+        Description: "Infotech-77 Spring meeting for IT"
 
     --> Time: "1h 00m";     Status: ""
-        Description: "TRAIN-421 Meeting Backlog Refinement and Sprint for Patagonia"
+        # Description: "TRAIN-421 Meeting Backlog Refinement and Sprint for Patagonia"
 
     --> Time: "1h 30m";     Status: "DONE"
-        Description: "Update Application Insight Instrumentation Key for esk-results-prod"
-        
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+        # Description: "Update Application Insight Instrumentation Key for esk-results-prod"
 
     TOTAL:  8h 00m
 
