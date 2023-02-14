@@ -1,21 +1,27 @@
 14.02.2023
-    --> Time: "0h 00m";     Status: ""
-    Description: ""
+    --> Time: "0h 15m";     Status: "DONE"
+    Description: "Morning Meeting with Teta";
+    Task: HR-184
 
     --> Time: "0h 00m";     Status: ""
-    Description: ""
+    Description: "Question about UPS for employee"
+    Task: INFOTECH-18
     
     --> Time: "0h 00m";     Status: ""
-    Description: ""
+    Description: "Meeting regarding Learning Management System (EC Learn)"
+    Task: TRAIN-417
     
     --> Time: "0h 00m";     Status: ""
-    Description: ""
+    Description: "Review Elections SK Azure Migrations Project"
+    Task: ???
     
     --> Time: "0h 00m";     Status: ""
-    Description: ""
+    Description: "Research for Policy for working on non-EC domain computers"
+    Task: INFOTECH-6
     
     --> Time: "0h 00m";     Status: ""
-    Description: ""
+    Description: "Research how to move storage account"
+    Task: ESKUP-126
     
     --> Time: "0h 00m";     Status: ""
     Description: ""
@@ -28,7 +34,7 @@
 
 
 13.02.2023
-    --> !!!! Time: "2h 00m";     Status: ""
+    --> Time: "2h 00m";     Status: ""
     Description: "INFOTECH-65 Video Course (Work with Forms and multistep forms in Power Pages Site. Insert/Edit/View Data)"
 
     --> Time: "1h 00m";     Status: ""
