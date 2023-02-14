@@ -1,27 +1,30 @@
 13.02.2023
+    --> !!!! Time: "2h 00m";     Status: ""
+    Description: "INFOTECH-65 Video Course"
+
     --> Time: "1h 00m";     Status: ""
     Description: "Try to fix problem, Work on ElectionsSK Azure Migration"
     
-    --> Time: "1h 30m";     Status: ""
+    --> Time: "1h 00m";     Status: ""
     Description: "ESKSUP-125 Created resources for esk-www.prod and scbc-www-prod"
     
     --> Time: "0h 45m";     Status: ""
-    Description: "Meeting - Kick-Off Meeting for LMS (EC-Learn) - as Teta was not last meeting"
+    # Description: "Meeting - Kick-Off Meeting for LMS (EC-Learn) - as Teta was not last meeting"
     
     --> Time: "1h 30m";     Status: ""
-    Description: "Onboarding with Paul"
+    # Description: "PAT with Paul"
     
     --> Time: "0h 15m";     Status: ""
-    Description: "Meeting - Remote Support Session: Contractor Onboarding"
+    # Description: "Meeting - Remote Support Session: Contractor Onboarding"
     
-    --> Time: "1h 00m";     Status: ""
-    Description: "INFOTECH-6 Create policy for working on non-EC domain computers"
+    --> Time: "1h 30m";     Status: ""
+    # Description: "INFOTECH-6 Create policy for working on non-EC domain computers"
     
-    --> Time: "1h 00m";     Status: ""
-    Description: "Monthly Meeting for Staff"
+    --> Time: "1h 00m";     Status: "DONE"
+    # Description: "Monthly Meeting for Staff"
     
-    --> Time: "1h 00m";     Status: ""
-    Description: "Kick-Off Meeting with Leasepath"
+    --> Time: "0h 30m";     Status: ""
+    # Description: "Kick-Off Meeting with Leasepath"
 
 10.02.2023
     --> Time: "1h 00m";     Status: "DONE"
