@@ -19,9 +19,9 @@
     Description: "Research for Policy for working on non-EC domain computers"
     Task: INFOTECH-6
     
-    --> Time: "1h 00m";     Status: ""
-    Description: "Research how to move storage account"
-    Task: ESKUP-126
+    --> Time: "2h 00m";     Status: ""
+    # Description: "Research how to move storage account" https://youtu.be/hJKQG-nCFpE
+    # Task: ESKUP-126
     
     --> Time: "1h 00m";     Status: ""
     Description: "Redo few things for ElectionsSK"
