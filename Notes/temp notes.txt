@@ -23,12 +23,13 @@
     Description: "Research how to move storage account"
     Task: ESKUP-126
     
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 00m";     Status: ""
     Description: "Redo few things for ElectionsSK"
     Task: ???
     
-    --> Time: "0h 00m";     Status: ""
-    Description: ""
+    --> Time: "2h 00m";     Status: ""
+    Description: "Update Application Insight Instrumentation Key for esk-results-prod"
+    Task: ESKSUP-124
     
     --> Time: "0h 00m";     Status: ""
     Description: ""
