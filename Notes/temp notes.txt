@@ -1,17 +1,17 @@
 14.02.2023
     --> Time: "0h 15m";     Status: "DONE"
-    Description: "Morning Meeting with Teta";
-    Task: HR-184
+    # Description: "Morning Meeting with Teta";
+    # Task: HR-184
 
     --> Time: "0h 00m";     Status: ""
     Description: "Question about UPS for employee"
     Task: INFOTECH-18
     
-    --> Time: "0h 00m";     Status: ""
-    Description: "Meeting regarding Learning Management System (EC Learn)"
-    Task: TRAIN-417
+    --> Time: "0h 30m";     Status: "DONE"
+    # Description: "Meeting regarding Learning Management System (EC Learn)"
+    # Task: TRAIN-417
     
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 00m";     Status: "DONE"
     Description: "Review Elections SK Azure Migrations Project"
     Task: ???
     
@@ -19,12 +19,13 @@
     Description: "Research for Policy for working on non-EC domain computers"
     Task: INFOTECH-6
     
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 00m";     Status: ""
     Description: "Research how to move storage account"
     Task: ESKUP-126
     
     --> Time: "0h 00m";     Status: ""
-    Description: ""
+    Description: "Redo few things for ElectionsSK"
+    Task: ???
     
     --> Time: "0h 00m";     Status: ""
     Description: ""
