@@ -1,6 +1,35 @@
+14.02.2023
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+    
+    --> Time: "0h 00m";     Status: ""
+    Description: ""
+
+
 13.02.2023
     --> !!!! Time: "2h 00m";     Status: ""
-    Description: "INFOTECH-65 Video Course"
+    Description: "INFOTECH-65 Video Course (Work with Forms and multistep forms in Power Pages Site. Insert/Edit/View Data)"
 
     --> Time: "1h 00m";     Status: ""
     Description: "Try to fix problem, Work on ElectionsSK Azure Migration"
