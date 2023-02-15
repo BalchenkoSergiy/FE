@@ -1,5 +1,5 @@
 15.02.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "6h 30m";     Status: ""
     Description: "Copy Data between Blob Storage Accounts"
     Task: ESKUSUP-130
 
@@ -28,8 +28,8 @@
     Task: INFOTECH-16
 
     --> Time: "0h 15m";     Status: ""
-    Description: "General Meeting (Teta)"
-    Task: 
+        # Description: "General Meeting (Teta)"
+        # Task: ЕКФШТ-421
 
 14.02.2023
     --> Time: "0h 15m";     Status: "DONE"
