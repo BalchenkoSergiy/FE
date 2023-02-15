@@ -1,39 +1,60 @@
-14.02.2023
-    --> Time: "0h 15m";     Status: "DONE"
-    # Description: "Morning Meeting with Teta";
-    # Task: HR-184
+15.02.2023
+    --> Time: "0h 00m";     Status: ""
+    Description: "Copy Data between Blob Storage Accounts"
+    Task: ESKUSUP-130
 
     --> Time: "0h 00m";     Status: ""
     Description: "Question about UPS for employee"
     Task: INFOTECH-18
+
+    --> Time: "0h 30m";     Status: "DONE"
+        # Description: "Upload Video 203"
+        # Task: INFOTECH-73
+
+    --> Time: "0h 45m";     Status: "DONE"
+        # Description: "Meeting with Nick"
+        # Task: ESKSUP-129
+
+    --> Time: "1h 00m";     Status: ""
+    Description: "Power Pages 30 Days Learning Challenge"
+    Task: INFOTECH-65
+
+    --> Time: "0h 00m";     Status: ""
+    Description: "Policy for Fireware/Antivirus/Windows Updates"
+    Task: INFOTECH-20
+
+    --> Time: "0h 00m";     Status: ""
+    Description: "Implement Backup Strategy"
+    Task: INFOTECH-16
+
+14.02.2023
+    --> Time: "0h 15m";     Status: "DONE"
+    # Description: "Morning Meeting with Teta";
+    # Task: HR-184
     
     --> Time: "0h 30m";     Status: "DONE"
     # Description: "Meeting regarding Learning Management System (EC Learn)"
     # Task: TRAIN-417
     
     --> Time: "1h 00m";     Status: "DONE"
-    Description: "Review Elections SK Azure Migrations Project"
-    Task: ???
+    # Description: "Review Elections SK Azure Migrations Project"
+    # Task: ESKSUP-129
     
-    --> Time: "0h 00m";     Status: ""
-    Description: "Research for Policy for working on non-EC domain computers"
-    Task: INFOTECH-6
+    --> Time: "1h 00m";     Status: ""
+    # Description: "Research for Policy for working on non-EC domain computers"
+    # Task: INFOTECH-6
     
     --> Time: "2h 00m";     Status: ""
     # Description: "Research how to move storage account" https://youtu.be/hJKQG-nCFpE
-    # Task: ESKUP-126
+    # Task: ESKSUP-126
     
     --> Time: "1h 00m";     Status: ""
-    Description: "Redo few things for ElectionsSK"
-    Task: ???
+    # Description: "Redo few things for ElectionsSK"
+    # Task: ESKSUP-125
     
     --> Time: "2h 00m";     Status: ""
-    Description: "Update Application Insight Instrumentation Key for esk-results-prod"
-    Task: ESKSUP-124
-    
-    --> Time: "0h 00m";     Status: ""
-    Description: ""
-
+    # Description: "Update Application Insight Instrumentation Key for esk-results-prod"
+    # Task: ESKSUP-124
 
 13.02.2023
     --> Time: "2h 00m";     Status: ""
