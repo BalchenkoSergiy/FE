@@ -1,19 +1,7 @@
-15.02.2023
-    --> Time: "6h 30m";     Status: ""
-    Description: "Copy Data between Blob Storage Accounts"
-    Task: ESKUSUP-130
-
+16.02.2023
     --> Time: "0h 00m";     Status: ""
     Description: "Question about UPS for employee"
     Task: INFOTECH-18
-
-    --> Time: "0h 30m";     Status: "DONE"
-        # Description: "Upload Video 203"
-        # Task: INFOTECH-73
-
-    --> Time: "0h 45m";     Status: "DONE"
-        # Description: "Meeting with Nick"
-        # Task: ESKSUP-129
 
     --> Time: "1h 00m";     Status: ""
     Description: "Power Pages 30 Days Learning Challenge"
@@ -26,6 +14,19 @@
     --> Time: "0h 00m";     Status: ""
     Description: "Implement Backup Strategy"
     Task: INFOTECH-16
+
+15.02.2023
+    --> Time: "6h 30m";     Status: ""
+        Description: "Copy Data between Blob Storage Accounts"
+        Task: ESKUSUP-130
+
+    --> Time: "0h 30m";     Status: "DONE"
+        # Description: "Upload Video 203"
+        # Task: INFOTECH-73
+
+    --> Time: "0h 45m";     Status: "DONE"
+        # Description: "Meeting with Nick"
+        # Task: ESKSUP-129
 
     --> Time: "0h 15m";     Status: ""
         # Description: "General Meeting (Teta)"
