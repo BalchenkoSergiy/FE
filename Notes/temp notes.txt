@@ -1,19 +1,23 @@
 16.02.2023
-    --> Time: "0h 00m";     Status: ""
-    Description: "Question about UPS for employee"
-    Task: INFOTECH-18
-
-    --> Time: "1h 00m";     Status: ""
-    Description: "Power Pages 30 Days Learning Challenge"
-    Task: INFOTECH-65
+    --> Time: "0h 30m";     Status: "DONE"
+            # Description: "Upload Video 204"
+            # Task: INFOTECH-73
 
     --> Time: "0h 00m";     Status: ""
-    Description: "Policy for Fireware/Antivirus/Windows Updates"
-    Task: INFOTECH-20
+    - Description: "Question about UPS for employee"
+    - Task: INFOTECH-18
 
     --> Time: "0h 00m";     Status: ""
-    Description: "Implement Backup Strategy"
-    Task: INFOTECH-16
+    - Description: "Power Pages 30 Days Learning Challenge"
+    - Task: INFOTECH-65
+
+    --> Time: "0h 00m";     Status: ""
+    - Description: "Policy for Fireware/Antivirus/Windows Updates"
+    - Task: INFOTECH-20
+
+    --> Time: "0h 00m";     Status: ""
+    - Description: "Implement Backup Strategy"
+    - Task: INFOTECH-16
 
 15.02.2023
     --> Time: "6h 30m";     Status: ""
