@@ -54,64 +54,75 @@
 
 14.02.2023
     --> Time: "0h 15m";     Status: "DONE"
-    # Description: "Morning Meeting with Teta";
-    # Task: HR-184
+        # Description: "Morning Meeting with Teta";
+        # Task: HR-184
     
     --> Time: "0h 30m";     Status: "DONE"
-    # Description: "Meeting regarding Learning Management System (EC Learn)"
-    # Task: TRAIN-417
+        # Description: "Meeting regarding Learning Management System (EC Learn)"
+        # Task: TRAIN-417
     
     --> Time: "1h 00m";     Status: "DONE"
-    # Description: "Review Elections SK Azure Migrations Project"
-    # Task: ESKSUP-129
+        # Description: "Review Elections SK Azure Migrations Project"
+        # Task: ESKSUP-129
     
     --> Time: "1h 00m";     Status: ""
-    # Description: "Research for Policy for working on non-EC domain computers"
-    # Task: INFOTECH-6
+        # Description: "Research for Policy for working on non-EC domain computers"
+        # Task: INFOTECH-6
     
     --> Time: "2h 00m";     Status: ""
-    # Description: "Research how to move storage account" https://youtu.be/hJKQG-nCFpE
-    # Task: ESKSUP-126
+        # Description: "Research how to move storage account" https://youtu.be/hJKQG-nCFpE
+        # Task: ESKSUP-126
     
     --> Time: "1h 00m";     Status: ""
-    # Description: "Redo few things for ElectionsSK"
-    # Task: ESKSUP-125
+        # Description: "Redo few things for ElectionsSK"
+        # Task: ESKSUP-125
     
     --> Time: "2h 00m";     Status: ""
-    # Description: "Update Application Insight Instrumentation Key for esk-results-prod"
-    # Task: ESKSUP-124
+        # Description: "Update Application Insight Instrumentation Key for esk-results-prod"
+        # Task: ESKSUP-124
 
 13.02.2023
     --> Time: "2h 00m";     Status: ""
-    Description: "INFOTECH-65 Video Course (Work with Forms and multistep forms in Power Pages Site. Insert/Edit/View Data)"
+        # Description: "Video Course (Work with Forms and multistep forms in Power Pages Site. Insert/Edit/View Data)"
+        # Task: INFOTECH-65
 
     --> Time: "1h 00m";     Status: ""
-    Description: "Try to fix problem, Work on ElectionsSK Azure Migration"
+        Description: "Try to fix problem, Work on ElectionsSK Azure Migration"
+        Task:
     
     --> Time: "1h 00m";     Status: ""
-    Description: "ESKSUP-125 Created resources for esk-www.prod and scbc-www-prod"
+        Description: "Created resources for esk-www.prod and scbc-www-prod"
+        Task: ESKSUP-125 
     
     --> Time: "0h 45m";     Status: ""
-    # Description: "Meeting - Kick-Off Meeting for LMS (EC-Learn) - as Teta was not last meeting"
+        # Description: "Meeting - Kick-Off Meeting for LMS (EC-Learn) - as Teta was not last meeting"
+        # Task:
     
     --> Time: "1h 30m";     Status: ""
-    # Description: "PAT with Paul"
+        # Description: "PAT with Paul"
+        # Task:
     
     --> Time: "0h 15m";     Status: ""
-    # Description: "Meeting - Remote Support Session: Contractor Onboarding"
+        # Description: "Meeting - Remote Support Session: Contractor Onboarding"
+        # Task:
     
     --> Time: "1h 30m";     Status: ""
-    # Description: "INFOTECH-6 Create policy for working on non-EC domain computers"
+        # Description: "Create policy for working on non-EC domain computers"
+        # Task: INFOTECH-6 
+        # Task:
     
     --> Time: "1h 00m";     Status: "DONE"
-    # Description: "Monthly Meeting for Staff"
+        # Description: "Monthly Meeting for Staff"
+        # Task:
     
     --> Time: "0h 30m";     Status: ""
-    # Description: "Kick-Off Meeting with Leasepath"
+        # Description: "Kick-Off Meeting with Leasepath"
+        # Task:
 
 10.02.2023
     --> Time: "1h 00m";     Status: "DONE"
-        Description: "ESKUP-123 Move www test database Nick task for EleksionSK"
+        Description: "Move www test database Nick task for EleksionSK"
+        Task: ESKUP-123 
 
     --> Time: "3h 00m";     Status: "DONE"
         Description: "Studying GIT, Onboarding with Jacob"
@@ -123,18 +134,23 @@
             - Commit
             - Create pull request
             - Squash commit
+        Task:
 
     --> Time: "0h 30m";     Status: "IN Review"
-        # Description: "TRAIN-419 Meeting AER B2C Config"
+        # Description: "Meeting AER B2C Config"
+        # Task: TRAIN-419
 
     --> Time: "1h 00m";     Status: ""
         Description: "Infotech-77 Spring meeting for IT"
+        Task: Infotech-77
 
     --> Time: "1h 00m";     Status: ""
-        # Description: "TRAIN-421 Meeting Backlog Refinement and Sprint for Patagonia"
+        # Description: "Meeting Backlog Refinement and Sprint for Patagonia"
+        # Task: TRAIN-421
 
     --> Time: "1h 30m";     Status: "DONE"
         # Description: "Update Application Insight Instrumentation Key for esk-results-prod"
+        # Task: 
 
     TOTAL:  8h 00m
 
@@ -142,6 +158,7 @@
 09.02.2023
     --> Time: "0h 30m";     Status: "DONE"
         Description: "Meeting EC Learning"
+        Task:
 
     --> Time: "1h 00m";     Status: "DONE"
         # Description: "RS-66 Install Portal in prodaction Environment"
@@ -157,24 +174,31 @@
                 a portal using the portal configuration you transferred from the source environment.
             f. The portal updates from the source environment should be reflected in this new target environment. Going forward, you should 
                 be able to transfer configuration from your source to target environments by transferring the portal configuration data.
+        # Task: RS-66
 
     --> Time: "0h 30m";     Status: "DONE"
-        # Description: "RS-69 Set Up custom domain in production"
+        # Description: "Set Up custom domain in production"
+        # Task: RS-69 
 
     --> Time: "2h 00m";     Status: "DONE"
-        # Description: "RS-67 Move to production"
+        # Description: "Move to production"
+        # Task: RS-67
 
     --> Time: "0h 30m";     Status: "DONE"
-        # Description: "RS-68 Run Report - Portal checker after every project is complete and gone live"
+        # Description: "Run Report - Portal checker after every project is complete and gone live"
+        # Task: RS-68 
 
     --> Time: "2h 00m";     Status: "DONE"
-        # Description: "ESKUP-123 Move www test database Nick task for EleksionSK"
+        # Description: "Move www test database Nick task for EleksionSK"
+        # Task: ESKUP-123 
 
     --> Time: "0h 00m";     Status: ""
         Description: ""
+        Task:
         
     --> Time: "1h 00m";     Status: "DONE"
         Description: "Meeting - Engineered Code and Matt - CyberSecurity"
+        Task:
 
     TOTAL:  5h 30m
 
