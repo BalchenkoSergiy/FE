@@ -1,4 +1,12 @@
 16.02.2023
+    --> Time: "1h 30m";     Status: ""
+        # Description: "Meeting with Paul"
+        # Task: INFOTECH-59
+
+    --> Time: "0h 45m";     Status: "DONE"
+        # Description: "Meeting with Nick"
+        # Task: ESKSUP-129
+
     --> Time: "0h 30m";     Status: "DONE"
         # Description: "Upload Video 204"
         # Task: INFOTECH-73
@@ -7,25 +15,25 @@
         # Description: "Meeting AER B2C config part 2"
         # Task: TRAIN-419
     
-    --> Time: "0h 00m";     Status: ""
-    - Description: "Meeting Review Meeting-LMS"
-    - Task: 
+    --> Time: "0h 15m";     Status: ""
+        # Description: "Meeting Review Meeting-LMS"
+        # Task: TRAIN-421
 
     --> Time: "1h 00m";     Status: "DONE"
-    - Description: "Meeting Engineered Code and Matt"
-    - Task: INFOTECH-71
+        # Description: "Meeting Engineered Code and Matt"
+        # Task: INFOTECH-71
 
-    --> Time: "0h 00m";     Status: ""
-    - Description: "Power Pages 30 Days Learning Challenge"
-    - Task: INFOTECH-65
+    --> Time: "1h 00m";     Status: ""
+        # Description: "Power Pages 30 Days Learning Challenge"
+        # Task: INFOTECH-65
 
-    --> Time: "0h 45m";     Status: ""
-    - Description: "Policy for Fireware/Antivirus/Windows Updates"
-    - Task: INFOTECH-20
+    --> Time: "1h 00m";     Status: ""
+        # Description: "Policy for Fireware/Antivirus/Windows Updates"
+        # Task: INFOTECH-20
 
-    --> Time: "0h 00m";     Status: ""
-    - Description: "Implement Backup Strategy"
-    - Task: INFOTECH-16
+    --> Time: "1h 00m";     Status: ""
+        # Description: "Implement Backup Strategy"
+        # Task: INFOTECH-18
 
 15.02.2023
     --> Time: "6h 30m";     Status: ""
