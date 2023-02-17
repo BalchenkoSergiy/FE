@@ -1,3 +1,5 @@
+17.02.2023
+
 16.02.2023
     --> Time: "1h 30m";     Status: ""
         # Description: "Meeting with Paul"
@@ -121,8 +123,8 @@
 
 10.02.2023
     --> Time: "1h 00m";     Status: "DONE"
-        Description: "Move www test database Nick task for EleksionSK"
-        Task: ESKUP-123 
+        # Description: "Move www test database Nick task for EleksionSK"
+        # Task: ESKUP-123 
 
     --> Time: "3h 00m";     Status: "DONE"
         Description: "Studying GIT, Onboarding with Jacob"
@@ -141,8 +143,8 @@
         # Task: TRAIN-419
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Infotech-77 Spring meeting for IT"
-        Task: Infotech-77
+        # Description: "Infotech-77 Spring meeting for IT"
+        # Task: Infotech-77
 
     --> Time: "1h 00m";     Status: ""
         # Description: "Meeting Backlog Refinement and Sprint for Patagonia"
@@ -191,10 +193,6 @@
     --> Time: "2h 00m";     Status: "DONE"
         # Description: "Move www test database Nick task for EleksionSK"
         # Task: ESKUP-123 
-
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
         
     --> Time: "1h 00m";     Status: "DONE"
         Description: "Meeting - Engineered Code and Matt - CyberSecurity"
@@ -292,193 +290,194 @@
     TOTAL:  8h
 
 03.02.2023
-    --> DONE 30m        # HQC - Maintenance is August and February
-        Description: ""
+    --> Time: 0h 30m            Status: "DONE"
+        Description: "HQC - Maintenance is August and February"
         Task:
     
-    --> DONE 1h 30m     # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
-        Description: ""
-        Task:
-        "Creating Custom Theme"
-            - Add CSS file
-            - Change CSS file depends what you need
-            - Go to the "bootstrap-live-customizer.com"
-            - Change Version to 3.3.6
-            - Modify the variables to match the style of the target website
-            - When you are ready to export - click Download
-                "bootstrap.min.css" - Мінімізований файл теми, який містить фреймфорк Bootstrap із кольорами та стилями, які ви надали "bootstrap-live-customizer.com"
-                "bootstrap.css" - Файл теми, який містить фреймфорк Bootstrap із кольорами та стилями, які ви надали "bootstrap-live-customizer.com"
-                "variables.less" - Файл містить усі LESS змінні і відповідний стиль для кожної
-                "theme.less" - Кастомний код LESS застосований після bootstrap's LESS files, може використовувати будь-які змінні та міксини.
-            - Save these files  to a git repository as per company policy "{repo}\src\css"
-        "Adding CSS Files to the Portal"
-            - go to the "make.powerapps.com/environments/.........../Home"
-            - Locate your Portal in the "Home" or "Apps" -> click "ELIPSIS" (багатокрапку) -> click "EDIT"
-                "Після цього кроку вас буде перенаправлено у Portal Studio"
-            - On the left side menu, click on the "THEMES"
-            - The default files found here are:
-                "bootstrap.min.css" - мінімізований фреймворк Bootstrap
-                "theme.css" - Це файл теми із додатковою темою Electric Blue
-            - Copy "theme.min.css" from the client folder and rename the copy "bootstrap-override.min.css"
-            - Create another CSS file called "custom.css"
-            - Click on the "Upload custom CSS" link and add your custom theme files:
-                "bootstrap-override.min.css" - це файл із темою яку ми створили у першому кроці
-                "custom.css"
-        "Modifying the CSS"
-            - After you have added two CSS files, go into the CRM Portal Management app
-            - Got to 'WEB FILES'
-            - Open 'theme.min.css' and set "Display Order" to 3
-            - Open 'custom.css' and set "Display order" to 4
-            - Go back to the "Portal studio"
-            - Click "Themes"
-            - Open "custom.css" and add any additional CSS you may need to fix display issues on the portal
-            - In the "custom.css" add:
-                @font-face {
-                    font-family: 'Glyphicons Halflings';
-                    src: url("../fonts/glyphicons-halflings-regular.eot");
-                    src: url("../fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
-                }
+    --> Time: 1h 30m            Status: "DONE"
+        # Description: "Create Custom Bootstrap Theme (Reading)"
+            "Creating Custom Theme"
+                - Add CSS file
+                - Change CSS file depends what you need
+                - Go to the "bootstrap-live-customizer.com"
+                - Change Version to 3.3.6
+                - Modify the variables to match the style of the target website
+                - When you are ready to export - click Download
+                    "bootstrap.min.css" - Мінімізований файл теми, який містить фреймфорк Bootstrap із кольорами та стилями, які ви надали "bootstrap-live-customizer.com"
+                    "bootstrap.css" - Файл теми, який містить фреймфорк Bootstrap із кольорами та стилями, які ви надали "bootstrap-live-customizer.com"
+                    "variables.less" - Файл містить усі LESS змінні і відповідний стиль для кожної
+                    "theme.less" - Кастомний код LESS застосований після bootstrap's LESS files, може використовувати будь-які змінні та міксини.
+                - Save these files  to a git repository as per company policy "{repo}\src\css"
+            "Adding CSS Files to the Portal"
+                - go to the "make.powerapps.com/environments/.........../Home"
+                - Locate your Portal in the "Home" or "Apps" -> click "ELIPSIS" (багатокрапку) -> click "EDIT"
+                    "Після цього кроку вас буде перенаправлено у Portal Studio"
+                - On the left side menu, click on the "THEMES"
+                - The default files found here are:
+                    "bootstrap.min.css" - мінімізований фреймворк Bootstrap
+                    "theme.css" - Це файл теми із додатковою темою Electric Blue
+                - Copy "theme.min.css" from the client folder and rename the copy "bootstrap-override.min.css"
+                - Create another CSS file called "custom.css"
+                - Click on the "Upload custom CSS" link and add your custom theme files:
+                    "bootstrap-override.min.css" - це файл із темою яку ми створили у першому кроці
+                    "custom.css"
+            "Modifying the CSS"
+                - After you have added two CSS files, go into the CRM Portal Management app
+                - Got to 'WEB FILES'
+                - Open 'theme.min.css' and set "Display Order" to 3
+                - Open 'custom.css' and set "Display order" to 4
+                - Go back to the "Portal studio"
+                - Click "Themes"
+                - Open "custom.css" and add any additional CSS you may need to fix display issues on the portal
+                - In the "custom.css" add:
+                    @font-face {
+                        font-family: 'Glyphicons Halflings';
+                        src: url("../fonts/glyphicons-halflings-regular.eot");
+                        src: url("../fonts/glyphicons-halflings-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("../fonts/glyphicons-halflings-regular.woff") format("woff"), url("../fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+                    }
 
-                .dropdown-menu>li>a, html[dir=ltr] li a {
-                    margin-left: 0;
-                }
+                    .dropdown-menu>li>a, html[dir=ltr] li a {
+                        margin-left: 0;
+                    }
 
-                .blue_border {
-                    border-bottom: 7px solid #[BRAND PRIMARY COLOUR];
-                }
+                    .blue_border {
+                        border-bottom: 7px solid #[BRAND PRIMARY COLOUR];
+                    }
 
-                .sidebar-home {
-                    border-top: 7px solid #[BRAND PRIMARY COLOUR];
-                }
-        "Інші вимоги"
-            - Під час створення веб-шаблонів для порталу ми додаємо перед їхніми іменами акронім клієнта/проекту (Наприклад EC - Header)
-            - Ми копіюємо Header and Footer із згаданим вище префіксом щоб файли в оригіналі залишались недоторканими
-            - За замовчуванням  портал використовує INVERSE NAVBAR. Тому, якщо ви не хочете це використовувати то після того як зкопіюєте Header вам потрібно відредагувати цей веб шаблон, а саме видалити класс "navbar-inverse" з navbar div.
-
-    --> 3h DONE         # Worked on Learn Project    
-        Description: ""
-        Task:                                               
-                - RS-59 Custom Layout for Header
-                - RS-60 Custom Layout for Footer
-                    "Portal Management app --> Web Templates --> Footer"
-                    "That is a HTML/Liquid code responsible to render the footer, you can make your changes there make sure to save a copy of the OOB code before applying your changes 
-                        1just in case you need to rollback"
-                - RS-61 Create Schema file
+                    .sidebar-home {
+                        border-top: 7px solid #[BRAND PRIMARY COLOUR];
+                    }
+            "Інші вимоги"
+                - Під час створення веб-шаблонів для порталу ми додаємо перед їхніми іменами акронім клієнта/проекту (Наприклад EC - Header)
+                - Ми копіюємо Header and Footer із згаданим вище префіксом щоб файли в оригіналі залишались недоторканими
+                - За замовчуванням  портал використовує INVERSE NAVBAR. Тому, якщо ви не хочете це використовувати то після того як зкопіюєте Header вам потрібно відредагувати цей веб шаблон, а саме видалити класс "navbar-inverse" з navbar div.
+        # Task: RS-58
+        
+    --> Time: 3h 00m            Status: "DONE"
+        # Description: "Worked on Learn Project"
+            - Custom Layout for Header
+            - hoH Custom Layout for Footer
+                "Portal Management app --> Web Templates --> Footer"
+                "That is a HTML/Liquid code responsible to render the footer, you can make your changes there make sure to save a copy of the OOB code before applying your changes just in case you need to rollback"
+            -  Create Schema file
+        # Task: RS-59; RS-61                                              
+                
     
-    --> 1h DONE         # Spring meeting for IT
-        Description: ""
+    --> Time: 1h 00m            Status: "DONE"
+        Description: "Spring meeting for IT"
         Task:
     
-    -->                 # INFOTECH-16 "Implement Backup Strategy"
-        Description: ""
+    --> Time: 0h 00m            Status: ""
+        Description: "Implement Backup Strategy"
+        Task: INFOTECH-16
+    
+    --> Time: 0h 00m            Status: ""
+        Description: "Create policy f:) or working on non-EC domain computers"
+        Task: INFOTECH-6
+    
+    --> Time: 0h 00m            Status: ""
+        Description: "Meeting with Paul"
         Task:
     
-    -->                 # INFOTECH-6 "Create policy f:) or working on non-EC domain computers"
-        Description: ""
-        Task:
-    
-    -->                 # Meeting with Paul
-        Description: ""
-        Task:
-    
-    --> 1h DONE         # Video course and reading documentation
-        Description: ""
+    --> Time: 1h 00m            Status: "DONE"
+        Description: "Video course and reading documentation"
         Task:
 
 02.02.2023
-    --> MY Site: https://balchenkosergiy.github.io/FE-Dev/
-    Description: ""
+    --> Time: 0h 00m            Status: ""
+        Description: "MY Site: https://balchenkosergiy.github.io/FE-Dev/"
         Task:
 
-    --> DONE 30m        # HQC - Maintenance is August and February
-    Description: ""
+    --> Time: 0h 30m            Status: "DONE"
+        Description: "HQC - Maintenance is August and February"
         Task:
 
-    --> DONE 30m        # Meeting with Teta to review daily tasks
-    Description: ""
+    --> Time: 0h 30m            Status: "DONE"
+        Description: "Meeting with Teta to review daily tasks"
         Task:
 
-    --> DONE 45m        # TRAIN-411 "Watching the MS Products Nick speech about evolution"
-    Description: ""
+    --> Time: 0h 45m            Status: "DONE"
+        # Description: "Watching the MS Products Nick speech about evolution"
+        # Task: TRAIN-411
+
+    --> Time: 1h 30m            Status: "DONE"
+        # Description: "Process to create Dataverse Environments"
+            - Created spreadsheet with information about all our environments
+            - Created document in COnfluence "Process to create Dataverse Environment"
+        # Task: INFOTECH-7
+        
+
+    --> Time: 0h 00m            Status: ""
+        Description: "Change the confluence document about HQC Maintenance"
         Task:
 
-    --> DONE 1h 30m     # INFOTECH-7 "Process to create Dataverse Environments"
-    Description: ""
-        Task:
-        - Created spreadsheet with information about all our environments
-        - Created document in COnfluence "Process to create Dataverse Environment"
-
-    -->                 # Change the confluence document about HQC Maintenance
-    Description: ""
+    --> Time: 3h 00m            Status: "DONE"
+        Description: "Meeting with Paul"
         Task:
 
-    --> DONE 3h         # Meeting with Paul
-    Description: ""
-        Task:
-
-    --> DONE 1h 45m     # Video course and reading documentation
-    Description: ""
+    --> Time: 1h 45m            Status: "DONE"
+        Description: "Video course and reading documentation"
         Task:
 
 01.02.2023
-    --> DONE            # Ask password for Coccon in Paul
-    Description: ""
+    --> Time: 0h 00m            Status: "DONE"
+        Description: "Ask password for Coccon in Paul"
         Task:
 
-    --> DONE 3h         # INFOTECH-55 "Procedure for exiting employee"
-    Description: ""
-        Task:
-        - Researching information about protect information when Employee leave and he worked remotely. Best practice from different companies
-        - Intune product
+    --> Time: 0h 3h            Status: "DONE"
+        # Description: "Procedure for exiting employee"
+            - Researching information about protect information when Employee leave and he worked remotely. Best practice from different companies
+            - Intune product
+        # Task: INFOTECH-55
+        
 
-    --> DONE 45m        # AER Meeting - RECURRING
-    Description: ""
-        Task:
-
-    --> DONE 3h 45m     # Video course and reading documentation
-    Description: ""
+    --> Time: 0h 45m            Status: "DONE"
+        Description: "AER Meeting - RECURRING"
         Task:
 
-    --> DONE 30m        # Helped new employee
-    Description: ""
+    --> Time: 3h 45m            Status: "DONE"
+        Description: "Video course and reading documentation"
+        Task:
+
+    --> Time: 0h 30m            Status: "DONE"
+        Description: "Helped new employee"
         Task:
 
 
 31.01.2023
-    --> DONE 3h 45m     # INFOTECH-64 "Set up computers for February employyees"
-    Description: ""
+    --> Time: 3h 45m            Status: "DONE"
+        # Description: "Set up computers for February employyees"
+        # Task: INFOTECH-64
+
+    --> Time: 0h 45m            Status: "DONE"
+        Description: "Meeting Cyber Security Review"
         Task:
 
-    --> DONE 45m        # Meeting "Cyber Security Review"
-    Description: ""
+    --> Time: 0h 00m            Status: "DONE"
+        Description: "Upload video 200 - Celebrating..."
         Task:
 
-    --> DONE            # Upload video "200 - Celebrating..."
-    Description: ""
+    --> Time: 0h 00m            Status: "DONE"
+        Description: "UPS - Talk to Nick about purchasing them"
         Task:
 
-    --> DONE            # UPS - Talk to Nick about purchasing them
-    Description: ""
+    --> Time: 3h 30m            Status: "DONE"
+        Description: "FNU/NCCIE - Monthly Maintenance Reports - RECURRING"
         Task:
 
-    --> DONE 3h 30m     # FNU/NCCIE - Monthly Maintenance Reports - RECURRING
-    Description: ""
-        Task:
-
-    --> DONE            # LGAQ - remind about SSL, Nick Approved 
-    Description: ""
+    --> Time: 0h 00m            Status: "DONE"
+        Description: "LGAQ - remind about SSL, Nick Approved"
         Task:
 
 30.01.2023
-    --> DONE            # 15m INFOTECH-19 "Building Policies Confluence Page" 
-    Description: ""
-        Task:
-        Updated document based on last meeting feedbacks
+    --> Time: 0h 15m            Status: "DONE"
+        Description: "Building Policies Confluence Page"
+            - Updated document based on last meeting feedbacks
+        Task: INFOTECH-19
+        
 
-    --> DONE            # 4h INFOTECH-18 "Create procedure for new employee onboarding"
-    Description: ""
-        Task:
-        Update document based on Nick's feedback:
+    --> Time: 4h 00m            Status: "DONE"
+        Description: "Create procedure for new employee onboarding, Update document based on Nick's feedback:"
             - Make the decision on if we absolutely need UPS on laptops based on cost
                 1. https://www.amazon.ca/CyberPower-EC850LCD-Ecologic-Outlets-Compact/dp/B00DBAA696/ref=sr_1_2_sspa?crid=ZGBBBYKSCTWB&keywords=CyberPower%2BEC850LCD&qid=1675110551&sprefix=cyberpower%2Bec850lcd%2Caps%2C392&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQkpBWkNRRklVNzVaJmVuY3J5cHRlZElkPUEwNjY4MTkwTExBOTA3VUVCSk5FJmVuY3J5cHRlZEFkSWQ9QTA0MTE5NTExOUFUTTlJUkRXRzBZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
                 2. https://www.amazon.ca/dp/B07RRYB3RJ?tag=track-ect-ca-904581-20&linkCode=osi&th=1
@@ -488,104 +487,88 @@
                 2. Additional browsers: Chrome, Firefox
                 3. Notepad ++
                 4. Microsoft Office
+        Task: INFOTECH-18
+        
+            
 
-    --> DONE            # 1h "Quick Review of IT progress"
-    Description: ""
+    --> Time: 1h 00m            Status: "DONE"
+        Description: "Quick Review of IT progress"
         Task:
 
-    --> DONE            # 1h 15m Report under Training"ARCTIC - Kick off Meeting"
-    Description: ""
+    --> Time: 1h 15m            Status: "DONE"
+        Description: "Report under Training ARCTIC - Kick off Meeting"
         Task:
 
-    --> DONE            # 1h INFOTECH-15 "Create policy for document storage"
-    Description: ""
-        Task:
-        "Our company policy provides for three environments to protect and save your work data:"
-            - OneDrive: 
-                1. Personal files (Desktop, documents, etc.)
-                2. Temporary working files
-            - SharePoints:
-                1. Useful files that should be accessible by anyone on the team
-                2. Client folders should contain project-relevant files and documents, images, logos, etc.
-                3. Brand folder should contain EC-relevant files and documents, images, logos, stationary/letterhead, business cards, RFP docs, etc.
-                4. IT folder should contain IT-relevant files and documents.
-            - Confluence"
-                1. Use to document company, IT, and HR policy
-                2. Use to document customer general details
-                3. Use to document customer-specific information
-                    "Example: documentation that provides outline, instructions, or step-by-step guides, such as technical instructions for managing a website, CRM, custom code, etc."
-                4. Provide useful information on products or services we use
-                5. Can be useful for documenting difficult steps or troubleshooting
+    --> Time: 1h 00m            Status: "DONE"
+        # Description: "Create policy for document storage"
+            "Our company policy provides for three environments to protect and save your work data:"
+                - OneDrive: 
+                    1. Personal files (Desktop, documents, etc.)
+                    2. Temporary working files
+                - SharePoints:
+                    1. Useful files that should be accessible by anyone on the team
+                    2. Client folders should contain project-relevant files and documents, images, logos, etc.
+                    3. Brand folder should contain EC-relevant files and documents, images, logos, stationary/letterhead, business cards, RFP docs, etc.
+                    4. IT folder should contain IT-relevant files and documents.
+                - Confluence"
+                    1. Use to document company, IT, and HR policy
+                    2. Use to document customer general details
+                    3. Use to document customer-specific information
+                        "Example: documentation that provides outline, instructions, or step-by-step guides, such as technical instructions for managing a website, CRM, custom code, etc."
+                    4. Provide useful information on products or services we use
+                    5. Can be useful for documenting difficult steps or troubleshooting
+        # Task: INFOTECH-15
+        
  
 
 27.01.2023
-    --> DONE            # TRAIN-395
-    Description: ""
-        Task:
+    --> Time: 0h 00m            Status: "DONE"
+        # Description: ""
+        # Task: TRAIN-395
 
-    --> DONE            # TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
-    Description: ""
-        Task:
+    --> Time: 1h 30m            Status: "DONE"
+        # Description: "Updating some spreadsheets and implementing a process"
+        # Task: TRAIN-398
 
-    --> DONE            # INFOTECH-59 "Spring Meeting for IT" 1h 15m
-    Description: ""
-        Task:
+    --> Time: 1h 15m            Status: "DONE"
+        # Description: "Spring Meeting for IT"
+        # Task: INFOTECH-59
 
-    --> DONE            # INFOTECH-15 "Create policy for document storage"
-    Description: ""
-        Task:
-        Researching
+    --> Time: 0h 00m            Status: "DONE"
+        # Description: "Create policy for document storage, Researching"
+        # Task: INFOTECH-15
+       
  
 
-    --> DONE            # INFOTECH-19 "1329 Building Policies Confluence Page" 1h 30m
-    Description: ""
-        Task:
-        Create a Confluence document that describes all 1329 building Policies:
-            - 1. First employee in (Перший співробітник прийшов)
-                1.0 'Перед відкриттям дверей впевніться що ви знаєте актуальний пароль відключення сигналізації.'' (Before opening the door, make sure you know the current password for disarming the alarm.)
-                1.1 'Відкриваючи двері, зверніть увагу що вони були зачинені до вашого приходу.'' (When opening the door, note that it was closed before your arrival)
-                1.2 'Зайшовши всередину одразу введіть пароль відключення сигналізації.'' (Once inside, immediately enter the password to disable the alarm)
-                1.3 'Почніть свій робочий день.'' (Start your working day)
-            - 2. last employee out (останній співробітник вийшов)
-                2.1 'Якщо ви виходите останній але у офісі знаходяться співробітники іншої компанії' (If you are the last to leave but there are employees of another company in the office):
-                    2.1.1 'вам необхідно їх сповістити' (you need to notify them that you are leaving).
-                2.2 'Якщо ви виходите останній' (If you are the last employee out):
-                    2.2.1 'вимкніть світло та прилади які можуть спричинити пожежу' (turn off lights and devices that can cause fire)
-                    2.2.2 'перевірте чи закрита вода' (check whether the water is closed)
-                    2.2.3 'увімкніть сигналізацію' (натиснувши на пульті керування сигналізацією: Disarmed, ready to arm) (turn on the alarm (by clicking on the alarm control panel: Disarmed, ready to arm))
-                    2.2.4 'Після попереднього кроку ви повинні у короткий час залишити приміщення та зачинити двері на замок' (After the previous step, you must leave the office in a short time and lock the door)
-            - 3. Security system, alarm panels (Охоронна система, сигналізація)
-                3.1 'Код до включення/відключення сигналізайції повинен оновлюватись після кожної зміни у команді' (The code to enable/disable the alarm must be updated after each change in the command).
-            - 4. Door lock policy (Політика блокування дверей)
-                4.1 'У не робочий час або у час коли у фісі немає нікого - двері завжди повинні бути зачиненими' (During non-working hours or when there is no one in the office - the door must always be closed)
-            - 5. Parking (Паркінг)
+    --> Time: 1h 30m            Status: "DONE"
+        Description: "1329 Building Policies Confluence Page"
+        Task: INFOTECH-19
+        
 
-    --> DONE            # Manage SSL Certificates - Check which will finish less than 30 days.
-    Description: ""
+    --> Time: 0h 00m            Status: "DONE"
+        Description: "Manage SSL Certificates - Check which will finish less than 30 days"
+            LGAQ:
+                - SSL Expire: February 25, 2023
+                - Days Until Expiration: 29
+                - Client Notified: No
+            Med-Lab:
+                - SSL Expire: January 15, 2023
+                - Days Until Expiration: -12
+                - Client Notified: Yes
         Task:
-        LGAQ:
-            SSL Expire: February 25, 2023
-            Days Until Expiration: 29
-            Client Notified: No
-        Med-Lab:
-            SSL Expire: January 15, 2023
-            Days Until Expiration: -12
-            Client Notified: Yes
 
 26.01.2023
-    --> DONE            # Inventory number include:
-    Description: ""
-        Task:
-        001 - SK office (Regina)
-        002 - ON office
-        003 - Home
-
-        01 - Working Computers
-        02 - Unworking Computers
-        03 - Headsets
-        04 - Monitors
-        05 - Keyboards
-        06 - Mouses
-        07 - Cables
-
-    Example: 001.01.[number]
+    --> Time: 0h 00m            Status: "DONE"
+        Description: "Inventory number include"
+            Task:
+                001 - SK office (Regina)
+                002 - ON office
+                003 - Home       
+                01 - Working Computers
+                02 - Unworking Computers
+                03 - Headsets
+                04 - Monitors
+                05 - Keyboards
+                06 - Mouses
+                07 - Cables
+            Example: 001.01.[number]
