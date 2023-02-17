@@ -44,5 +44,5 @@
     console.log(typeof(console))
 
 // Exeptions
-console.log(typeof(null))           // object
-console.log(typeof(console.log))    // function
+    console.log(typeof(null))           // object
+    console.log(typeof(console.log))    // function
