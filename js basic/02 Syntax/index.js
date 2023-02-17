@@ -1,19 +1,12 @@
-console.log ('Hello world');
+// Task 2
+const myName = 'Serhii'; 
+const mySurname = 'Balchenko'; 
+let myFavoriteDrink = 'Coke'; 
+let myFavoriteAnimal = 'Dog'; 
+let myFavoriteProgramingLanguage = 'Python :)'; 
 
-// Comments (One line)
-
-/* 
-    Multiline comments
-*/
-
-// Variables
-/*
-    var     - we can change
-    let     - we can change
-    const   - we can't change value
-*/
-
-var text = 'Hello world'; 
-console.log(text)
-let name = 'Serhii'
-const programinLanguage = 'JavaScript'
+console.log (myName)
+console.log (mySurname)
+console.log (myFavoriteDrink)
+console.log (myFavoriteAnimal)
+console.log (myFavoriteProgramingLanguage)
