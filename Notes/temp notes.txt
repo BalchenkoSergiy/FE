@@ -204,88 +204,100 @@
 
 08.02.2023
     --> Time: 2h            Status: ""
-        # Description: "Fixing errors while I want create backup Database"
-        # Task:
+        Description: "Fixing errors while I want create backup Database"
+        Task:
 
     --> Time: 1h            Status: ""
-        # Description: "Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali"
+        Description: "Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali"
+        Task:
+
+    --> Time: 45m           Status "DONE"
+        # Description: "Meeting - Kick Off Meeting for Patagoniz Project"
         # Task:
 
-    --> Time 45m            Status "DONE"#
-    Description: "Meeting - Kick Off Meeting for Patagoniz Project"
-        Task:
+    --> Time: 30m           Status: "DONE"
+        # Description: "Schedule Tip #202"
+        # Task:
 
-    --> DONE 30m        # Schedule Tip #202
-    Description: ""
-        Task:
+    --> Time: 30m           Status: "DONE"
+        # Description: "Script checker"
+        # Task: RS-74
 
-    --> DONE 30m        # RS-74 "Script checker"
-    Description: ""
-        Task:
+    --> Time: 45m           Status: "DONE"
+        # Description: "Portal Registration"
+        # Task: RS-72
 
-    --> DONE 45m        # RS-72 "Portal Registration"
-    Description: ""
-        Task:
+    --> Time: 30m           Status: "DONE"
+        # Description: "Add site to search indexes"
+        # Task: RS-71
 
-    --> DONE 30m        # RS-71 "Add site to search indexes"
-    Description: ""
-        Task:
+    --> Time: 45m           Status: "DONE"
+        # Description: "Google analytics validation"
+        # Task: RS-70
 
-    --> DONE 45m        # RS-70 "Google analytics validation"
-    Description: ""
-        Task:
+    --> Time: 1h 15m        Status: "DONE"
+        # Description: "Don't Block Robots"
+        # Task: RS-75
 
-    --> DONE 1h 15m     # RS-75 "Don't Block Robots"
-    Description: ""
-        Task:
-        
     TOTAL:  8h  
 
-07.02.2023  
-    --> DONE 5h 15m     # TRAIN-414 "ElectionsSK Azure Migration"
-    Description: ""
-        Task:
-    --> DONE 45m        # MEETING "Review of some IT outstanding items"
-    Description: ""
-        Task:
-    --> DONE 2h         # MEETING "ElectionsSK Azure Migration"
-    Description: ""
-        Task:
+07.02.2023
+    --> Time: 5h 15m            Status: "DONE"
+        # Description: "ElectionsSK Azure Migration"
+        # Task: TRAIN-414
+
+    --> Time: 0h 45m            Status: "DONE"
+        # Description: "MEETING Review of some IT outstanding items"
+        # Task:
+
+    --> Time: 2h 00m            Status: "DONE"
+        # Description: "MEETING ElectionsSK Azure Migration"
+        # Task:
+
     TOTAL:  8h
 
 06.02.2023
-    -->                 # Read about Schema File
-    Description: ""
+    --> Time: 0h 00m            Status: ""
+        Description: "Read about Schema File"
         Task:
-    -->  DONE 45m       # RS-65 "install Portal in Development/Sandbox Environment"
-    Description: ""
+
+    --> Time: 0h 45m            Status: "DONE"
+        # Description: "install Portal in Development/Sandbox Environment"
+        # Task: RS-65
+
+    --> Time: 0h 45m            Status: "DONE"
+        # Description: "Deactivate "Out Of Box" (OOB) web file images"
+        # Task: RS-62
+
+    --> Time: 0h 30m            Status: "DONE"
+        # Description: "Set up Authentication in Development/Sandbox Environment"
+        # Task: RS-63
+
+    --> Time: 0h 30m            Status: "DONE"
+        # Description: "Set up Authentication in Production Environment"
+        # Task: RS-64
+
+    --> Time: 0h 45m            Status: "DONE"
+        Description: "MEETING Fill out Cyber Secuirity Questionnaire"
         Task:
-    -->  DONE 45m       # RS-62 Deactivate "Out Of Box" (OOB) web file images
-    Description: ""
-        Task:
-    -->  DONE 30m       # RS-63 Set up Authentication in Development/Sandbox Environment
-    Description: ""
-        Task:
-    -->  DONE 30m       # RS-64 Set up Authentication in Production Environment
-    Description: ""
-        Task:
-    -->  DONE 45m       # MEETING "Fill out Cyber Secuirity Questionnaire"
-    Description: ""
-        Task:
-    -->  DONE 3h 30m    # RS-76 "Add Customer to SSL Certificate Page"
-    Description: ""
-        Task:
-    -->  DONE 15m       # RS-73 "Uptime Robot"
-    Description: ""
-        Task:
+
+    --> Time: 3h 30m            Status: "DONE"
+        # Description: "Add Customer to SSL Certificate Page"
+        # Task: RS-76
+
+    --> Time: 0h 15m            Status: "DONE"
+        # Description: "Uptime Robot"
+        # Task: RS-73
+
     TOTAL:  8h
 
 03.02.2023
     --> DONE 30m        # HQC - Maintenance is August and February
-    Description: ""
+        Description: ""
         Task:
+    
     --> DONE 1h 30m     # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
-    Description: ""
+        Description: ""
         Task:
         "Creating Custom Theme"
             - Add CSS file
@@ -344,7 +356,7 @@
             - За замовчуванням  портал використовує INVERSE NAVBAR. Тому, якщо ви не хочете це використовувати то після того як зкопіюєте Header вам потрібно відредагувати цей веб шаблон, а саме видалити класс "navbar-inverse" з navbar div.
 
     --> 3h DONE         # Worked on Learn Project    
-    Description: ""
+        Description: ""
         Task:                                               
                 - RS-59 Custom Layout for Header
                 - RS-60 Custom Layout for Footer
@@ -352,46 +364,58 @@
                     "That is a HTML/Liquid code responsible to render the footer, you can make your changes there make sure to save a copy of the OOB code before applying your changes 
                         1just in case you need to rollback"
                 - RS-61 Create Schema file
+    
     --> 1h DONE         # Spring meeting for IT
-    Description: ""
+        Description: ""
         Task:
+    
     -->                 # INFOTECH-16 "Implement Backup Strategy"
-    Description: ""
+        Description: ""
         Task:
+    
     -->                 # INFOTECH-6 "Create policy f:) or working on non-EC domain computers"
-    Description: ""
+        Description: ""
         Task:
+    
     -->                 # Meeting with Paul
-    Description: ""
+        Description: ""
         Task:
+    
     --> 1h DONE         # Video course and reading documentation
-    Description: ""
+        Description: ""
         Task:
 
 02.02.2023
     --> MY Site: https://balchenkosergiy.github.io/FE-Dev/
     Description: ""
         Task:
+
     --> DONE 30m        # HQC - Maintenance is August and February
     Description: ""
         Task:
+
     --> DONE 30m        # Meeting with Teta to review daily tasks
     Description: ""
         Task:
+
     --> DONE 45m        # TRAIN-411 "Watching the MS Products Nick speech about evolution"
     Description: ""
         Task:
+
     --> DONE 1h 30m     # INFOTECH-7 "Process to create Dataverse Environments"
     Description: ""
         Task:
         - Created spreadsheet with information about all our environments
         - Created document in COnfluence "Process to create Dataverse Environment"
+
     -->                 # Change the confluence document about HQC Maintenance
     Description: ""
         Task:
+
     --> DONE 3h         # Meeting with Paul
     Description: ""
         Task:
+
     --> DONE 1h 45m     # Video course and reading documentation
     Description: ""
         Task:
@@ -400,17 +424,21 @@
     --> DONE            # Ask password for Coccon in Paul
     Description: ""
         Task:
+
     --> DONE 3h         # INFOTECH-55 "Procedure for exiting employee"
     Description: ""
         Task:
         - Researching information about protect information when Employee leave and he worked remotely. Best practice from different companies
         - Intune product
+
     --> DONE 45m        # AER Meeting - RECURRING
     Description: ""
         Task:
+
     --> DONE 3h 45m     # Video course and reading documentation
     Description: ""
         Task:
+
     --> DONE 30m        # Helped new employee
     Description: ""
         Task:
@@ -420,18 +448,23 @@
     --> DONE 3h 45m     # INFOTECH-64 "Set up computers for February employyees"
     Description: ""
         Task:
+
     --> DONE 45m        # Meeting "Cyber Security Review"
     Description: ""
         Task:
+
     --> DONE            # Upload video "200 - Celebrating..."
     Description: ""
         Task:
+
     --> DONE            # UPS - Talk to Nick about purchasing them
     Description: ""
         Task:
+
     --> DONE 3h 30m     # FNU/NCCIE - Monthly Maintenance Reports - RECURRING
     Description: ""
         Task:
+
     --> DONE            # LGAQ - remind about SSL, Nick Approved 
     Description: ""
         Task:
@@ -441,6 +474,7 @@
     Description: ""
         Task:
         Updated document based on last meeting feedbacks
+
     --> DONE            # 4h INFOTECH-18 "Create procedure for new employee onboarding"
     Description: ""
         Task:
@@ -454,12 +488,15 @@
                 2. Additional browsers: Chrome, Firefox
                 3. Notepad ++
                 4. Microsoft Office
+
     --> DONE            # 1h "Quick Review of IT progress"
     Description: ""
         Task:
+
     --> DONE            # 1h 15m Report under Training"ARCTIC - Kick off Meeting"
     Description: ""
         Task:
+
     --> DONE            # 1h INFOTECH-15 "Create policy for document storage"
     Description: ""
         Task:
@@ -485,6 +522,7 @@
     --> DONE            # TRAIN-395
     Description: ""
         Task:
+
     --> DONE            # TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
     Description: ""
         Task:
