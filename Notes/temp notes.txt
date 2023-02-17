@@ -203,37 +203,90 @@
     TOTAL:  5h 30m
 
 08.02.2023
-    --> 2h              # Fixing errors while I want create backup Database
-    --> 1h              # Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali
-    --> DONE 45m        # Meeting "Kick Off Meeting for Patagoniz Project"
+    --> Time: 2h            Status: ""
+        # Description: "Fixing errors while I want create backup Database"
+        # Task:
+
+    --> Time: 1h            Status: ""
+        # Description: "Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali"
+        # Task:
+
+    --> Time 45m            Status "DONE"#
+    Description: "Meeting - Kick Off Meeting for Patagoniz Project"
+        Task:
+
     --> DONE 30m        # Schedule Tip #202
+    Description: ""
+        Task:
+
     --> DONE 30m        # RS-74 "Script checker"
+    Description: ""
+        Task:
+
     --> DONE 45m        # RS-72 "Portal Registration"
+    Description: ""
+        Task:
+
     --> DONE 30m        # RS-71 "Add site to search indexes"
+    Description: ""
+        Task:
+
     --> DONE 45m        # RS-70 "Google analytics validation"
+    Description: ""
+        Task:
+
     --> DONE 1h 15m     # RS-75 "Don't Block Robots"
+    Description: ""
+        Task:
+        
     TOTAL:  8h  
 
 07.02.2023  
     --> DONE 5h 15m     # TRAIN-414 "ElectionsSK Azure Migration"
+    Description: ""
+        Task:
     --> DONE 45m        # MEETING "Review of some IT outstanding items"
+    Description: ""
+        Task:
     --> DONE 2h         # MEETING "ElectionsSK Azure Migration"
+    Description: ""
+        Task:
     TOTAL:  8h
 
 06.02.2023
     -->                 # Read about Schema File
+    Description: ""
+        Task:
     -->  DONE 45m       # RS-65 "install Portal in Development/Sandbox Environment"
+    Description: ""
+        Task:
     -->  DONE 45m       # RS-62 Deactivate "Out Of Box" (OOB) web file images
+    Description: ""
+        Task:
     -->  DONE 30m       # RS-63 Set up Authentication in Development/Sandbox Environment
+    Description: ""
+        Task:
     -->  DONE 30m       # RS-64 Set up Authentication in Production Environment
+    Description: ""
+        Task:
     -->  DONE 45m       # MEETING "Fill out Cyber Secuirity Questionnaire"
+    Description: ""
+        Task:
     -->  DONE 3h 30m    # RS-76 "Add Customer to SSL Certificate Page"
+    Description: ""
+        Task:
     -->  DONE 15m       # RS-73 "Uptime Robot"
+    Description: ""
+        Task:
     TOTAL:  8h
 
 03.02.2023
     --> DONE 30m        # HQC - Maintenance is August and February
+    Description: ""
+        Task:
     --> DONE 1h 30m     # RS-58 Create Custom Bootstrap Theme (Reading)                                 9:45 - 11:15
+    Description: ""
+        Task:
         "Creating Custom Theme"
             - Add CSS file
             - Change CSS file depends what you need
@@ -290,7 +343,9 @@
             - Ми копіюємо Header and Footer із згаданим вище префіксом щоб файли в оригіналі залишались недоторканими
             - За замовчуванням  портал використовує INVERSE NAVBAR. Тому, якщо ви не хочете це використовувати то після того як зкопіюєте Header вам потрібно відредагувати цей веб шаблон, а саме видалити класс "navbar-inverse" з navbar div.
 
-    --> 3h DONE         # Worked on Learn Project                                                   
+    --> 3h DONE         # Worked on Learn Project    
+    Description: ""
+        Task:                                               
                 - RS-59 Custom Layout for Header
                 - RS-60 Custom Layout for Footer
                     "Portal Management app --> Web Templates --> Footer"
@@ -298,45 +353,97 @@
                         1just in case you need to rollback"
                 - RS-61 Create Schema file
     --> 1h DONE         # Spring meeting for IT
+    Description: ""
+        Task:
     -->                 # INFOTECH-16 "Implement Backup Strategy"
+    Description: ""
+        Task:
     -->                 # INFOTECH-6 "Create policy f:) or working on non-EC domain computers"
+    Description: ""
+        Task:
     -->                 # Meeting with Paul
+    Description: ""
+        Task:
     --> 1h DONE         # Video course and reading documentation
+    Description: ""
+        Task:
 
 02.02.2023
     --> MY Site: https://balchenkosergiy.github.io/FE-Dev/
+    Description: ""
+        Task:
     --> DONE 30m        # HQC - Maintenance is August and February
+    Description: ""
+        Task:
     --> DONE 30m        # Meeting with Teta to review daily tasks
+    Description: ""
+        Task:
     --> DONE 45m        # TRAIN-411 "Watching the MS Products Nick speech about evolution"
+    Description: ""
+        Task:
     --> DONE 1h 30m     # INFOTECH-7 "Process to create Dataverse Environments"
+    Description: ""
+        Task:
         - Created spreadsheet with information about all our environments
         - Created document in COnfluence "Process to create Dataverse Environment"
     -->                 # Change the confluence document about HQC Maintenance
+    Description: ""
+        Task:
     --> DONE 3h         # Meeting with Paul
+    Description: ""
+        Task:
     --> DONE 1h 45m     # Video course and reading documentation
+    Description: ""
+        Task:
 
 01.02.2023
     --> DONE            # Ask password for Coccon in Paul
+    Description: ""
+        Task:
     --> DONE 3h         # INFOTECH-55 "Procedure for exiting employee"
+    Description: ""
+        Task:
         - Researching information about protect information when Employee leave and he worked remotely. Best practice from different companies
         - Intune product
     --> DONE 45m        # AER Meeting - RECURRING
+    Description: ""
+        Task:
     --> DONE 3h 45m     # Video course and reading documentation
+    Description: ""
+        Task:
     --> DONE 30m        # Helped new employee
+    Description: ""
+        Task:
 
 
 31.01.2023
     --> DONE 3h 45m     # INFOTECH-64 "Set up computers for February employyees"
+    Description: ""
+        Task:
     --> DONE 45m        # Meeting "Cyber Security Review"
+    Description: ""
+        Task:
     --> DONE            # Upload video "200 - Celebrating..."
+    Description: ""
+        Task:
     --> DONE            # UPS - Talk to Nick about purchasing them
+    Description: ""
+        Task:
     --> DONE 3h 30m     # FNU/NCCIE - Monthly Maintenance Reports - RECURRING
+    Description: ""
+        Task:
     --> DONE            # LGAQ - remind about SSL, Nick Approved 
+    Description: ""
+        Task:
 
 30.01.2023
     --> DONE            # 15m INFOTECH-19 "Building Policies Confluence Page" 
+    Description: ""
+        Task:
         Updated document based on last meeting feedbacks
     --> DONE            # 4h INFOTECH-18 "Create procedure for new employee onboarding"
+    Description: ""
+        Task:
         Update document based on Nick's feedback:
             - Make the decision on if we absolutely need UPS on laptops based on cost
                 1. https://www.amazon.ca/CyberPower-EC850LCD-Ecologic-Outlets-Compact/dp/B00DBAA696/ref=sr_1_2_sspa?crid=ZGBBBYKSCTWB&keywords=CyberPower%2BEC850LCD&qid=1675110551&sprefix=cyberpower%2Bec850lcd%2Caps%2C392&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQkpBWkNRRklVNzVaJmVuY3J5cHRlZElkPUEwNjY4MTkwTExBOTA3VUVCSk5FJmVuY3J5cHRlZEFkSWQ9QTA0MTE5NTExOUFUTTlJUkRXRzBZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
@@ -348,8 +455,14 @@
                 3. Notepad ++
                 4. Microsoft Office
     --> DONE            # 1h "Quick Review of IT progress"
+    Description: ""
+        Task:
     --> DONE            # 1h 15m Report under Training"ARCTIC - Kick off Meeting"
+    Description: ""
+        Task:
     --> DONE            # 1h INFOTECH-15 "Create policy for document storage"
+    Description: ""
+        Task:
         "Our company policy provides for three environments to protect and save your work data:"
             - OneDrive: 
                 1. Personal files (Desktop, documents, etc.)
@@ -370,15 +483,25 @@
 
 27.01.2023
     --> DONE            # TRAIN-395
+    Description: ""
+        Task:
     --> DONE            # TRAIN-398 "Updating some spreadsheets and implementing a process" 1h 30m
+    Description: ""
+        Task:
 
     --> DONE            # INFOTECH-59 "Spring Meeting for IT" 1h 15m
+    Description: ""
+        Task:
 
     --> DONE            # INFOTECH-15 "Create policy for document storage"
+    Description: ""
+        Task:
         Researching
  
 
     --> DONE            # INFOTECH-19 "1329 Building Policies Confluence Page" 1h 30m
+    Description: ""
+        Task:
         Create a Confluence document that describes all 1329 building Policies:
             - 1. First employee in (Перший співробітник прийшов)
                 1.0 'Перед відкриттям дверей впевніться що ви знаєте актуальний пароль відключення сигналізації.'' (Before opening the door, make sure you know the current password for disarming the alarm.)
@@ -400,6 +523,8 @@
             - 5. Parking (Паркінг)
 
     --> DONE            # Manage SSL Certificates - Check which will finish less than 30 days.
+    Description: ""
+        Task:
         LGAQ:
             SSL Expire: February 25, 2023
             Days Until Expiration: 29
@@ -411,6 +536,8 @@
 
 26.01.2023
     --> DONE            # Inventory number include:
+    Description: ""
+        Task:
         001 - SK office (Regina)
         002 - ON office
         003 - Home
