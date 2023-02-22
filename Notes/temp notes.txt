@@ -11,7 +11,7 @@
         Description: "Meeting Weekly Status Meeting - EC and Patagonia"
         Task:
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 45m";     Status: ""
         # Description: "Meeting with Leasepath-- Leasepath Portal Priorities"
         # Task: LP-14
 
