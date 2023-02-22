@@ -1,23 +1,36 @@
+22.02.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: "Set up content"
+        Task: PAT-55
+    
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting Go through remaining Policy questions, also assign some activities"
+        Task:
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting Weekly Status Meeting - EC and Patagonia"
+        Task:
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting with Leasepath-- Leasepath Portal Priorities"
+        Task: 
+
 21.02.2023
     --> Time: "0h 00m";     Status: ""
         Description: "Meeting - Assigning activities for CS"
         Task:
-
-    --> Time: "0h 00m";     Status: ""
-        Description: "Meeting - Patagonia - Video Page brainstormYe"
+    
+    --> Time: "2h 00m";     Status: ""
+        Description: "PAT - PM with Paul - Meeting - Patagonia - Video Page brainstormYe"
         Task:
+   
+    --> Time: "4h 00m";     Status: ""
+        # Description: "Create Web Template"
+        # Task: PAT-54
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "Set up content"
-        Task: PAT-55
-
-    --> Time: "0h 00m";     Status: ""
-        Description: "Create Web Template"
-        Task: PAT-54
-
-    --> Time: "0h 00m";     Status: ""
-        Description: "Create Web Page"
-        Task: PAT-53
+    --> Time: "1h 00m";     Status: "DONE"
+        # Description: "Create Web Page"
+        # Task: PAT-53
 
 16.02.2023
     --> Time: "1h 30m";     Status: ""
