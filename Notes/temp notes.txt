@@ -4,8 +4,8 @@
         Task: PAT-55
     
     --> Time: "0h 45m";     Status: ""
-        Description: "Meeting Go through remaining Policy questions, also assign some activities"
-        Task: INFOTECH-71
+        # Description: "Meeting Go through remaining Policy questions, also assign some activities"
+        # Task: INFOTECH-71
 
     --> Time: "0h 45m";     Status: ""
         # Description: "Meeting Weekly Status Meeting - EC and Patagonia"
