@@ -3,13 +3,13 @@
         Description: "Set up content"
         Task: PAT-55
     
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 45m";     Status: ""
         Description: "Meeting Go through remaining Policy questions, also assign some activities"
-        Task:
+        Task: INFOTECH-71
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "Meeting Weekly Status Meeting - EC and Patagonia"
-        Task:
+    --> Time: "0h 45m";     Status: ""
+        # Description: "Meeting Weekly Status Meeting - EC and Patagonia"
+        # Task: PAT-60
 
     --> Time: "0h 45m";     Status: ""
         # Description: "Meeting with Leasepath-- Leasepath Portal Priorities"
