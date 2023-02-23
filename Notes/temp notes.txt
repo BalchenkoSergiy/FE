@@ -3,6 +3,10 @@
         Task:
 
 23.02.2023
+    --> Time: "1h 00m";     Status: ""
+        Description: "Read and study"
+        Task: 
+
     --> Time: "0h 00m";     Status: ""
         Description: "Q0502"
         Task: INFOTECH-111
@@ -15,15 +19,15 @@
         Description: ""
         Task: INFOTECH-108
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "0h 15m";     Status: ""
+        Description: "Q0303"
         Task: INFOTECH-107
     
     --> Time: "0h 00m";     Status: ""
         Description: "Meeting - Sprint Planning for Leasepath"
         Task:
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 15m";     Status: ""
         Description: "Meeting - AER B@C Azure Config"
         Task:
 
