@@ -2,11 +2,6 @@
         Description: ""
         Task:
 
-23.02.2023
-    --> Time: "1h 00m";     Status: ""
-        Description: "Read and study"
-        Task: 
-
     --> Time: "0h 00m";     Status: ""
         Description: "Q0502"
         Task: INFOTECH-111
@@ -15,21 +10,34 @@
         Description: ""
         Task: INFOTECH-110
 
-    --> Time: "3h 00m";     Status: ""
-        Description: ""
-        Task: INFOTECH-108
+23.02.2023
+    --> Time: "2h 00m";     Status: "DONE"
+        # Description: "Read and study"
+        # Task: INFOTECH-65
 
-    --> Time: "0h 15m";     Status: ""
-        Description: "Q0303"
-        Task: INFOTECH-107
+    --> Time: "1h 00m";     Status: "DONE"
+        # Description: "Creat web template"
+        # Task: PAT-52
+
+    --> Time: "0h 15m";     Status: "DONE"
+        # Description: "Create Web Page"
+        # Task: PAT-51
+
+    --> Time: "3h 30m";     Status: "DONE"
+        # Description: "Q0304 Document firewall inbound service ports in your IT DOCS"
+        # Task: INFOTECH-108
+
+    --> Time: "0h 30m";     Status: "DONE"
+        # Description: "Q0303"
+        # Task: INFOTECH-107
     
-    --> Time: "0h 30m";     Status: ""
-        Description: "Meeting - Sprint Planning for Leasepath"
-        Task:
+    --> Time: "0h 30m";     Status: "DONE"
+        # Description: "Meeting - Sprint Planning for Leasepath"
+        # Task: LP-14
 
-    --> Time: "0h 15m";     Status: ""
-        Description: "Meeting - AER B@C Azure Config"
-        Task:
+    --> Time: "0h 15m";     Status: "DONE"
+        # Description: "Meeting - AER B@C Azure Config"
+        # Task: TRAIN-419
 
 22.02.2023
     --> Time: "2h 00m";     Status: ""
