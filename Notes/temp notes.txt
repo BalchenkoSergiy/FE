@@ -1,3 +1,8 @@
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task:
+
+    
     --> Time: "0h 30m";     Status: "DONE"
         # Description: "Meeting - Backlog Refinement and Sprint Planning for Patagonia"
         # Task: PAT-68
@@ -6,14 +11,11 @@
         # Description: "Meeting - Sprint meeting for IT"
         # Task: INFOTECH-89
     
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
+    --> Time: "1h 30m";     Status: "DONE"
+        Description: "UPS Connectivity to all systems in Regina Office"
+        Task: INFOTECH-142
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "Q0502"
-        Task: INFOTECH-111
-    
+  
     --> Time: "2h 30m";     Status: "DONE"
         # Description: "Turn MFA on for email etc"
         # Task: INFOTECH-110
