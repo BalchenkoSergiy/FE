@@ -12,8 +12,8 @@
         # Task: INFOTECH-89
     
     --> Time: "1h 30m";     Status: "DONE"
-        Description: "UPS Connectivity to all systems in Regina Office"
-        Task: INFOTECH-142
+        # Description: "UPS Connectivity to all systems in Regina Office"
+        # Task: INFOTECH-142
 
   
     --> Time: "2h 30m";     Status: "DONE"
