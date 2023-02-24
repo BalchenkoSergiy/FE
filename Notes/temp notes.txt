@@ -1,3 +1,11 @@
+    --> Time: "0h 30m";     Status: "DONE"
+        # Description: "Meeting - Backlog Refinement and Sprint Planning for Patagonia"
+        # Task: PAT-68
+    
+    --> Time: "1h 00m";     Status: "DONE"
+        # Description: "Meeting - Sprint meeting for IT"
+        # Task: INFOTECH-89
+    
     --> Time: "0h 00m";     Status: ""
         Description: ""
         Task:
