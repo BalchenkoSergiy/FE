@@ -12,6 +12,10 @@ console.log('nameOfAnimal2', nameOfAnimal2, typeof(nameOfAnimal2));
 
 const bestProgramingLanguage1 = 'JavaScript'
 const bestProgramingLanguage2 = 'Java'
+console.log('We can`t reidentify const type of variable');
+console.log('bestProgramingLanguage1 = ', bestProgramingLanguage1, typeof(bestProgramingLanguage1));
+console.log('bestProgramingLanguage2 = ', bestProgramingLanguage2, typeof(bestProgramingLanguage2));
+
 
 let initialValue1;
 let initialValue2 = 0;
