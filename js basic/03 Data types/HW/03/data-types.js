@@ -19,7 +19,11 @@ initialValue2 = initialValue1;
 console.log('initialValue2', initialValue2, typeof(initialValue2));
 
 var isJavaScriptProgrammwe1 = true;
-var isJavaScriptProgrammwe2 = false;
+let isJavaScriptProgrammwe2 = false;
+console.log('var - is not recomended type of variable, it`s to old');
+isJavaScriptProgrammwe2 = isJavaScriptProgrammwe1
+console.log('isJavaScriptProgrammwe2', isJavaScriptProgrammwe2, typeof(isJavaScriptProgrammwe2));
+
 
 let helloText1 = 'Hello!';
 let helloText2 = 'Hello again!';
