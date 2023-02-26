@@ -27,3 +27,9 @@
     console.log('Type of experienceInJavaScript:', typeof (experienceInJavaScript));
 
 // Into Boolean
+    // null, undefine, Nan, 0, '' - ці варіанти при зміні у boolean завжди будуть false
+
+    console.log('hello', Boolean('hello'));
+    console.log('5', Boolean(5));
+
+    
