@@ -1,4 +1,8 @@
-27.02.2023
+28.02.2023
+--> Time: "0h 00m";     Status: ""
+    Description: "Create Pull request for Patagonia"
+    Task:
+
 --> Time: "0h 00m";     Status: ""
     Description: "Set up Content Management"
     Task: PAT-58
@@ -7,6 +11,15 @@
     Description: "Create Web Page"
     Task: PAT-52
 
+--> Time: "0h 00m";     Status: ""
+    Description: ""
+    Task:
+
+--> Time: "0h 00m";     Status: ""
+    Description: ""
+    Task:
+
+27.02.2023
 --> Time: "04h 00m";     Status: "DONE"
     # Description: "Connection UPS in Regina office"
     # Task: INFOTECH-142
@@ -19,21 +32,9 @@
     # Description: "Study"
     # Task: INFOTECH-65
 
---> Time: "0h 00m";     Status: ""
-    Description: "Create Pull request for Patagonia"
-    Task:
-
 --> Time: "0h 15m";     Status: ""
     # Description: "Torned MFA on for Jacob"
     # Task: INFOTECH-110
-
---> Time: "0h 00m";     Status: ""
-    Description: ""
-    Task:
-
---> Time: "0h 00m";     Status: ""
-    Description: ""
-    Task:
 
 24.02.2023 
     --> Time: "1h 15m";     Status: ""
