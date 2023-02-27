@@ -11,7 +11,7 @@
     Description: "Connection UPS in Regina office"
     Task: INFOTECH-142
 
---> Time: "0h 00m";     Status: ""
+--> Time: "0h 30m";     Status: ""
     Description: "Meeting - Leasepath Sprint Planning"
     Task:
 
