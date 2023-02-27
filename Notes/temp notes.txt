@@ -7,7 +7,7 @@
     Description: "Create Web Page"
     Task: PAT-52
 
---> Time: "03h 30m";     Status: ""
+--> Time: "04h 00m";     Status: ""
     Description: "Connection UPS in Regina office"
     Task: INFOTECH-142
 
