@@ -16,9 +16,9 @@
     Description: "Connected Paul computer to the UPS"
     Task:
 
---> Time: "0h 15m";     Status: ""
-    Description: "FNU/NCCIE Monthly Maintenance"
-    Task: FNUWEB-209
+--> Time: "0h 30m";     Status: ""
+    # Description: "FNU/NCCIE Monthly Maintenance"
+    # Task: FNUWEB-209, FNUNIVNCC-1880
 
 
 
