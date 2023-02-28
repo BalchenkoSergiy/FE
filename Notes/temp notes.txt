@@ -16,13 +16,16 @@
     Description: "Connected Paul computer to the UPS"
     Task:
 
---> Time: "0h 00m";     Status: ""
+--> Time: "0h 15m";     Status: ""
     Description: "FNU/NCCIE Monthly Maintenance"
-    Task:
+    Task: FNUWEB-209
+
+
+
 
 --> Time: "2h 00m";     Status: ""
-    Description: "HIRERIGHT SIGN UP"
-    Task: HR-192
+    # Description: "HIRERIGHT SIGN UP"
+    # Task: HR-192
 
 27.02.2023
 --> Time: "04h 00m";     Status: "DONE"
