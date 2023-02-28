@@ -12,11 +12,11 @@
     Task: PAT-52
 
 --> Time: "0h 00m";     Status: ""
-    Description: ""
+    Description: "Connected Paul computer to the UPS"
     Task:
 
 --> Time: "0h 00m";     Status: ""
-    Description: ""
+    Description: "FNU/NCCIE Monthly Maintenance"
     Task:
 
 27.02.2023
