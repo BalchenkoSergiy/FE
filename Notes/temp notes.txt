@@ -20,7 +20,9 @@
     # Description: "FNU/NCCIE Monthly Maintenance"
     # Task: FNUWEB-209, FNUNIVNCC-1880
 
-
+    --> Time: "1h 30m";     Status: ""
+    # Description: "Study"
+    # Task: INFOTECH-65
 
 
 --> Time: "2h 00m";     Status: ""
