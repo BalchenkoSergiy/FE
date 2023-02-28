@@ -1,4 +1,5 @@
 28.02.2023
+
 --> Time: "0h 00m";     Status: ""
     Description: "Create Pull request for Patagonia"
     Task:
@@ -18,6 +19,10 @@
 --> Time: "0h 00m";     Status: ""
     Description: "FNU/NCCIE Monthly Maintenance"
     Task:
+
+--> Time: "2h 00m";     Status: ""
+    Description: "HIRERIGHT SIGN UP"
+    Task: HR-192
 
 27.02.2023
 --> Time: "04h 00m";     Status: "DONE"
