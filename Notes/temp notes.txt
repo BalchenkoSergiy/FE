@@ -7,7 +7,7 @@
         Description: "Meeting - Vespa Project Intro"
         Task: DWD-4
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 30m";     Status: ""
         Description: "Weekly Status meeting - EC and Patagonia"
         Task:
 
