@@ -5,7 +5,7 @@
 
     --> Time: "0h 30m";     Status: ""
         Description: "Meeting - Vespa Project Intro"
-        Task:
+        Task: DWD-4
 
     --> Time: "0h 00m";     Status: ""
         Description: "Weekly Status meeting - EC and Patagonia"
@@ -15,8 +15,8 @@
         Description: "Create Pull request for Patagonia"
         Task:
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "Set up Content Management"
+    --> Time: "0h 45m";     Status: ""
+        Description: "Set up Content Management - WOrked with Paul"
         Task: PAT-58
 
     --> Time: "0h 00m";     Status: ""
