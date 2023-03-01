@@ -1,48 +1,53 @@
---> Time: "0h 00m";     Status: ""
-    Description: "Create Pull request for Patagonia"
-    Task:
+01.03.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: "Weekly Status meeting - EC and Patagonia"
+        Task:
+        
+    --> Time: "0h 00m";     Status: ""
+        Description: "Create Pull request for Patagonia"
+        Task:
 
---> Time: "0h 00m";     Status: ""
-    Description: "Set up Content Management"
-    Task: PAT-58
+    --> Time: "0h 00m";     Status: ""
+        Description: "Set up Content Management"
+        Task: PAT-58
 
---> Time: "0h 00m";     Status: ""
-    Description: "Create Web Page"
-    Task: PAT-52
+    --> Time: "0h 00m";     Status: ""
+        Description: "Create Web Page"
+        Task: PAT-52
 
---> Time: "0h 00m";     Status: ""
-    Description: "Connected Paul computer to the UPS"
-    Task:
+    --> Time: "0h 00m";     Status: ""
+        Description: "Connected Paul computer to the UPS"
+        Task:
 
 28.02.2023
---> Time: "0h 30m";     Status: ""
-    # Description: "FNU/NCCIE Monthly Maintenance"
-    # Task: FNUWEB-209, FNUNIVNCC-1880
+    --> Time: "0h 30m";     Status: ""
+        # Description: "FNU/NCCIE Monthly Maintenance"
+        # Task: FNUWEB-209, FNUNIVNCC-1880
 
---> Time: "1h 30m";     Status: ""
-    # Description: "Study"
-    # Task: INFOTECH-65
+    --> Time: "1h 30m";     Status: ""
+        # Description: "Study"
+        # Task: INFOTECH-65
 
---> Time: "2h 00m";     Status: ""
-    # Description: "HIRERIGHT SIGN UP"
-    # Task: HR-192
+    --> Time: "2h 00m";     Status: ""
+        # Description: "HIRERIGHT SIGN UP"
+        # Task: HR-192
 
 27.02.2023
---> Time: "04h 00m";     Status: "DONE"
-    # Description: "Connection UPS in Regina office"
-    # Task: INFOTECH-142
+    --> Time: "04h 00m";     Status: "DONE"
+        # Description: "Connection UPS in Regina office"
+        # Task: INFOTECH-142
 
---> Time: "0h 30m";     Status: ""
-    # Description: "Meeting - Leasepath Sprint Planning"
-    # Task: LP-18
+    --> Time: "0h 30m";     Status: ""
+        # Description: "Meeting - Leasepath Sprint Planning"
+        # Task: LP-18
 
---> Time: "3h 15m";     Status: ""
-    # Description: "Study"
-    # Task: INFOTECH-65
+    --> Time: "3h 15m";     Status: ""
+        # Description: "Study"
+        # Task: INFOTECH-65
 
---> Time: "0h 15m";     Status: ""
-    # Description: "Torned MFA on for Jacob"
-    # Task: INFOTECH-110
+    --> Time: "0h 15m";     Status: ""
+        # Description: "Torned MFA on for Jacob"
+        # Task: INFOTECH-110
 
 24.02.2023 
     --> Time: "1h 15m";     Status: ""
