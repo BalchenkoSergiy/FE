@@ -1,8 +1,12 @@
 01.03.2023
     --> Time: "0h 00m";     Status: ""
+        Description: "Meeting - Vespa Project Intro"
+        Task:
+
+    --> Time: "0h 00m";     Status: ""
         Description: "Weekly Status meeting - EC and Patagonia"
         Task:
-        
+
     --> Time: "0h 00m";     Status: ""
         Description: "Create Pull request for Patagonia"
         Task:
