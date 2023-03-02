@@ -7,7 +7,7 @@
         Description: "Create Pull request for Patagonia"
         Task:
     
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 00m";     Status: ""
         Description: "Meeting - Engineered Code and Matt"
         Task: INFOTECH-71
     
