@@ -1,9 +1,21 @@
-
+02.03.2023
+    --> Time: "0h 15m";     Status: ""
+        Description: "Connect nick Computer to the UPS"
+        Task:
+    
     --> Time: "0h 00m";     Status: ""
         Description: "Create Pull request for Patagonia"
         Task:
+    
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting - Engineered Code and Matt"
+        Task: INFOTECH-71
+    
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting - Vespa Power Pages best practices"
+        Task: DWD-4
 
-    --> Time: "2h 00m";     Status: ""
+    --> Time: "0h 00m";     Status: ""
         Description: "Study"
         Task: INFOTECH-65
 
