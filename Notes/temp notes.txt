@@ -1,3 +1,12 @@
+03.03.2023
+--> Time: "0h 00m";     Status: "DONE"
+        Description: "Meeting - Sprint meeting for IT"
+        Task: INFOTECH-89
+
+--> Time: "0h 00m";     Status: ""
+        Description: "Create Pull request for Patagonia"
+        Task: 
+
 02.03.2023
     --> Time: "0h 15m";     Status: ""
         # Description: "Connect nick Computer to the UPS"
@@ -14,8 +23,8 @@
             # Task: PAT-58
 
     --> Time: "1h 00m";     Status: ""
-        ! Description: "Meeting - Engineered Code and Matt"
-        ! Task: INFOTECH-71
+        # Description: "Meeting - Engineered Code and Matt"
+        # Task: INFOTECH-71
     
     --> Time: "2h 00m";     Status: ""
         # Description: "Meeting - Vespa Power Pages best practices"
