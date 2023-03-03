@@ -1,13 +1,13 @@
 03.03.2023
---> Time: "0h 00m";     Status: "DONE"
-        Description: "Meeting - Sprint meeting for IT"
-        Task: INFOTECH-89
+    --> Time: "1h 00m";     Status: "DONE"
+        # Description: "Meeting - Sprint meeting for IT"
+        # Task: INFOTECH-89
 
---> Time: "0h 00m";     Status: ""
+    --> Time: "0h 00m";     Status: ""
         Description: "Create Pull request for Patagonia"
         Task: 
 
---> Time: "3h 30m";     Status: ""
+    --> Time: "3h 30m";     Status: ""
         Description: "Worked on Patagonia project"
         Task: 
 
