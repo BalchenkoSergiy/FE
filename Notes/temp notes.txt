@@ -7,6 +7,10 @@
         Description: "Create Pull request for Patagonia"
         Task: 
 
+--> Time: "3h 30m";     Status: ""
+        Description: "Worked on Patagonia project"
+        Task: 
+
 02.03.2023
     --> Time: "0h 15m";     Status: ""
         # Description: "Connect nick Computer to the UPS"
