@@ -8,8 +8,8 @@
         # Task: PAT-71
 
     --> Time: "2h 00m";     Status: ""
-        Description: "Worked on Patagonia project - Power Pages 30 Days Learning Challenge"
-        Task: INFOTECH-65
+        # Description: "Worked on Patagonia project - Power Pages 30 Days Learning Challenge"
+        # Task: INFOTECH-65
 
     --> Time: "1h 00m";     Status: ""
         # Description: "Vespa meeting"
