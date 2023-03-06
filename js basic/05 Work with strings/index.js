@@ -65,4 +65,4 @@ console.log('repeat for text -->', text.repeat(2)) // My favourite language is J
 // trim - delete spaces
 const nameOfUser = prompt ('What is your name?')
 console.log (nameOfUser)
-console.log ('trim for nameOfUser -->', nameOfUser.trim()) //Serhii - (Without spaces around)
+console.log ('trim for nameOfUser -->', nameOfUser.trim()) //Serhii - (Without spaces aroundgbnfgbn)
