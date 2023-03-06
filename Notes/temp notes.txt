@@ -3,6 +3,10 @@
         Description: "Vespa - reading project documentation about best practices"
         Task: DWD-4
 
+    --> Time: "4h 00m";     Status: ""
+        Description: "Worked on Patagonia project"
+        Task: 
+
 
 03.03.2023
     --> Time: "1h 00m";     Status: "DONE"
