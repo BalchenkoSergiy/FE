@@ -1,3 +1,9 @@
+06.03.2023
+    --> Time: "0h 30m";     Status: "DONE"
+        Description: "Vespa - reading project documentation about best practices"
+        Task: DWD-4
+
+
 03.03.2023
     --> Time: "1h 00m";     Status: "DONE"
         # Description: "Meeting - Sprint meeting for IT"
