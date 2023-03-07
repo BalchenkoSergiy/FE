@@ -3,13 +3,15 @@
         Description: "Torne on MFA and Firewall for remote staff"
         Task: INFOTECH-107, INFOTECH-110
     
-    --> Time: "4h 00m";     Status: ""
+    --> Time: "5h 30m";     Status: ""
         Description: "Worked on Patagonia project (Set up Content Management)"
         Task: PAT-58
     
     --> Time: "1h 30m";     Status: ""
         Description: "Reserch Headsets"
         Task: INFOTECH-164
+
+    PR
     
 06.03.2023
     --> Time: "0h 30m";     Status: "DONE"
