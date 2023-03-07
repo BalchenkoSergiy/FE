@@ -7,6 +7,10 @@
         Description: "Worked on Patagonia project (Set up Content Management)"
         Task: PAT-58
     
+    --> Time: "1h 30m";     Status: ""
+        Description: "Reserch Headsets"
+        Task: INFOTECH-164
+    
 06.03.2023
     --> Time: "0h 30m";     Status: "DONE"
         # Description: "Vespa - reading project documentation about best practices"
