@@ -1,16 +1,23 @@
+07.03.2023
+
 06.03.2023
     --> Time: "0h 30m";     Status: "DONE"
-        Description: "Vespa - reading project documentation about best practices"
-        Task: DWD-4
+        # Description: "Vespa - reading project documentation about best practices"
+        # Task: DWD-4
 
     --> Time: "3h 30m";     Status: ""
-        Description: "Worked on Patagonia project"
-        Task: 
+        # Description: "Worked on Patagonia project (Set up Content Management)"
+        # Task: PAT-58
     
     --> Time: "4h 00m";     Status: ""
-        Description: "Managed cables"
-        Task: 
+        # Description: "Managed cables"
+        # Task: 
+    
+        --> Time: "0h 30m";     Status: ""
+        Description: "Torne on MFA and Firewall for remote staff"
+        Task: INFOTECH-107, INFOTECH-110
 
+    --> 
 
 03.03.2023
     --> Time: "1h 00m";     Status: "DONE"
