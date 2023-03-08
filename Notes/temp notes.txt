@@ -1,10 +1,10 @@
 08.03.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 45m";     Status: ""
         Description: "Meeting - EC and Patagonia"
         Task: PAT-68
 
     --> Time: "0h 00m";     Status: ""
-        Description: "Security Training - How to create Password"
+        Description: "Check problems with PCs which don't working"
         Task:
     
     --> Time: "1h 00m";     Status: ""
