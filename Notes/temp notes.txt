@@ -1,3 +1,13 @@
+08.03.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting - EC and Patagonia"
+        Task: PAT-68
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Security Training - How to create Password"
+        Task:
+
+
 07.03.2023
     --> Time: "0h 30m";     Status: ""
         # Description: "Torne on MFA and Firewall for remote staff"
