@@ -1,17 +1,19 @@
 07.03.2023
     --> Time: "0h 30m";     Status: ""
-        Description: "Torne on MFA and Firewall for remote staff"
-        Task: INFOTECH-107, INFOTECH-110
+        # Description: "Torne on MFA and Firewall for remote staff"
+        # Task: INFOTECH-107, INFOTECH-110
     
     --> Time: "5h 30m";     Status: ""
-        Description: "Worked on Patagonia project (Set up Content Management)"
-        Task: PAT-58
+        # Description: "Worked on Patagonia project (Set up Content Management)"
+        # Task: PAT-58
     
     --> Time: "1h 30m";     Status: ""
-        Description: "Reserch Headsets"
-        Task: INFOTECH-164
+        # Description: "Reserch Headsets"
+        # Task: INFOTECH-164
 
-    PR
+    --> Time: "0h 30m";     Status: ""
+        # Description: "PR for preseason page"
+        # Task: PAT-72
     
 06.03.2023
     --> Time: "0h 30m";     Status: "DONE"
