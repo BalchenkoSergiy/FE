@@ -11,7 +11,7 @@
         Description: "Update the organization password policy to require passwords have a minimum password length ets"
         Task: INFOTECH-113
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 00m";     Status: ""
         Description: "Meeting - EC and Matt"
         Task: 
 
