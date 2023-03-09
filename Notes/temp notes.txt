@@ -3,7 +3,7 @@
         Description: "Meeting - Quarterly One to One"
         Task: 
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "2h 00m";     Status: ""
         Description: "Device security storage Policy for Regina staff"
         Task: INFOTECH-92
 
