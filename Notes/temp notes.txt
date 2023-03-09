@@ -4,8 +4,8 @@
         # Task: PAT-68
 
     --> Time: "5h 30m";     Status: ""
-        ! Description: "Check problems with PCs which don't working"
-        ! :Task:
+        # Description: "Check problems with PCs which don't working"
+        # :Task:
     
     --> Time: "1h 00m";     Status: ""
         # Description: "Reserch Headsets"
