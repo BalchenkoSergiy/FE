@@ -1,19 +1,19 @@
 08.03.2023
     --> Time: "0h 45m";     Status: ""
-        Description: "Meeting - EC and Patagonia"
-        Task: PAT-68
+        # Description: "Meeting - EC and Patagonia"
+        # Task: PAT-68
 
     --> Time: "5h 30m";     Status: ""
-        Description: "Check problems with PCs which don't working"
-        Task:
+        ! Description: "Check problems with PCs which don't working"
+        ! :Task:
     
     --> Time: "1h 00m";     Status: ""
-        Description: "Reserch Headsets"
-        Task: INFOTECH-164
+        # Description: "Reserch Headsets"
+        # Task: INFOTECH-164
     
     --> Time: "0h 45m";     Status: ""
-        Description: "Worked on Patagonia project (Set up Content Management)"
-        Task: PAT-58
+        # Description: "Worked on Patagonia project (Set up Content Management)"
+        # Task: PAT-58
 
 
 07.03.2023
