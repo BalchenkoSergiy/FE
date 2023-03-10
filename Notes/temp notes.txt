@@ -37,8 +37,8 @@
         # Task: INFOTECH-113
 
     --> Time: "1h 00m";     Status: ""
-        ! Description: "Meeting - EC and Matt"
-        ! Task: INFOTECH-71
+        # Description: "Meeting - EC and Matt"
+        # Task: INFOTECH-71
 
     --> Time: "2h 00m";     Status: ""
         Description: "Worked on Patagonia project (Set up Content Management)"
