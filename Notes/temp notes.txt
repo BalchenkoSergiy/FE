@@ -1,3 +1,28 @@
+10.03.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: "Implement backup Strategy"
+        Task: INFOTECH-16
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting - Sprint meeting for IT"
+        Task: 
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Q1203 - Restrict Administrator accounts"
+        Task: INFOTECH-150
+
+    --> Time: "0h 00m";     Status: ""
+        ! Description: "Q1303 - Implement an asset tracking system for portable media"
+        ! Task: INFOTECH-139
+
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+    
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
 09.03.2023
     --> Time: "0h 00m";     Status: ""
         Description: "Meeting - Quarterly One to One"
