@@ -3,9 +3,9 @@
         # Description: "Worked on Patagonia project (Set up Content Management)"
         # Task: PAT-58
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "Implement backup Strategy"
-        Task: INFOTECH-16
+    --> Time: "2h 30m";     Status: ""
+        # Description: "Liquid in HTML"
+        # Task: TRAIN-432
 
     --> Time: "1h 30m";     Status: ""
         # Description: "Meeting - Sprint meeting for IT"
