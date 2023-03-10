@@ -1,15 +1,15 @@
 10.03.2023
     --> Time: "4h 00m";     Status: ""
-        Description: "Worked on Patagonia project (Set up Content Management)"
-        Task: PAT-58
+        # Description: "Worked on Patagonia project (Set up Content Management)"
+        # Task: PAT-58
 
     --> Time: "0h 00m";     Status: ""
         Description: "Implement backup Strategy"
         Task: INFOTECH-16
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "Meeting - Sprint meeting for IT"
-        Task: 
+    --> Time: "1h 30m";     Status: ""
+        # Description: "Meeting - Sprint meeting for IT"
+        # Task: INFOTECH-172
 
     --> Time: "0h 00m";     Status: ""
         Description: "Q1203 - Restrict Administrator accounts"
@@ -45,8 +45,8 @@
         # Task: INFOTECH-71
 
     --> Time: "2h 00m";     Status: ""
-        Description: "Worked on Patagonia project (Set up Content Management)"
-        Task: PAT-58
+        # Description: "Worked on Patagonia project (Set up Content Management)"
+        # Task: PAT-58
     
     --> Time: "1h 00m";     Status: ""
         # Description: "Implement Backup Strategy"
