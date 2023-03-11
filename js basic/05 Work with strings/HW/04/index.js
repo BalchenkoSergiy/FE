@@ -1,4 +1,4 @@
-// HW 05/03
+// HW 05/04
 
 const userAnswer = ((prompt('Insert your Name please')).toUpperCase()).trim();
 
