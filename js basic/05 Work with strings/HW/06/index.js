@@ -1,14 +1,8 @@
 // HW 06/05
 
-const userString = (prompt('Insert your text please')).trim();
-let startSliceIndex = (prompt('Insert your startSliceIndex please')).trim();
-startSliceIndex = Number(startSliceIndex)
+const userText = (prompt('Insert your text please')).trim();
+const wordFromText = (prompt('Insert word from userText')).trim();
+const indexOfWord = Number (userText.indexOf(wordFromText))
 
-let endSliceIndex = (prompt('Insert your endSliceIndex please')).trim();
-endSliceIndex = Number(endSliceIndex)
-
-
-console.log(`Origin string: ${userString}`)
-console.log(`Result string: ${userString.slice(startSliceIndex, endSliceIndex)}`)
-
-alert(`Result string: ${userString.slice(startSliceIndex, endSliceIndex)}`)
+console.log(`Result string: ${userText.slice(0, indexOfWord)}`)
+alert(`Result string: ${userText.slice(0, indexOfWord)}`)
