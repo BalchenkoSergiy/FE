@@ -1,11 +1,11 @@
 13.03.2023
     --> Time: "4h 00m";     Status: ""
-        Description: "Work onDocument about Cyber Security"
-        Task: INFOTECH-176
+        # Description: "Work onDocument about Cyber Security"
+        # Task: INFOTECH-176
 
     --> Time: "1h 30m";     Status: ""
-        Description: "Research headsets"
-        Task:
+        # Description: "Research headsets"
+        # Task:
 
 10.03.2023
     --> Time: "4h 00m";     Status: ""
