@@ -14,6 +14,16 @@ if (programingLanguage  === 'JavaScript' && experienceInYear > 1) {
 
 
 // || (OR)
+const currentHours = 10
+
+if (currentHours  < 8 ||  currentHours  > 20) {
+    console.log('We are closed, welcome back tomorrow!')
+} else {
+    console.log ('Welcome to our office')
+}
+
+-11 min
+
 // ! (NOT)
 
 
