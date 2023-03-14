@@ -1,3 +1,29 @@
+// && (AND)
+const userAge = 16
+if (userAge > 5 && userAge <= 18) {
+    console.log('User going to School')
+}
+
+
+const programingLanguage = 'JavaScript'
+const experienceInYear = 2
+
+if (programingLanguage  === 'JavaScript' && experienceInYear > 1) {
+    console.log('Welcome to our Company')
+}
+
+
+// || (OR)
+// ! (NOT)
+
+
+
+
+
+
+
+
+/*
 // if
 const isFronEndDeveloper = true;
 
@@ -53,3 +79,4 @@ const message = favoriteDrink === 'Coffee'
     : 'You don`t like coffee'
 
 console.log('message -->>', message)
+*/
