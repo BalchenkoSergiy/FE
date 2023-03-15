@@ -3,11 +3,11 @@
         Description: "MS to reset password today"
         Task: 
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "Q1303 - Implement an asset tracking system for portable media"
-        Task: INFOTECH-139
+    --> Time: "3h 00m";     Status: ""
+        # Description: "Q1303 - Implement an asset tracking system for portable media"
+        # Task: INFOTECH-139
     
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 30m";     Status: ""
         Description: "Q1203 - Restrict administrator accounts from performing non-administrative tasks"
         Task: INFOTECH-150
 
