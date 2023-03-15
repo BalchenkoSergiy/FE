@@ -10,11 +10,15 @@
     --> Time: "0h 30m";     Status: ""
         # Description: "Q1203 - Restrict administrator accounts from performing non-administrative tasks"
         # Task: INFOTECH-150
+    
+    --> Time: "0h 00m";     Status: ""
+        Description: "Create CRM Configuration"
+        Task: PRAUG-964
 
 14.03.2023
     --> Time: "7h 30m";     Status: ""
-        Description: "Elekctions SK Azure Migration"
-        Task: 
+        # Description: "Elekctions SK Azure Migration"
+        # Task: 
     
     --> Time: "0h 30m";     Status: ""
         # Description: "Meeting - Leasepath Portal"
