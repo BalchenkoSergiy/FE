@@ -7,13 +7,17 @@
         # Description: "Q1303 - Implement an asset tracking system for portable media"
         # Task: INFOTECH-139
     
-    --> Time: "0h 30m";     Status: ""
+    --> Time: "1h 00m";     Status: ""
         # Description: "Q1203 - Restrict administrator accounts from performing non-administrative tasks"
         # Task: INFOTECH-150
     
-    --> Time: "0h 00m";     Status: ""
-        Description: "Create CRM Configuration"
-        Task: PRAUG-964
+    --> Time: "2h 30m";     Status: ""
+        Description: "Studying"
+        Task: 
+
+    --> Time: "0h 30m";     Status: ""
+        # Description: "Meeting - ElectionsSK next steps"
+        # Task: ESKSUP-129
 
 14.03.2023
     --> Time: "7h 30m";     Status: ""
