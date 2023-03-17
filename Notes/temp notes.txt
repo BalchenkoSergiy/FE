@@ -3,21 +3,13 @@
         # Description: "Meeting - EC and Matt"
         # Task: INFOTECH-71
 
-    --> Time: "2h 00m";     Status: ""
-        Description: "Fix issues with Workbench/Export"
-        Task: ESKSUP-135
+    --> Time: "4h 00m";     Status: ""
+        # Description: "Fix issues with Workbench/Export"
+        # Task: ESKSUP-135
 
     --> Time: "3h 00m";     Status: ""
         # Description: "Setup non root users for MySQL"
         # Task: ESKSUP-137
-
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task: 
-
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task: 
 
 15.03.2023
     --> Time: "1h 00m";     Status: ""
