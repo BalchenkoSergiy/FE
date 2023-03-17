@@ -1,3 +1,20 @@
+17.03.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Fix issues with Workbench/Export"
+        Task: ESKSUP-135
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Move connection strings to Key Vault"
+        Task: ESKSUP-138
+    
+    --> Time: "0h 00m";     Status: ""
+        Description: "Turn off web apps in old tenant"
+        Task: ESKSUP-136
+
 16.03.2023
     --> Time: "1h 00m";     Status: ""
         # Description: "Meeting - EC and Matt"
