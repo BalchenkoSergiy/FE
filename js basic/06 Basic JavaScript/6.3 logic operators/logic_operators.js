@@ -22,71 +22,36 @@ if (currentHours  < 8 ||  currentHours  > 20) {
     console.log ('Welcome to our office')
 }
 
--11 min
+
+const userNickname = null
+const defaultNickname = 'User'
+const nickname = userNickname || defaultNickname || 'noname'
+console.log('nickname', nickname)
+
+const finalNickname = userNickname && 'User real'
+console.log('finalNickname', finalNickname) 
 
 // ! (NOT)
+const hasAccess = true
+if (!hasAccess) {
+    console.log('Access was dannied')
+} else {
+    console.log ('Access opened')
+}
 
 
+const answer = prompt('How old are you?')
+if (!answer) {
+    alert ('How old are you?')
+} else {
+    alert(`You are ${answer}`)
+}38
 
 
-
-
-
-
+// ?? (Оператор об'єднання з null) - Дуже схоже на OR
 /*
-// if
-const isFronEndDeveloper = true;
-
-if (isFronEndDeveloper) {
-    console.log('Congratulation! You are FrontEnd Developer!')
-} else {
-    console.log('You are not FrontEnd Developer')
-}
-
-// if else
-const closingTime = 8;
-const currentTime = 9;
-
-if (currentTime > closingTime) {
-    console.log('Store is closed')
-} else {
-    console.log('Store is open, WELCOME!')
-}
-
-const developerJobType = 'Front-End';
-
-if (developerJobType === 'Front-End') {
-    console.log ('2000$')
-} else if (developerJobType ==='Back-End') {
-    console.log ('1500$')
-} else if (developerJobType ==='Full-Stack') {
-    console.log ('3500$')
-}  else {
-    console.log('Not Accepted')
-}
-
-
-// switch case
-
-switch (developerJobType) {
-    case 'Front-End': 
-        console.log ('2000$');
-        break;
-    case 'Back-End': 
-        console.log ('1500$');
-        break;
-    case 'Full-Stack': 
-        console.log ('3500$');
-        break;
-    default:
-        console.log('Not Accepted')
-}
-
-// ? : (По факту це заміна if else)
-const favoriteDrink = 'Coffee'
-const message = favoriteDrink === 'Coffee' 
-    ? 'Your favorite drink is Coffee' 
-    : 'You don`t like coffee'
-
-console.log('message -->>', message)
+    Для оператора || хибними значеннями являються: false, 0, '', NaN, undefined, null
+    Для оператора ?? хибними значеннями являються: undefined, null
 */
+console.log (false || 'Hello world')
+console.log (false ?? 'Hello world')
