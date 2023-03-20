@@ -7,15 +7,15 @@
 20.03.2023
     --> Time: "0h 30m";     Status: ""
         Description: "Headsets - letter"
-        Task: 
+        Task: INFOTECH-164
 
     --> Time: "1h 15m";     Status: ""
         Description: "Researching for CHat GPT"
         Task: 
 
-    --> Time: "2h 00m";     Status: ""
-        Description: "MFA for users"
-        Task: INFOTECH 110
+    --> Time: "2h 15m";     Status: ""
+        # Description: "MFA for users"
+        # Task: INFOTECH 110
 
     --> Time: "1h 00m";     Status: ""
         Description: "Elections SK - Stoped SQL DB, renamed Secrets in Key vlt"
