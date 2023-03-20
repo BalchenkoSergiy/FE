@@ -9,21 +9,21 @@
         # Description: "Fix issues with Workbench/Export"
         # Task: ESKSUP-135
 
-    --> Time: "0h 00m";     Status: ""
-        # Description: "Move connection strings to Key Vault"
+    --> Time: "4h 00m";     Status: ""
+        # Description: "Created KeyVlt, modified WebApp, tested websites"
         # Task: ESKSUP-138
     
-    --> Time: "0h 00m";     Status: ""
-        Description: "Turn off web apps in old tenant"
-        Task: ESKSUP-136
+    --> Time: "1h 00m";     Status: ""
+        # Description: "Turn off web apps in old tenant"
+        # Task: ESKSUP-136
     
     --> Time: "1h 00m";     Status: ""
         # Description: "Meeting - Srint meeting for IT"
-        Task:
+        # Task: INFOTECH-172
         
     --> Time: "1h 00m";     Status: ""
-        #Description: "Meeting - New Employee Meeting to discuss and questions"
-        Task:
+        # Description: "Meeting - New Employee Meeting to discuss and questions"
+        # Task: HR-184
 
 16.03.2023
     --> Time: "1h 00m";     Status: ""
