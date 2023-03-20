@@ -21,10 +21,6 @@
         # Description: "Elections SK - Stoped SQL DB, renamed Secrets in Key vlt"
         # Task: ESKSUP-137
 
-    --> Time: "0h 15m";     Status: ""
-        Description: "Meeting for Elections SK"
-        Task:
-
     --> Time: "2h 00m";     Status: ""
         Description: "Meeting - MS Knowledge Transfer Meetings"
         Task: 
