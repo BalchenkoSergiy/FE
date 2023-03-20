@@ -18,8 +18,8 @@
         # Task: INFOTECH 110
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Elections SK - Stoped SQL DB, renamed Secrets in Key vlt"
-        Task:
+        # Description: "Elections SK - Stoped SQL DB, renamed Secrets in Key vlt"
+        # Task:
 
     --> Time: "0h 15m";     Status: ""
         Description: "Meeting for Elections SK"
