@@ -10,8 +10,8 @@
         ! Task: INFOTECH-164
 
     --> Time: "1h 15m";     Status: ""
-        ! Description: "Researching for CHat GPT"
-        ! Task: 
+        #  Description: "Researching for CHat GPT"
+        # Task: TRAIN-434
 
     --> Time: "2h 15m";     Status: ""
         # Description: "MFA for users"
