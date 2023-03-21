@@ -6,13 +6,13 @@
 
 21.03.2023
     --> Time: "3h 00m";     Status: ""
-        Description: "Meeting - MS Knowledge Transfer Meetings"
-        Task: MSFTCP-439
+        # Description: "Meeting - MS Knowledge Transfer Meetings"
+        # Task: MSFTCP-439
 
     --> Time: "0h 00m";     Status: ""
         Description: ""
         Task:   
-        
+
     --> Time: "0h 00m";     Status: ""
         Description: ""
         Task: 
