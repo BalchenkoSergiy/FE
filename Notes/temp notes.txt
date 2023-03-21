@@ -11,8 +11,8 @@
 
 20.03.2023
     --> Time: "0h 30m";     Status: ""
-        ! Description: "Headsets - letter"
-        ! Task: INFOTECH-164
+        # Description: "Headsets - letter"
+        # Task: INFOTECH-164
 
     --> Time: "1h 15m";     Status: ""
         #  Description: "Researching for CHat GPT"
