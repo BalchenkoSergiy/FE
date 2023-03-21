@@ -22,8 +22,8 @@
         # Task: ESKSUP-137
 
     --> Time: "2h 00m";     Status: ""
-        ! Description: "Meeting - MS Knowledge Transfer Meetings"
-        ! Task: 
+        # Description: "Meeting - MS Knowledge Transfer Meetings"
+        # Task: 
 
     --> Time: "1h 00m";     Status: ""
         # Description: "Meeting - Monthly Meeting for Staff"
