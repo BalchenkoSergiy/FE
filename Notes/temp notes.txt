@@ -6,8 +6,8 @@
 
 22.03.2023
     --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
+        Description: "CS - Incident Response Plan"
+        Task: PRAUG-964
 
     --> Time: "0h 00m";     Status: ""
         Description: "Meeting - MS Knowledge Transfer Meetings"
