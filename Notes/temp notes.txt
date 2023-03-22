@@ -6,7 +6,7 @@
 
 22.03.2023
     --> Time: "0h 00m";     Status: ""
-        Description: "CS - Incident Response Plan"
+        Description: "Create CRM Configuration"
         Task: PRAUG-964
 
     --> Time: "0h 00m";     Status: ""
