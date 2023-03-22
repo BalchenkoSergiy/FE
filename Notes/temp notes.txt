@@ -13,6 +13,10 @@
         Description: "Meeting - MS Knowledge Transfer Meetings"
         Task: MSFTCP-439
 
+    --> Time: "4h 00m";     Status: ""
+        Description: "Research headsets"
+        Task: INFOTECH-164
+
 21.03.2023
     --> Time: "3h 00m";     Status: ""
         # Description: "Meeting - MS Knowledge Transfer Meetings"
