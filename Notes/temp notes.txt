@@ -9,11 +9,11 @@
         Description: "Meeting - EC and Matt"
         Task: INFOTECH-71
     
-    --> Time: "2h 30m";     Status: ""
+    --> Time: "3h 00m";     Status: ""
         Description: "Stacktech - delete old DB"
         Task:
 
-    --> Time: "1h 00m";     Status: ""
+    --> Time: "2h 00m";     Status: ""
         Description: "IT Staff - clearing"
         Task:
 
