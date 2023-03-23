@@ -6,16 +6,20 @@
 
 23.03.2023
     --> Time: "0h 45m";     Status: ""
-        Description: "Meeting - EC and Matt"
-        Task: INFOTECH-71
-    
-    --> Time: "2h 30m";     Status: ""
-        Description: "Stacktech - delete old DB"
-        Task:
+        # Description: "Meeting - EC and Matt"
+        # Task: INFOTECH-71
 
-    --> Time: "1h 00m";     Status: ""
-        Description: "IT Staff - clearing"
-        Task:
+    --> Time: "2h 15m";     Status: ""
+        # Description: "Created Google Account and Research Computers"
+        # Task: INFOTECH-16
+    
+    --> Time: "3h 00m";     Status: ""
+        # Description: "Stacktech - delete old DB"
+        # Task: STACKTECK-78
+
+    --> Time: "2h 00m";     Status: ""
+        # Description: "IT Staff - clearing"
+        # Task: INFOTECH-83
 
 22.03.2023
     --> Time: "2h 30m";     Status: ""
