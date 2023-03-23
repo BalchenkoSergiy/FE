@@ -14,8 +14,8 @@
         Task: STACKTECK-78
 
     --> Time: "2h 00m";     Status: ""
-        Description: "IT Staff - clearing"
-        Task:
+        # Description: "IT Staff - clearing"
+        # Task: INFOTECH-83
 
 22.03.2023
     --> Time: "2h 30m";     Status: ""
