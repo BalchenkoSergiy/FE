@@ -10,8 +10,8 @@
         # Task: INFOTECH-71
     
     --> Time: "3h 00m";     Status: ""
-        Description: "Stacktech - delete old DB"
-        Task: STACKTECK-78
+        # Description: "Stacktech - delete old DB"
+        # Task: STACKTECK-78
 
     --> Time: "2h 00m";     Status: ""
         # Description: "IT Staff - clearing"
