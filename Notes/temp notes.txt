@@ -9,13 +9,17 @@
         Description: "Create CRM Configuration"
         Task: PRAUG-964
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "2h 30m";     Status: ""
         Description: "Meeting - MS Knowledge Transfer Meetings"
         Task: MSFTCP-439
 
     --> Time: "4h 00m";     Status: ""
         Description: "Research headsets"
         Task: INFOTECH-164
+
+    --> Time: "1h 30m";     Status: ""
+        Description: "Research ЬАФ"
+        Task: ШТАЩЕУСР-183
 
 21.03.2023
     --> Time: "3h 00m";     Status: ""
