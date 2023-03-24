@@ -1,8 +1,25 @@
 //startTemplate
     --> Time: "0h 00m";     Status: ""
-        Description: "Test"
+        Description: ""
         Task: 
 //endTemplate
+
+24.03.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+    
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
 
 23.03.2023
     --> Time: "0h 45m";     Status: ""
