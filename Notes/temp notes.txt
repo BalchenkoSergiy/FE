@@ -13,8 +13,8 @@
         Description: "Manage spreadsheet"
         Task: 
     
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "3h 00m";     Status: ""
+        Description: "Help Annie"
         Task: 
 
     --> Time: "0h 00m";     Status: ""
