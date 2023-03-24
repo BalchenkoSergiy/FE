@@ -9,8 +9,8 @@
         Description: "Spring meeting for IT"
         Task: 
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "2h 00m";     Status: ""
+        Description: "Manage spreadsheet"
         Task: 
     
     --> Time: "0h 00m";     Status: ""
