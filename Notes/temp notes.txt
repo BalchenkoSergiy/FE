@@ -17,10 +17,6 @@
         Description: "Help Annie"
         Task: 
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task: 
-
 23.03.2023
     --> Time: "0h 45m";     Status: ""
         # Description: "Meeting - EC and Matt"
