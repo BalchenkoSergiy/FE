@@ -10,8 +10,8 @@
         # Task: INFOTECH-172
 
     --> Time: "3h 30m";     Status: ""
-        Description: "Manage spreadsheet"
-        Task: 
+        # Description: "Manage spreadsheet"
+        # Task: INFOTECH-83
     
     --> Time: "4h 00m";     Status: ""
         Description: "Help Annie"
