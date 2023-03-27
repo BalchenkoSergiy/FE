@@ -6,8 +6,8 @@
 
 27.03.2023
     --> Time: "2h 00m";     Status: ""
-        Description: "Meeting - MS Knowledge Transfer Meetings"
-        Task: INFOTECH-172
+        # Description: "Meeting - MS Knowledge Transfer Meetings"
+        # Task: INFOTECH-172
 
     --> Time: "4h 00m";     Status: "In Progress"
         Description: "Manage spreadsheet"
