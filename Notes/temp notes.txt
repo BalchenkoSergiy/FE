@@ -11,11 +11,11 @@
 
     --> Time: "3h 30m";     Status: ""
         # Description: "Manage spreadsheet"
-        # Task: INFOTECH-83
+        # Task: PPT-2
     
     --> Time: "4h 00m";     Status: ""
-        Description: "Help Annie"
-        Task: 
+        # Description: "Help Annie"
+        # Task: INFOTECH-83
 
 23.03.2023
     --> Time: "0h 45m";     Status: ""
