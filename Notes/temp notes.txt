@@ -14,8 +14,8 @@
         # Task: INFOTECH-172
 
     --> Time: "5h 30m";     Status: "In Progress"
-        Description: "Manage spreadsheet"
-        Task: PPT-2
+        # Description: "Manage spreadsheet"
+        # Task: PPT-2
 
 27.03.2023
     --> Time: "2h 00m";     Status: ""
