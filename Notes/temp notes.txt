@@ -6,14 +6,14 @@
     
 28.03.2023
     --> Time: "0h 30m";     Status: ""
-        Description: "Clean UP tasks which I DONE"
-        Task: 
+        # Description: "Clean UP tasks which I DONE"
+        # Task: 
 
     --> Time: "2h 30m";     Status: ""
         # Description: "Meeting - MS Knowledge Transfer Meetings"
         # Task: INFOTECH-172
 
-    --> Time: "0h 00m";     Status: "In Progress"
+    --> Time: "5h 30m";     Status: "In Progress"
         Description: "Manage spreadsheet"
         Task: PPT-2
 
