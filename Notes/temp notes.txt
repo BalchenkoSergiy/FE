@@ -3,9 +3,20 @@
         Description: ""
         Task: 
 //endTemplate
+    
+28.03.2023
     --> Time: "0h 00m";     Status: ""
         Description: "Clean UP tasks which I DONE"
         Task: 
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Meeting - MS Knowledge Transfer Meetings"
+        Task: INFOTECH-172
+
+    --> Time: "0h 00m";     Status: "In Progress"
+        Description: "Manage spreadsheet"
+        Task: PPT-2
+
 27.03.2023
     --> Time: "2h 00m";     Status: ""
         # Description: "Meeting - MS Knowledge Transfer Meetings"
