@@ -1,12 +1,6 @@
-// task 01
-const existedUserLogin  = 'the_best_user'
-const existedUserPassword = '12345678'
-
-userLogin = (prompt('Insert your login')).trim()
-userPassword = prompt('Insert your passsword')
-
-if (userLogin === existedUserLogin) {
-    alert(`Welcome ${userLogin}`)
-} else {
-    alert(`Login or Password was wrong`)
-}
+// task 02
+let first_question = prompt('How much is 2+2?')
+let second_question = prompt('How much is 2*2?')
+let third_question = prompt('How much is 5-3-1?')
+let forth_question = prompt('How much is 10-2-1+5?')
+let fifth_question = prompt('How much is 2+2*2?')
