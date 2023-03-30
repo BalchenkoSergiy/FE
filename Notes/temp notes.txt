@@ -6,8 +6,8 @@
     
 30.03.2023
     --> Time: "1h 00m";     Status: ""
-        ! Description: "Shifted Jetinder`s working place"
-        ! Task: INFOTECH-83
+        # Description: "Shifted Jetinder`s working place"
+        # Task: INFOTECH-83
 
     --> Time: "1h 15m";     Status: ""
         # Description: "Document Firewall inbound service ports in your IT Docs"
