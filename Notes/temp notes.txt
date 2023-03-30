@@ -6,8 +6,8 @@
     
 29.03.2023
     --> Time: "2h 00m";     Status: ""
-        Description: "Reviw Content Management"
-        Task: PPT-5
+        # Description: "Reviw Content Management"
+        # Task: PPT-5
 
     --> Time: "3h 00m";     Status: ""
         # Description: "Chack Marry`s laptop"
