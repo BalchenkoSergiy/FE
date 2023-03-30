@@ -6,8 +6,8 @@
     
 29.03.2023
     --> Time: "3h 00m";     Status: ""
-        Description: "Chack Marry`s laptop"
-        Task: INFOTECH-83
+        # Description: "Chack Marry`s laptop"
+        # Task: INFOTECH-83
 
     --> Time: "2h 00m";     Status: ""
         # Description: "Meeting - MS Knowledge Transfer Meetings"
