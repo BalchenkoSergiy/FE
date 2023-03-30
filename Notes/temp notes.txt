@@ -5,17 +5,17 @@
 //endTemplate
     
 29.03.2023
-    --> Time: "1h 30m";     Status: ""
+    --> Time: "3h 00m";     Status: ""
         Description: "Chack Marry`s laptop"
         Task: 
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "2h 30m";     Status: ""
         Description: "Meeting - MS Knowledge Transfer Meetings"
         Task: INFOTECH-172
 
-    --> Time: "0h 30m";     Status: "In Progress"
-        # Description: "Manage spreadsheet"
-        # Task: PPT-2
+    --> Time: "1h 00m";     Status: "In Progress"
+        # Description: "Planning with Nick, Finished chapter Administration"
+        # Task: PPT-4
 
 28.03.2023
     --> Time: "0h 30m";     Status: ""
