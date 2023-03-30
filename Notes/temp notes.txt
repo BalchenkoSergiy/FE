@@ -14,12 +14,12 @@
         # Task: INFOTECH-108
 
     --> Time: "2h 30m";     Status: ""
-        Description: "SSL certificates with Paul"
-        Task: 
+        ! Description: "SSL certificates with Paul"
+        ! Task: 
     
-        --> Time: "3h 15m";     Status: ""
-        Description: "MS Task"
-        Task: 
+    --> Time: "3h 15m";     Status: ""
+        ! Description: "MS Task"
+        ! Task: 
 
 29.03.2023
     --> Time: "2h 00m";     Status: ""
