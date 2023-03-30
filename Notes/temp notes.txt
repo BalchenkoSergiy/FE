@@ -13,8 +13,12 @@
         # Description: "Document Firewall inbound service ports in your IT Docs"
         # Task: INFOTECH-108
 
-    --> Time: "2h 15m";     Status: ""
+    --> Time: "2h 30m";     Status: ""
         Description: "SSL certificates with Paul"
+        Task: 
+    
+        --> Time: "3h 15m";     Status: ""
+        Description: "MS Task"
         Task: 
 
 29.03.2023
