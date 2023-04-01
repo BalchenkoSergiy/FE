@@ -18,8 +18,8 @@
         # Task: INFOTECH-172
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Shifted Jacob`s working place"
-        Task: INFOTECH-83
+        # Description: "Shifted Jacob`s working place"
+        # Task: INFOTECH-83
 
     --> Time: "0h 45m";     Status: ""
         Description: "Research computers"
