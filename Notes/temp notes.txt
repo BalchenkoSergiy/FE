@@ -6,8 +6,8 @@
     
 31.03.2023
     --> Time: "3h 45m";     Status: ""
-        Description: "IRP Reading and Understanding"
-        Task: INFOTECH-187
+        # Description: "IRP Reading and Understanding"
+        # Task: INFOTECH-187
     
     --> Time: "1h 30m";     Status: ""
         Description: "Getting assistance for IT and cyber security tasks; Getting assistance with SSL"
