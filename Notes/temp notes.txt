@@ -5,21 +5,25 @@
 //endTemplate
     
 31.03.2023
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task: 
+    --> Time: "3h 45m";     Status: ""
+        Description: "IRP Reading and Understanding"
+        Task: INFOTECH-187
     
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
+    --> Time: "1h 30m";     Status: ""
+        Description: "Getting assistance for IT and cyber security tasks; Getting assistance with SSL"
+        Task: INFOTECH-188
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
-         
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task: 
+    --> Time: "1h 00m";     Status: ""
+        Description: "Sprang metting for IT"
+        Task: INFOTECH-172
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Shifted Jacob`s working place"
+        Task: INFOTECH-83
+
+    --> Time: "0h 45m";     Status: ""
+        Description: "Research computers"
+        Task: INFOTECH-16
 
 30.03.2023
     --> Time: "1h 00m";     Status: ""
