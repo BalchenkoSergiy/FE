@@ -14,8 +14,8 @@
         # Task: INFOTECH-188
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Sprang metting for IT"
-        Task: INFOTECH-172
+        # Description: "Sprang metting for IT"
+        # Task: INFOTECH-172
 
     --> Time: "1h 00m";     Status: ""
         Description: "Shifted Jacob`s working place"
