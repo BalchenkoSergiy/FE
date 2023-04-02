@@ -2,14 +2,13 @@
 
 // Use While
 
-while (i < 3) {
-    let newStudent = prompt('Insert name for while!');
-    newStudent = newStudent.trim();
-    if (newStudent) 
-        {
-            alert(`while -->> Hello, ${newStudent}!`)
-        }
-    i += 1
+let var_test = 100
+let result = 0
+while (var_test > 0) {
+    result += var_test
+    console.log(`var_test = ${var_test}, result = ${result}`)
+    console.log(`Result = ${result}`)
+    var_test -= 1
     }
 
 
