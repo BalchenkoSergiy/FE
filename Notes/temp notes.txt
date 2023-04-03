@@ -4,6 +4,18 @@
         Task: 
 //endTemplate
     
+03.04.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: "MS 419711"
+        Task: MSFTCP
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "MS 420215"
+        Task: MSFTCP
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "MS 419684"
+        Task: MSFTCP
 31.03.2023
     --> Time: "3h 45m";     Status: ""
         # Description: "IRP Reading and Understanding"
