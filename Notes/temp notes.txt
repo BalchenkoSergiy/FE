@@ -14,8 +14,12 @@
         # Task: INFOTECH-20
 
     --> Time: "1h 30m";     Status: ""
-        Description: "Reading IRP Plan"
-        Task: INFOTECH-187
+        # Description: "Reading IRP Plan"
+        # Task: INFOTECH-187
+    
+        --> Time: "1h 30m";     Status: ""
+        ! Description: "Created document Policy for working on non-EC domain computers"
+        ! Task: INFOTECH-6
 
     --> Time: "2h 30m";     Status: ""
         # Description: "Research computers"
