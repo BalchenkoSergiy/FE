@@ -18,9 +18,9 @@
         Task: MSFTCP
 
     --> Time: "2h 30m";     Status: ""
-        Description: "Research computers"
-        Task: INFOTECH-16
-        
+        # Description: "Research computers"
+        # Task: INFOTECH-16
+
 31.03.2023
     --> Time: "3h 45m";     Status: ""
         # Description: "IRP Reading and Understanding"
