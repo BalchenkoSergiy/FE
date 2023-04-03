@@ -1,113 +1,33 @@
-// task 05
+// task 06
 
-// Use While
+const clientName = 'Igor'
+let orderAmount = prompt('How much money client spent today?')
+let clientSpentForAllTime = Number(orderAmount.trim())
+let discount = 0
 
-let var_test = 100
-let result = 0
-while (var_test > 0) {
-    result += var_test
-    console.log(`var_test = ${var_test}, result = ${result}`)
-    console.log(`Result = ${result}`)
-    var_test -= 1
+if (clientSpentForAllTime >= 100 && clientSpentForAllTime <= 300) 
+    {
+        discount = 10
+        alert(`Congratulation, your discount is ${discount}%!`)
+        orderAmount = (orderAmount / 100) * 90 
+        alert(`Your orderAmount is ${orderAmount}!`)
+
     }
-
-
-
-
-
-
-
-//let questionOne = confirm('JavaScript appeared in 1995?')
-//
-//if (questionOne == true) {
-//    console.log('Correct!')
-//    } else {
-//        console.log('Incorrect!')
-//        }
-//
-//let questionTwo = confirm('Is the JavaScript specification called ECMAScript?')
-//
-//if (questionTwo == true) {
-//    console.log('Correct!')
-//    } else {
-//        console.log('Incorrect!')
-//        }
-//
-//let questionThree = confirm('JavaScript was created in 1 month?')
-//
-//if (questionThree == true) {
-//    console.log('Correct!')
-//    } else {
-//        console.log('Incorrect!')
-//        }
-//
-//
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//let correctAnswers = 0
-//let incorrectAnswers = 0
-//
-//let first_question = prompt('How much is 2+2?')
-//
-//if (Number(first_question)  === 4) {
-//    console.log('Correct!')
-//    correctAnswers += 1
-//} else {
-//    console.log('Incorrect!')
-//    incorrectAnswers += 1
-//}
-//
-//let second_question = prompt('How much is 2*2?')
-//
-//if (Number(second_question)  === 4) {
-//    console.log('Correct!')
-//    correctAnswers += 1
-//} else {
-//    console.log('Incorrect!')
-//    incorrectAnswers += 1
-//}
-//
-//let third_question = prompt('How much is 5-3-1?')
-//
-//if (Number(third_question)  === 1) {
-//    console.log('Correct!')
-//    correctAnswers += 1
-//} else {
-//    console.log('Incorrect!')
-//    incorrectAnswers += 1
-//}
-//
-//let forth_question = prompt('How much is 10-2-1+5?')
-//
-//if (Number(forth_question)  === 12) {
-//    console.log('Correct!')
-//    correctAnswers += 1
-//} else {
-//    console.log('Incorrect!')
-//    incorrectAnswers += 1
-//}
-//
-//let fifth_question = prompt('How much is 2+2*2?')
-//
-//if (Number(fifth_question)  === 6) {
-//    console.log('Correct!')
-//    correctAnswers += 1
-//} else {
-//    console.log('Incorrect!')
-//    incorrectAnswers += 1
-//}
-//
-//alert(`Test is finished! Correct answers -> ${correctAnswers}, Incorrect answers -> ${incorrectAnswers}`)
+else if (clientSpentForAllTime >= 301 && clientSpentForAllTime <= 500) 
+    {
+        discount = 20
+        alert(`Congratulation, your discount is ${discount}%!`)
+        orderAmount = (orderAmount / 100) * 80 
+        alert(`Your orderAmount is ${orderAmount}!`)
+    }
+else if (clientSpentForAllTime > 500) 
+    {
+        discount = 30
+        alert(`Congratulation, your discount is ${discount}%!`)
+        orderAmount = (orderAmount / 100) * 70 
+        alert(`Your orderAmount is ${orderAmount}!`)
+    }
+else
+    {
+        discount = 0
+    }
