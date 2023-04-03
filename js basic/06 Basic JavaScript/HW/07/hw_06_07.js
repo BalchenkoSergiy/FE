@@ -1,33 +1,67 @@
 // task 06
 
-const clientName = 'Igor'
-let orderAmount = prompt('How much money client spent today?')
-let clientSpentForAllTime = Number(orderAmount.trim())
+const clientName = prompt('Insert Your name please')
+let orderAmount =  Number((prompt(`How much money ${clientName} spent today?`)).trim())
+console.log(`orderAmount: ${orderAmount}`)
+let clientSpentForAllTime = 0
 let discount = 0
+console.log(`clientSpentForAllTime before counting: ${clientSpentForAllTime}`)
 
-if (clientSpentForAllTime >= 100 && clientSpentForAllTime <= 300) 
-    {
-        discount = 10
-        alert(`Congratulation, your discount is ${discount}%!`)
-        orderAmount = (orderAmount / 100) * 90 
-        alert(`Your orderAmount is ${orderAmount}!`)
+if (orderAmount > 0){
+    if (clientSpentForAllTime + orderAmount >= 100 && clientSpentForAllTime  + orderAmount <= 300) 
+        {
+            discount = 10
+            alert(`Congratulation, your discount is ${discount}%!`)
+            orderAmount = (orderAmount / 100) * 90 
+            alert(`Your orderAmount is ${orderAmount}!`)
+            clientSpentForAllTime = clientSpentForAllTime + orderAmount
+            console.log(`clientSpentForAllTime after counting: ${clientSpentForAllTime}`)
 
-    }
-else if (clientSpentForAllTime >= 301 && clientSpentForAllTime <= 500) 
-    {
-        discount = 20
-        alert(`Congratulation, your discount is ${discount}%!`)
-        orderAmount = (orderAmount / 100) * 80 
-        alert(`Your orderAmount is ${orderAmount}!`)
-    }
-else if (clientSpentForAllTime > 500) 
-    {
-        discount = 30
-        alert(`Congratulation, your discount is ${discount}%!`)
-        orderAmount = (orderAmount / 100) * 70 
-        alert(`Your orderAmount is ${orderAmount}!`)
-    }
-else
-    {
-        discount = 0
-    }
+
+            console.log(`Details:
+            1. clientName: ${clientName}
+            2. orderAmount: ${orderAmount}
+            3. clientSpentForAllTime: ${clientSpentForAllTime}
+            4. discount: ${discount}`)
+        }
+    else if (clientSpentForAllTime + orderAmount >= 301 && clientSpentForAllTime + orderAmount <= 500) 
+        {
+            discount = 20
+            alert(`Congratulation, your discount is ${discount}%!`)
+            orderAmount = (orderAmount / 100) * 80 
+            alert(`Your orderAmount is ${orderAmount}!`)
+            clientSpentForAllTime = clientSpentForAllTime + orderAmount
+            console.log(`clientSpentForAllTime after counting: ${clientSpentForAllTime}`)
+
+            console.log(`Details:
+            1. clientName: ${clientName}
+            2. orderAmount: ${orderAmount}
+            3. clientSpentForAllTime: ${clientSpentForAllTime}
+            4. discount: ${discount}`)
+        }
+    else if (clientSpentForAllTime + orderAmount > 500) 
+        {
+            discount = 30
+            alert(`Congratulation, your discount is ${discount}%!`)
+            orderAmount = (orderAmount / 100) * 70 
+            alert(`Your orderAmount is ${orderAmount}!`)
+            clientSpentForAllTime = clientSpentForAllTime + orderAmount
+            console.log(`clientSpentForAllTime after counting: ${clientSpentForAllTime}`)
+
+            console.log(`Details:
+            1. clientName: ${clientName}
+            2. orderAmount: ${orderAmount}
+            3. clientSpentForAllTime: ${clientSpentForAllTime}
+            4. discount: ${discount}`)
+        }
+    else
+        {
+            discount = 0
+
+            console.log(`Details:
+            1. clientName: ${clientName}
+            2. orderAmount: ${orderAmount}
+            3. clientSpentForAllTime: ${clientSpentForAllTime}
+            4. discount: ${discount}`)
+        }
+}
