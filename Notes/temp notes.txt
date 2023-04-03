@@ -9,9 +9,9 @@
         Description: "MS 419711"
         Task: MSFTCP
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "MS 420215"
-        Task: MSFTCP
+    --> Time: "1h 00m";     Status: ""
+        Description: "Researched INTUNE and Atera RMM"
+        Task: INFOTECH-20
 
     --> Time: "0h 00m";     Status: ""
         Description: "MS 419684"
