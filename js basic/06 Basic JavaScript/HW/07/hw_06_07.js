@@ -1,11 +1,19 @@
-// task 06
+// task 07
 
 const clientName = prompt('Insert Your name please')
 let orderAmount =  Number((prompt(`How much money ${clientName} spent today?`)).trim())
 console.log(`orderAmount: ${orderAmount}`)
+console.log(`type of orderAmount: ${typeof(orderAmount)}`)
 let clientSpentForAllTime = 0
 let discount = 0
 console.log(`clientSpentForAllTime before counting: ${clientSpentForAllTime}`)
+
+while (isNaN(orderAmount) == true || orderAmount == 0) {
+    alert(`Hi you need to insert only numbers. Please try againe.`)
+    orderAmount =  Number((prompt(`How much money ${clientName} spent today?`)).trim())
+    console.log(`orderAmount: ${orderAmount}`)
+}
+
 
 if (orderAmount > 0){
     if (clientSpentForAllTime + orderAmount >= 100 && clientSpentForAllTime  + orderAmount <= 300) 
