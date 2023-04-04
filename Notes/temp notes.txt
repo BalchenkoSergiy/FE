@@ -18,8 +18,8 @@
         # Task: INFOTECH-187
     
     --> Time: "1h 30m";     Status: ""
-        ! Description: "Created document Policy for working on non-EC domain computers"
-        ! Task: INFOTECH-6
+        # Description: "Created document Policy for working on non-EC domain computers"
+        # Task: INFOTECH-6
 
     --> Time: "2h 30m";     Status: ""
         # Description: "Research computers"
