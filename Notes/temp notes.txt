@@ -6,8 +6,8 @@
     
 03.04.2023
     --> Time: "1h 30m";     Status: ""
-        ! Description: "MS 419711"
-        ! Task: MSFTCP
+        # Description: "MS 419711"
+        # Task: MSFTCP
 
     --> Time: "1h 00m";     Status: ""
         # Description: "Researched INTUNE and Atera RMM"
