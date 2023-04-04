@@ -4,6 +4,27 @@
         Task: 
 //endTemplate
     
+04.04.2023
+    --> Time: "0h 45m";     Status: ""
+        Description: "Meeting with Teta"
+        Task:
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "INTUNE and Atera RMM"
+        Task: INFOTECH-20
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "Backup Computer"
+        Task: INFOTECH-16
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "FNU and NCCIE Monthly Maintenance"
+        Task: 
+
+    --> Time: "0h 00m";     Status: ""
+        Description: "MS -> 419684"
+        Task: 
+
 03.04.2023
     --> Time: "1h 30m";     Status: ""
         # Description: "MS 419711"
