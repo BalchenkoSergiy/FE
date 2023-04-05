@@ -5,23 +5,15 @@
 //endTemplate
     
 05.04.2023
-    --> Time: "0h 00m";     Status: ""
-        Description: "INTUNE and Atera RMM"
-        Task: INFOTECH-20
+    --> Time: "4h 00m";     Status: ""
+        # Description: "Backup Computer"
+        # Task: INFOTECH-16
 
     --> Time: "2h 00m";     Status: ""
-        Description: "Backup Computer"
-        Task: INFOTECH-16
-
-    --> Time: "1h 30m";     Status: ""
-        Description: "Policy for non-EC domain computers"
-        Task: INFOTECH-6
-
-    --> Time: "0h 00m";     Status: ""
-        Description: "MS - Knowledge Transfer Meetings"
-        Task: MSFTCP-442
+        # Description: "Policy for non-EC domain computers"
+        # Task: INFOTECH-6
     
-    --> Time: "0h 30m";     Status: ""
+    --> Time: "2h 00m";     Status: ""
         Description: "Patagonia UPDATE"
         Task: 
 
