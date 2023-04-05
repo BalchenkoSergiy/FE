@@ -6,24 +6,20 @@
     
 05.04.2023
     --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
+        Description: "INTUNE and Atera RMM"
+        Task: INFOTECH-20
 
     --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
+        Description: "Backup Computer"
+        Task: INFOTECH-16
 
     --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
+        Description: "Policy for non-EC domain computers"
+        Task: INFOTECH-6
 
     --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
-
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
+        Description: "MS - Knowledge Transfer Meetings"
+        Task: MSFTCP-442
 
 04.04.2023
     --> Time: "1h 00m";     Status: ""
