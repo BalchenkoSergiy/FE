@@ -4,32 +4,21 @@
         Task: 
 //endTemplate
     
+06.04.2023
+    --> Time: "0h 00m";     Status: ""
+        # Description: "Policy for non-EC domain computers"
+        # Task: INFOTECH-6
+
 05.04.2023
     --> Time: "4h 00m";     Status: ""
         # Description: "Backup Computer"
         # Task: INFOTECH-16
 
-<<<<<<< HEAD
-    --> Time: "3h 00m";     Status: ""
-        Description: "Backup Computer"
-        Task: INFOTECH-16
-
-    --> Time: "1h 30m";     Status: ""
-        Description: "Policy for non-EC domain computers"
-        Task: INFOTECH-6
-
-    --> Time: "0h 00m";     Status: ""
-        Description: "MS - Knowledge Transfer Meetings"
-        Task: MSFTCP-442
-    
-    --> Time: "1h 45m";     Status: ""
-=======
     --> Time: "2h 00m";     Status: ""
         # Description: "Policy for non-EC domain computers"
         # Task: INFOTECH-6
     
     --> Time: "2h 00m";     Status: ""
->>>>>>> 05/04/2023
         Description: "Patagonia UPDATE"
         Task: 
 
