@@ -19,8 +19,8 @@
         # Task: INFOTECH-6
     
     --> Time: "2h 00m";     Status: ""
-        Description: "Patagonia UPDATE"
-        Task: 
+        # Description: "Patagonia UPDATE"
+        # Task: TRAIN-435
 
 04.04.2023
     --> Time: "1h 00m";     Status: ""
