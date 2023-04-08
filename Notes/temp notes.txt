@@ -6,32 +6,36 @@
     
 04.04.2023
     --> Time: "1h 00m";     Status: ""
-        Description: "Meeting for PRA"
-        Task:
+        # Description: "PRA - Physician Contract Database Portal - Initial Draft Review"
+        # Task: PRACOVID19-172
 
     --> Time: "0h 45m";     Status: ""
-        Description: "Meeting with Teta"
-        Task:
+        ! Description: "Meeting with Teta (discussion/help)"
+        ! Task: HR-184
 
-    --> Time: "0h 00m";     Status: ""
-        Description: "INTUNE and Atera RMM"
-        Task: INFOTECH-20
+    --> Time: "0h 15m";     Status: ""
+        ! Description: "INTUNE and Atera RMM"
+        ! Task: INFOTECH-20
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 15m";     Status: ""
         Description: "Backup Computer"
         Task: INFOTECH-16
 
     --> Time: "1h 45m";     Status: ""
-        Description: "FNU and NCCIE Monthly Maintenance"
-        Task:
+        ! Description: "Create policy for working on non-EC domain computers"
+        ! Task: INFOTECH-6
+
+    --> Time: "1h 45m";     Status: ""
+        # Description: "FNU and NCCIE Monthly Maintenance"
+        # Task: FNUWEB-209 and FNUNIVNCC-1880
 
     --> Time: "0h 45m";     Status: ""
         Description: "COIC Monthly Maintenance"
         Task: 
 
     --> Time: "0h 30m";     Status: ""
-        Description: "MS -> 419684"
-        Task: 
+        # Description: "MS -> 419684"
+        # Task: MSFTCP-442
 
 03.04.2023
     --> Time: "1h 30m";     Status: ""
