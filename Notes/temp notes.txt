@@ -4,8 +4,27 @@
         Task: 
 //endTemplate
     
+06.04.2023
+    --> Time: "8h 00m";     Status: ""
+        # Description: "Backup Computer"
+        # Task: INFOTECH-16
+
+05.04.2023
+    --> Time: "4h 00m";     Status: ""
+        # Description: "Backup Computer"
+        # Task: INFOTECH-16
+
+    --> Time: "2h 00m";     Status: ""
+        # Description: "Policy for non-EC domain computers"
+        # Task: INFOTECH-6
+    
+    --> Time: "2h 00m";     Status: ""
+        # Description: "Patagonia UPDATE"
+        # Task: TRAIN-435
+
 04.04.2023
     --> Time: "1h 00m";     Status: ""
+<<<<<<< HEAD
         # Description: "PRA - Physician Contract Database Portal - Initial Draft Review"
         # Task: PRACOVID19-172
 
@@ -28,13 +47,41 @@
     --> Time: "1h 45m";     Status: ""
         # Description: "FNU and NCCIE Monthly Maintenance"
         # Task: FNUWEB-209 and FNUNIVNCC-1880
+=======
+        # Description: "Meeting - PRA Physician Contrast Database Portal"
+        # Task: PRACOVID19-172
 
     --> Time: "0h 45m";     Status: ""
-        Description: "COIC Monthly Maintenance"
-        Task: 
+        # Description: "Meeting with Teta - discussion/help"
+        # Task: HR-184
+
+    --> Time: "0h 15m";     Status: ""
+        # Description: "INTUNE and Atera RMM"
+        # Task: INFOTECH-20
+
+    --> Time: "1h 15m";     Status: ""
+        # Description: "Backup Computer"
+        # Task: INFOTECH-16
+
+    --> Time: "1h 45m";     Status: ""
+        # Description: "Policy for non-EC domain computers"
+        # Task: INFOTECH-6
+
+    --> Time: "1h 45m";     Status: ""
+        # Description: "FNU and NCCIE Monthly Maintenance"
+        # Task: FNUWEB-209; FNUNIVNCC-1880
+>>>>>>> dfd3c07c465fb9b3be2e323dfd9ae04b448c1205
+
+    --> Time: "0h 45m";     Status: ""
+        # Description: "COIC Maintenance report"
+        # Task: SRLCOIC-103
 
     --> Time: "0h 30m";     Status: ""
+<<<<<<< HEAD
         # Description: "MS -> 419684"
+=======
+        # Description: "MS - Knowledge Transfer Meetings"
+>>>>>>> dfd3c07c465fb9b3be2e323dfd9ae04b448c1205
         # Task: MSFTCP-442
 
 03.04.2023
