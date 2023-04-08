@@ -19,11 +19,11 @@ if (orderAmount > 0){
     if (clientSpentForAllTime + orderAmount >= 100 && clientSpentForAllTime  + orderAmount <= 300) 
         {
             discount = 10
-            alert(`Congratulation, your discount is ${discount}%!`)
+            alert(`Congratulation ${clientName}, your discount is ${discount}%!`)
             orderAmount = (orderAmount / 100) * 90 
             alert(`Your orderAmount is ${orderAmount}!`)
             clientSpentForAllTime = clientSpentForAllTime + orderAmount
-            console.log(`clientSpentForAllTime after counting: ${clientSpentForAllTime}`)
+            console.log(`${clientName} Spent for all time after counting: ${clientSpentForAllTime}`)
 
 
             console.log(`Details:
@@ -35,11 +35,11 @@ if (orderAmount > 0){
     else if (clientSpentForAllTime + orderAmount >= 301 && clientSpentForAllTime + orderAmount <= 500) 
         {
             discount = 20
-            alert(`Congratulation, your discount is ${discount}%!`)
+            alert(`Congratulation ${clientName}, your discount is ${discount}%!`)
             orderAmount = (orderAmount / 100) * 80 
             alert(`Your orderAmount is ${orderAmount}!`)
             clientSpentForAllTime = clientSpentForAllTime + orderAmount
-            console.log(`clientSpentForAllTime after counting: ${clientSpentForAllTime}`)
+            console.log(`${clientName} spent for all time after counting: ${clientSpentForAllTime}`)
 
             console.log(`Details:
             1. clientName: ${clientName}
@@ -50,11 +50,11 @@ if (orderAmount > 0){
     else if (clientSpentForAllTime + orderAmount > 500) 
         {
             discount = 30
-            alert(`Congratulation, your discount is ${discount}%!`)
+            alert(`Congratulation ${clientName}, your discount is ${discount}%!`)
             orderAmount = (orderAmount / 100) * 70 
             alert(`Your orderAmount is ${orderAmount}!`)
             clientSpentForAllTime = clientSpentForAllTime + orderAmount
-            console.log(`clientSpentForAllTime after counting: ${clientSpentForAllTime}`)
+            console.log(`${clientName} spent for all time after counting: ${clientSpentForAllTime}`)
 
             console.log(`Details:
             1. clientName: ${clientName}
