@@ -24,30 +24,6 @@
 
 04.04.2023
     --> Time: "1h 00m";     Status: ""
-<<<<<<< HEAD
-        # Description: "PRA - Physician Contract Database Portal - Initial Draft Review"
-        # Task: PRACOVID19-172
-
-    --> Time: "0h 45m";     Status: ""
-        ! Description: "Meeting with Teta (discussion/help)"
-        ! Task: HR-184
-
-    --> Time: "0h 15m";     Status: ""
-        ! Description: "INTUNE and Atera RMM"
-        ! Task: INFOTECH-20
-
-    --> Time: "1h 15m";     Status: ""
-        Description: "Backup Computer"
-        Task: INFOTECH-16
-
-    --> Time: "1h 45m";     Status: ""
-        ! Description: "Create policy for working on non-EC domain computers"
-        ! Task: INFOTECH-6
-
-    --> Time: "1h 45m";     Status: ""
-        # Description: "FNU and NCCIE Monthly Maintenance"
-        # Task: FNUWEB-209 and FNUNIVNCC-1880
-=======
         # Description: "Meeting - PRA Physician Contrast Database Portal"
         # Task: PRACOVID19-172
 
@@ -70,18 +46,13 @@
     --> Time: "1h 45m";     Status: ""
         # Description: "FNU and NCCIE Monthly Maintenance"
         # Task: FNUWEB-209; FNUNIVNCC-1880
->>>>>>> dfd3c07c465fb9b3be2e323dfd9ae04b448c1205
 
     --> Time: "0h 45m";     Status: ""
         # Description: "COIC Maintenance report"
         # Task: SRLCOIC-103
 
     --> Time: "0h 30m";     Status: ""
-<<<<<<< HEAD
-        # Description: "MS -> 419684"
-=======
         # Description: "MS - Knowledge Transfer Meetings"
->>>>>>> dfd3c07c465fb9b3be2e323dfd9ae04b448c1205
         # Task: MSFTCP-442
 
 03.04.2023
@@ -136,8 +107,8 @@
         # Task: INFOTECH-108
 
     --> Time: "2h 30m";     Status: ""
-        ! Description: "SSL certificates with Paul"
-        ! Task: Ask Paul create task
+        # Description: "SSL certificates with Paul"
+        # Task: Ask Paul create task
     
     --> Time: "3h 15m";     Status: ""
         # Description: "MS Task"
@@ -457,14 +428,16 @@
         # Task:
 
     --> Time: "2h 00m";     Status: ""
-        Description: "Set up my computer for creating Pull Request for Patagonia"
-        Task:    
-        --> Time: "1h 00m";     Status: ""
-            # Description: "Create Web Page"
-            # Task: PAT-52
-        --> Time: "1h 00m";     Status: ""
-            # Description: "Set up Content Management - WOrked with Paul"
-            # Task: PAT-58
+        # Description: "Set up my computer for creating Pull Request for Patagonia"
+        # Task:    
+
+    --> Time: "1h 00m";     Status: ""
+        # Description: "Create Web Page"
+        # Task: PAT-52
+
+    --> Time: "1h 00m";     Status: ""
+        # Description: "Set up Content Management - WOrked with Paul"
+        # Task: PAT-58
 
     --> Time: "1h 00m";     Status: ""
         # Description: "Meeting - Engineered Code and Matt"
@@ -599,12 +572,12 @@
 
 21.02.2023
     --> Time: "0h 00m";     Status: ""
-        Description: "Meeting - Assigning activities for CS"
-        Task:
+        # Description: "Meeting - Assigning activities for CS"
+        # Task:
     
     --> Time: "2h 00m";     Status: ""
-        Description: "PAT - PM with Paul - Meeting - Patagonia - Video Page brainstormYe"
-        Task:
+        # Description: "PAT - PM with Paul - Meeting - Patagonia - Video Page brainstormYe"
+        # Task:
    
     --> Time: "4h 00m";     Status: ""
         # Description: "Create Web Template"
@@ -703,12 +676,12 @@
         # Task: INFOTECH-65
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Try to fix problem, Work on ElectionsSK Azure Migration"
-        Task:
+        # Description: "Try to fix problem, Work on ElectionsSK Azure Migration"
+        # Task:
     
     --> Time: "1h 00m";     Status: ""
-        Description: "Created resources for esk-www.prod and scbc-www-prod"
-        Task: ESKSUP-125 
+        # Description: "Created resources for esk-www.prod and scbc-www-prod"
+        # Task: ESKSUP-125 
     
     --> Time: "0h 45m";     Status: ""
         # Description: "Meeting - Kick-Off Meeting for LMS (EC-Learn) - as Teta was not last meeting"
@@ -773,8 +746,8 @@
 
 09.02.2023
     --> Time: "0h 30m";     Status: "DONE"
-        Description: "Meeting EC Learning"
-        Task:
+        # Description: "Meeting EC Learning"
+        # Task:
 
     --> Time: "1h 00m";     Status: "DONE"
         # Description: "RS-66 Install Portal in prodaction Environment"
@@ -809,19 +782,19 @@
         # Task: ESKUP-123 
         
     --> Time: "1h 00m";     Status: "DONE"
-        Description: "Meeting - Engineered Code and Matt - CyberSecurity"
-        Task:
+        # Description: "Meeting - Engineered Code and Matt - CyberSecurity"
+        #Task:
 
     TOTAL:  5h 30m
 
 08.02.2023
     --> Time: 2h            Status: ""
-        Description: "Fixing errors while I want create backup Database"
-        Task:
+        # Description: "Fixing errors while I want create backup Database"
+        # Task:
 
     --> Time: 1h            Status: ""
-        Description: "Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali"
-        Task:
+        # Description: "Download/Install Microsoft Office (Desktop) for Jatinder and Hosseinali"
+        # Task:
 
     --> Time: 45m           Status "DONE"
         # Description: "Meeting - Kick Off Meeting for Patagoniz Project"
@@ -870,8 +843,8 @@
 
 06.02.2023
     --> Time: 0h 00m            Status: ""
-        Description: "Read about Schema File"
-        Task:
+        # Description: "Read about Schema File"
+        # Task:
 
     --> Time: 0h 45m            Status: "DONE"
         # Description: "install Portal in Development/Sandbox Environment"
@@ -890,8 +863,8 @@
         # Task: RS-64
 
     --> Time: 0h 45m            Status: "DONE"
-        Description: "MEETING Fill out Cyber Secuirity Questionnaire"
-        Task:
+        # Description: "MEETING Fill out Cyber Secuirity Questionnaire"
+        # Task:
 
     --> Time: 3h 30m            Status: "DONE"
         # Description: "Add Customer to SSL Certificate Page"
@@ -905,8 +878,8 @@
 
 03.02.2023
     --> Time: 0h 30m            Status: "DONE"
-        Description: "HQC - Maintenance is August and February"
-        Task:
+        # Description: "HQC - Maintenance is August and February"
+        # Task:
     
     --> Time: 1h 30m            Status: "DONE"
         # Description: "Create Custom Bootstrap Theme (Reading)"
@@ -978,37 +951,37 @@
                 
     
     --> Time: 1h 00m            Status: "DONE"
-        Description: "Spring meeting for IT"
-        Task:
+        # Description: "Spring meeting for IT"
+        # Task:
     
     --> Time: 0h 00m            Status: ""
-        Description: "Implement Backup Strategy"
-        Task: INFOTECH-16
+        # Description: "Implement Backup Strategy"
+        # Task: INFOTECH-16
     
     --> Time: 0h 00m            Status: ""
-        Description: "Create policy f:) or working on non-EC domain computers"
-        Task: INFOTECH-6
+        # Description: "Create policy f:) or working on non-EC domain computers"
+        # Task: INFOTECH-6
     
     --> Time: 0h 00m            Status: ""
-        Description: "Meeting with Paul"
-        Task:
+        # Description: "Meeting with Paul"
+        # Task:
     
     --> Time: 1h 00m            Status: "DONE"
-        Description: "Video course and reading documentation"
-        Task:
+        # Description: "Video course and reading documentation"
+        # Task:
 
 02.02.2023
     --> Time: 0h 00m            Status: ""
-        Description: "MY Site: https://balchenkosergiy.github.io/FE-Dev/"
-        Task:
+        # Description: "MY Site: https://balchenkosergiy.github.io/FE-Dev/"
+        # Task:
 
     --> Time: 0h 30m            Status: "DONE"
-        Description: "HQC - Maintenance is August and February"
-        Task:
+        # Description: "HQC - Maintenance is August and February"
+        # Task:
 
     --> Time: 0h 30m            Status: "DONE"
-        Description: "Meeting with Teta to review daily tasks"
-        Task:
+        # Description: "Meeting with Teta to review daily tasks"
+        # Task:
 
     --> Time: 0h 45m            Status: "DONE"
         # Description: "Watching the MS Products Nick speech about evolution"
@@ -1022,21 +995,21 @@
         
 
     --> Time: 0h 00m            Status: ""
-        Description: "Change the confluence document about HQC Maintenance"
-        Task:
+        # Description: "Change the confluence document about HQC Maintenance"
+        # Task:
 
     --> Time: 3h 00m            Status: "DONE"
-        Description: "Meeting with Paul"
-        Task:
+        # Description: "Meeting with Paul"
+        # Task:
 
     --> Time: 1h 45m            Status: "DONE"
-        Description: "Video course and reading documentation"
-        Task:
+        # Description: "Video course and reading documentation"
+        # Task:
 
 01.02.2023
     --> Time: 0h 00m            Status: "DONE"
-        Description: "Ask password for Coccon in Paul"
-        Task:
+        # Description: "Ask password for Coccon in Paul"
+        # Task:
 
     --> Time: 0h 3h            Status: "DONE"
         # Description: "Procedure for exiting employee"
@@ -1046,16 +1019,16 @@
         
 
     --> Time: 0h 45m            Status: "DONE"
-        Description: "AER Meeting - RECURRING"
-        Task:
+        # Description: "AER Meeting - RECURRING"
+        # Task:
 
     --> Time: 3h 45m            Status: "DONE"
-        Description: "Video course and reading documentation"
-        Task:
+        # Description: "Video course and reading documentation"
+        # Task:
 
     --> Time: 0h 30m            Status: "DONE"
-        Description: "Helped new employee"
-        Task:
+        # Description: "Helped new employee"
+        # Task:
 
 
 31.01.2023
@@ -1064,34 +1037,34 @@
         # Task: INFOTECH-64
 
     --> Time: 0h 45m            Status: "DONE"
-        Description: "Meeting Cyber Security Review"
-        Task:
+        # Description: "Meeting Cyber Security Review"
+        # Task:
 
     --> Time: 0h 00m            Status: "DONE"
-        Description: "Upload video 200 - Celebrating..."
-        Task:
+        # Description: "Upload video 200 - Celebrating..."
+        # Task:
 
     --> Time: 0h 00m            Status: "DONE"
-        Description: "UPS - Talk to Nick about purchasing them"
-        Task:
+        # Description: "UPS - Talk to Nick about purchasing them"
+        # Task:
 
     --> Time: 3h 30m            Status: "DONE"
-        Description: "FNU/NCCIE - Monthly Maintenance Reports - RECURRING"
-        Task:
+        # Description: "FNU/NCCIE - Monthly Maintenance Reports - RECURRING"
+        # Task:
 
     --> Time: 0h 00m            Status: "DONE"
-        Description: "LGAQ - remind about SSL, Nick Approved"
-        Task:
+        # Description: "LGAQ - remind about SSL, Nick Approved"
+        # Task:
 
 30.01.2023
     --> Time: 0h 15m            Status: "DONE"
-        Description: "Building Policies Confluence Page"
+        # Description: "Building Policies Confluence Page"
             - Updated document based on last meeting feedbacks
-        Task: INFOTECH-19
+        # Task: INFOTECH-19
         
 
     --> Time: 4h 00m            Status: "DONE"
-        Description: "Create procedure for new employee onboarding, Update document based on Nick's feedback:"
+        # Description: "Create procedure for new employee onboarding, Update document based on Nick's feedback:"
             - Make the decision on if we absolutely need UPS on laptops based on cost
                 1. https://www.amazon.ca/CyberPower-EC850LCD-Ecologic-Outlets-Compact/dp/B00DBAA696/ref=sr_1_2_sspa?crid=ZGBBBYKSCTWB&keywords=CyberPower%2BEC850LCD&qid=1675110551&sprefix=cyberpower%2Bec850lcd%2Caps%2C392&sr=8-2-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyQkpBWkNRRklVNzVaJmVuY3J5cHRlZElkPUEwNjY4MTkwTExBOTA3VUVCSk5FJmVuY3J5cHRlZEFkSWQ9QTA0MTE5NTExOUFUTTlJUkRXRzBZJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1
                 2. https://www.amazon.ca/dp/B07RRYB3RJ?tag=track-ect-ca-904581-20&linkCode=osi&th=1
@@ -1101,17 +1074,17 @@
                 2. Additional browsers: Chrome, Firefox
                 3. Notepad ++
                 4. Microsoft Office
-        Task: INFOTECH-18
+        # Task: INFOTECH-18
         
             
 
     --> Time: 1h 00m            Status: "DONE"
-        Description: "Quick Review of IT progress"
-        Task:
+        # Description: "Quick Review of IT progress"
+        # Task:
 
     --> Time: 1h 15m            Status: "DONE"
-        Description: "Report under Training ARCTIC - Kick off Meeting"
-        Task:
+        # Description: "Report under Training ARCTIC - Kick off Meeting"
+        # Task:
 
     --> Time: 1h 00m            Status: "DONE"
         # Description: "Create policy for document storage"
@@ -1155,12 +1128,12 @@
  
 
     --> Time: 1h 30m            Status: "DONE"
-        Description: "1329 Building Policies Confluence Page"
-        Task: INFOTECH-19
+        # Description: "1329 Building Policies Confluence Page"
+        # Task: INFOTECH-19
         
 
     --> Time: 0h 00m            Status: "DONE"
-        Description: "Manage SSL Certificates - Check which will finish less than 30 days"
+        # Description: "Manage SSL Certificates - Check which will finish less than 30 days"
             LGAQ:
                 - SSL Expire: February 25, 2023
                 - Days Until Expiration: 29
@@ -1169,12 +1142,12 @@
                 - SSL Expire: January 15, 2023
                 - Days Until Expiration: -12
                 - Client Notified: Yes
-        Task:
+        # Task:
 
 26.01.2023
     --> Time: 0h 00m            Status: "DONE"
-        Description: "Inventory number include"
-            Task:
+        # Description: "Inventory number include"
+        # Task:
                 001 - SK office (Regina)
                 002 - ON office
                 003 - Home       
