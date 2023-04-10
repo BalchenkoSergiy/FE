@@ -1,7 +1,7 @@
 // task 08
 
 const clientName = prompt('Insert Your name please')
-let clientPassword = ''
+let clientPassword = prompt('Insert Your password please')
 let checkLength = false
 let checkSymbol = false
 let checkNumber = false
@@ -11,15 +11,14 @@ let varEndPoint = clientPassword.length - 1
 console.log(`Starting registration`)
 console.log(`************************************************`)
 console.log(`************************************************`)
-console.log(`Start check check Length`)
+console.log(`Start check Length`)
 
-while (checkLength == false || checkSymbol == false || checkNumber == false || clientPassword == '')
+if (clientPassword !== '')
     {
         console.log(`************************************************`)
-        console.log(`Started check check Length`)
-        while (checkLength == false)
+        console.log(`Started check Length`)
+        if (checkLength == false)
             {
-                clientPassword = prompt('Insert Your password please')
                 if (clientPassword.length >= 3 && clientPassword.length <= 20) 
                     {
                         console.log(`Details (Length check):
@@ -30,23 +29,10 @@ while (checkLength == false || checkSymbol == false || checkNumber == false || c
                     }
                 else if (clientPassword.length < 3 && clientPassword.length > 20)
                     {
-                        alert(`Error! your password length need to have lenth between 3 and 20 symbols!`)
-                        clientPassword = prompt('Insert Your password please')
-                        checkSymbol = false
-                        checkNumber = false
-                        
                         console.log(`Details (Length check):
                         1. clientName: ${clientName}
                         2. clientPassword: ${clientPassword}
                         3. clientPasswordLenght: ${clientPassword.length}`)
-                    }
-                else
-                    {
-                        console.log(`Details (Length check):
-                        1. clientName: ${clientName}
-                        2. clientPassword: ${clientPassword}
-                        3. clientPasswordLenght: ${clientPassword.length}`)
-                        alert(`Error! your password length need to have lenth between 3 and 20 symbols!`) 
                     }
             }
         console.log(`Finished check Length`)
@@ -54,7 +40,7 @@ while (checkLength == false || checkSymbol == false || checkNumber == false || c
         console.log(`************************************************`)
         console.log(`Start check Numbers letters`)
 
-        while (checkNumber == false && Number(varCoursor) != Number(varEndPoint)) 
+        while (Number(varCoursor) != Number(varEndPoint)) 
             {
                 console.log(`************************************************`)
                 console.log(`Started check Number letters`)
@@ -74,6 +60,7 @@ while (checkLength == false || checkSymbol == false || checkNumber == false || c
                         console.log(`Symbol is: ${clientPassword[varCoursor]}`)
                         console.log(`Symbol is Number = true`)
                         checkNumber = true
+                        varCoursor = 0
                         console.log(`Details (Length check):
                         1. clientName: ${clientName}
                         2. clientPassword: ${clientPassword}
@@ -98,21 +85,13 @@ while (checkLength == false || checkSymbol == false || checkNumber == false || c
                         else if ((clientPassword.length - 1) == varCoursor)
                             {
                                 console.log(`No Numbers in your Password`)
-                                alert(`Error! No Numbers in your Password!`)
-                                clientPassword = prompt('Insert Your password again please')
                                 varCoursor = 0
-                                checkLength = false
-                                checkSymbol = false
 
                                 console.log(`Details (Length check):
                                 1. clientName: ${clientName}
                                 2. clientPassword: ${clientPassword}
                                 3. client symbol: ${clientPassword[varCoursor]}
                                 4. clientPasswordLenght: ${clientPassword.length}`)
-                            }
-                        else
-                            {
-                                checkNumber = true
                             }
                     } 
             }
@@ -121,8 +100,8 @@ while (checkLength == false || checkSymbol == false || checkNumber == false || c
         console.log(`************************************************`)
         console.log(`Start check CamelCase letters`)
         
-        while (checkSymbol == false && Number(varCoursor) != Number(varEndPoint)) 
-            {
+        while (Number(varCoursor) != Number(varEndPoint)) 
+            {   
                 console.log(`************************************************`)
                 console.log(`Started check CamelCase letters`)
                 if (clientPassword[varCoursor] === clientPassword[varCoursor].toUpperCase())
@@ -149,20 +128,7 @@ while (checkLength == false || checkSymbol == false || checkNumber == false || c
                         else if ((clientPassword.length - 1) == varCoursor)
                             {
                                 console.log(`No UpperCase in your Password`)
-                                alert(`Error! No UpperCase in your Password!`)
-                                clientPassword = prompt('Insert Your password again please')
                                 varCoursor = 0
-                                checkLength = false
-                                checkNumber = false
-                                console.log(`Details (Length check):
-                                1. clientName: ${clientName}
-                                2. clientPassword: ${clientPassword}
-                                3. client symbol: ${clientPassword[varCoursor]}
-                                4. clientPasswordLenght: ${clientPassword.length}`)
-                            }
-                        else
-                            {
-                                checkSymbol = true
                                 console.log(`Details (Length check):
                                 1. clientName: ${clientName}
                                 2. clientPassword: ${clientPassword}
@@ -171,4 +137,21 @@ while (checkLength == false || checkSymbol == false || checkNumber == false || c
                             }
                     } 
             }
+            console.log(`Finished check Camel Case`)
+            console.log(`************************************************`)
+            console.log(`************************************************`)
     }
+else
+    {alert("Your password is not good, reboot this page and create new one password please")}
+
+
+console.log(`Details (Length check):
+1. clientName: ${clientName}
+2. clientPassword: ${clientPassword}
+
+Results of cheking of password:
+checkLength = ${checkLength}
+checkSymbol = ${checkSymbol}
+checkNumber = ${checkNumber}`)
+
+alert(`Message: Good`)

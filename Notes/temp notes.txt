@@ -4,6 +4,11 @@
         Task: 
 //endTemplate
     
+10.04.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: "MS Tasks"
+        Task: 
+
 06.04.2023
     --> Time: "8h 00m";     Status: ""
         # Description: "Backup Computer"
