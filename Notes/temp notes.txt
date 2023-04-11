@@ -5,9 +5,9 @@
 //endTemplate
     
 10.04.2023
-    --> Time: "2h 00m";     Status: ""
-        Description: "MS Tasks"
-        Task: Try to fix tasks
+    --> Time: "8h 00m";     Status: ""
+        Description: "MS Tasks: 423989; 420635"
+        Task: MSFTCP-442
 
 06.04.2023
     --> Time: "8h 00m";     Status: ""
