@@ -4,10 +4,15 @@
         Task: 
 //endTemplate
     
-11.04.2023
-    --> Time: "0h 00m";     Status: ""
+12.04.2023
+    --> Time: "8h 00m";     Status: ""
         Description: "MS Tasks: 423989; 420635, 422169; 422169; 423085; 423988; 419142; 420608; 420279"
         Task: MSFTCP-442
+
+11.04.2023
+    --> Time: "8h 00m";     Status: ""
+        # Description: "MS Tasks: 423989; 420635, 422169; 422169; 423085; 423988; 419142; 420608; 420279"
+        # Task: MSFTCP-442
 
 10.04.2023
     --> Time: "8h 00m";     Status: ""
