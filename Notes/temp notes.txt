@@ -6,8 +6,8 @@
 
 14.04.2023
     --> Time: "2h 30m";     Status: ""
-        Description: "Researched information about microsoft exchange and online services for backups"
-        Task: INFOTECH-16
+        # Description: "Researched information about microsoft exchange and online services for backups"
+        # Task: INFOTECH-16
 
     --> Time: "0h 30m";     Status: ""
         # Description: "IT meeting"
