@@ -10,8 +10,8 @@
         # Task: INFOTECH-181
 
     --> Time: "1h 30m";     Status: ""
-        Description: "Researched pricing information about microsoft intune"
-        Task: INFOTECH-20
+        # Description: "Researched pricing information about microsoft intune"
+        # Task: INFOTECH-20
     
 13.04.2023
     --> Time: "8h 00m";     Status: ""
