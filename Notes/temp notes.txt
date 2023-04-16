@@ -29,8 +29,8 @@
         # Task: MSFTCP-442
 
     --> Time: "0h 15m";     Status: ""
-        Description: "Cleare confluence documents, replaced to sharepoint into the draft"
-        Task: INFOTECH-190
+        # Description: "Cleare confluence documents, replaced to sharepoint into the draft"
+        # Task: INFOTECH-190
 27.04.2023
     --> Time: "1h 20m";     Status: ""
         # Description: "BUG 420260"
