@@ -8,8 +8,8 @@
         Description: ""
         Task: 
 
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "1h 00m";     Status: ""
+        Description: "Monthly staff meeting"
         Task: 
 
     --> Time: "1h 45m";     Status: ""
