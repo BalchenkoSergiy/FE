@@ -5,20 +5,20 @@
 //endTemplate
 17.04.2023
     Time: "4h 00m";     Status: ""
-        ! Description: "Ms Tasks"
-        ! Task: MFTCP--441
+        # Description: "Ms Tasks"
+        # Task: MFTCP--441
 
     --> Time: "0h 45m";     Status: ""
         # Description: "MS Call with Alex"
         # Task: MFTCP--442
 
     --> Time: "1h 00m";     Status: ""
-        ! Description: "Monthly staff meeting"
-        ! Task: TRAIN-376
+        # Description: "Monthly staff meeting"
+        # Task: TRAIN-376
 
     --> Time: "1h 45m";     Status: ""
-        ! Description: "Chacked SSL sertificates"
-        ! Task: 
+        # Description: "Chacked SSL sertificates"
+        # Task: SUPPORT-852
 
 14.04.2023
     --> Time: "3h 30m";     Status: ""
