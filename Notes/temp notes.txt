@@ -17,6 +17,10 @@
         Description: "MS Bug: 422753"
         Task: MFTCP-441
 
+    --> Time: "2h 30m";     Status: ""
+        Description: "Research DATTO"
+        Task: INFOTECH-16
+
 17.04.2023
     Time: "4h 00m";     Status: ""
         # Description: "Ms Tasks"
