@@ -4,6 +4,11 @@
         Task: 
 //endTemplate
 
+19.04.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
 18.04.2023
     --> Time: "2h 00m";     Status: ""
         Description: "MS Bug: 420219"
