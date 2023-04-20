@@ -6,16 +6,16 @@
 
 19.04.2023
     --> Time: "4h 00m";     Status: "DONE in DEV"
-        Description: "MS Task 419682"
-        Task: MFTCP-441
+        # Description: "MS Task 419682"
+        # Task: MFTCP-441
 
     --> Time: "3h 00m";     Status: "DONE in DEV"
-        Description: "MS Task 422157"
-        Task: MFTCP-441
+        # Description: "MS Task 422157"
+        # Task: MFTCP-441
 
     --> Time: "1h 00m";     Status: "IN PROGRESS"
-        Description: "MS Task 418537"
-        Task: MFTCP-441
+        # Description: "MS Task 418537"
+        # Task: MFTCP-441
 
 18.04.2023
     --> Time: "2h 00m";     Status: ""
