@@ -19,20 +19,20 @@
 
 18.04.2023
     --> Time: "2h 00m";     Status: ""
-        Description: "MS Bug: 420219"
-        Task: MFTCP-441
+        # Description: "MS Bug: 420219"
+        # Task: MFTCP-441
 
     --> Time: "1h 30m";     Status: ""
-        Description: "MS Bug: 420601"
-        Task: MFTCP-441
+        # Description: "MS Bug: 420601"
+        # Task: MFTCP-441
 
     --> Time: "2h 00m";     Status: ""
-        Description: "MS Bug: 422753"
-        Task: MFTCP-441
+        # Description: "MS Bug: 422753"
+        # Task: MFTCP-441
 
     --> Time: "2h 30m";     Status: ""
-        Description: "Research DATTO"
-        Task: INFOTECH-16
+        # Description: "Research DATTO"
+        # Task: INFOTECH-16
 
 17.04.2023
     Time: "4h 00m";     Status: ""
