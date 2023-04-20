@@ -4,6 +4,15 @@
         Task: 
 //endTemplate
 
+20.04.2023
+    --> Time: "0h 00m";     Status: "DONE in DEV"
+        Description: "MS Task 418537"
+        Task: MFTCP-441
+
+    --> Time: "0h 00m";     Status: "DONE in DEV"
+        Description: "MS Task 418618"
+        Task: MFTCP-441
+
 19.04.2023
     --> Time: "4h 00m";     Status: "DONE in DEV"
         # Description: "MS Task 419682"
