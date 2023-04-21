@@ -6,24 +6,24 @@
 
 21.04.2023
     --> Time: "0h 00m";     Status: "IN Progress"
-        # Description: "MS Task 424225"
-        # Task: MFTCP-441
+        Description: "MS Task 424225"
+        Task: MFTCP-441
 
     --> Time: "0h 30m";     Status: "IN Progress"
-        # Description: "MS Task 420242"
-        # Task: MFTCP-441
+        ! Description: "MS Task 420242"
+        ! Task: MFTCP-441
 
     --> Time: "0h 00m";     Status: ""
-        # Description: "MS Task 424223"
-        # Task: MFTCP-441
+        Description: "MS Task 424223"
+        Task: MFTCP-441
 
     --> Time: "0h 00m";     Status: ""
-        # Description: "MS Task 420218"
-        # Task: MFTCP-441
+        Description: "MS Task 420218"
+        Task: MFTCP-441
 
     --> Time: "0h 00m";     Status: ""
-        # Description: "MS Task 424236"
-        # Task: MFTCP-441
+        Description: "MS Task 424236"
+        Task: MFTCP-441
 
 20.04.2023
     --> Time: "1h 00m";     Status: "IN Progress"
