@@ -6,6 +6,10 @@
 
 21.04.2023
     --> Time: "1h 00m";     Status: ""
+        ! Description: "Meeting with Alex. Shadowing"
+        !Task: MFTCP-442
+
+    --> Time: "1h 00m";     Status: ""
         # Description: "Spring meeting for IT"
         # Task: INFOTECH-195
 
@@ -21,11 +25,11 @@
         Description: "MS Task 424223"
         Task: MFTCP-441
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "2h 00m";     Status: ""
         Description: "MS Task 420218"
         Task: MFTCP-441
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "4h 00m";     Status: ""
         Description: "MS Task 424236"
         Task: MFTCP-441
 
