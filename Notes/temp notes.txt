@@ -25,8 +25,8 @@
         # Task: HR-184
 
     --> Time: "1h 30m";     Status: ""
-        Description: "Call with Alex 424225"
-        Task: MSFTCP-442
+        # Description: "Call with Alex 424225"
+        # Task: MSFTCP-442
 
     --> Time: "0h 15m";     Status: ""
         Description: "Cleare confluence documents, replaced to sharepoint into the draft"
