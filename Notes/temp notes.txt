@@ -21,8 +21,8 @@
         # Task: INFOTECH-190
 
     --> Time: "0h 15m";     Status: ""
-        Description: "Meeting - Team Huddle"
-        Task: HR-184
+        # Description: "Meeting - Team Huddle"
+        # Task: HR-184
 
     --> Time: "1h 30m";     Status: ""
         Description: "Call with Alex 424225"
