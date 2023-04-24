@@ -5,11 +5,11 @@
 //endTemplate
 
 24.04.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "3h 00m";     Status: "Done in DEV"
         Description: "Bug 420218"
         Task: MFTCP-441
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "0h 00m";     Status: "In progress"
         Description: "Bug 422775"
         Task: MFTCP-441
 
@@ -17,7 +17,7 @@
         Description: "Bug 423539"
         Task: MFTCP-441
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "2h 00m";     Status: "DONE in DEV"
         Description: "Bug 424223"
         Task: MFTCP-441
 
