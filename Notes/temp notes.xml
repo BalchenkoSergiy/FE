@@ -14,8 +14,8 @@
         # Task: MFTCP-441
 
     --> Time: "1h 15m";     Status: "In progress"
-        Description: "Bug 422775"
-        Task: MFTCP-441
+        # Description: "Bug 422775"
+        # Task: MFTCP-441
 
     --> Time: "1h 15m";     Status: ""
         Description: "Bug 423539"
