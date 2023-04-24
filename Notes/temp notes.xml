@@ -9,15 +9,15 @@
         # Description: "Meeting with Paul and Alex"
         # Task: MFTCP-442
 
-    --> Time: "3h 00m";     Status: "Done in DEV"
-        Description: "Bug 420218"
-        Task: MFTCP-441
+    --> Time: "2h 00m";     Status: "Done in DEV"
+        # Description: "Bug 420218"
+        # Task: MFTCP-441
 
-    --> Time: "0h 00m";     Status: "In progress"
+    --> Time: "1h 15m";     Status: "In progress"
         Description: "Bug 422775"
         Task: MFTCP-441
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 15m";     Status: ""
         Description: "Bug 423539"
         Task: MFTCP-441
 
