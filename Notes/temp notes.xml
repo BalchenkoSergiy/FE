@@ -29,9 +29,9 @@
         Description: "Meeting "Town Hall - Time Entry Refresher - Mandatory Attendance""
         Task: 
     
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 00m";     Status: ""
         Description: "Meeting "PRA Physician Database - Kick-Off and Sprint Planning Meeting""
-        Task: 
+        Task: PRACOVID19-199
 
 24.04.2023
     --> Time: "1h 30m";     Status: "Done in DEV"
