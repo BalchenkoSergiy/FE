@@ -3,7 +3,30 @@
         Description: ""
         Task: 
 //endTemplate
+26.04.2023
+    --> Time: "2h 00m";     Status: "In Progress"
+        Description: "Create Position Table"
+        Task: PRACOVID19-184
+    
+    --> Time: "1h 00m";     Status: "In Progress"
+        Description: "Create Contract Table"
+        Task: PRACOVID19-185
 
+    --> Time: "1h 00m";     Status: "In Progress"
+        Description: "Create Contract Rate Of Pay Table"
+        Task: PRACOVID19-186
+
+    --> Time: "2h 00m";     Status: "In Progress"
+        Description: "Create Forms For Position And Contract"
+        Task: PRACOVID19-188
+
+    --> Time: "1h 00m";     Status: "In Progress"
+        Description: "Update COVID-19 MDA Navigation"
+        Task: PRACOVID19-187
+
+    --> Time: "1h 00m";     Status: "In Progress"
+        Description: "Updating Views For Position, Contract And Contract Rate Of Pay"
+        Task: PRACOVID19-189
 25.04.2023
     --> Time: "2h 00m";     Status: ""
         # Description: "Bug 424225"
