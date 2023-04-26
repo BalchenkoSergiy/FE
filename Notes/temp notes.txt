@@ -25,8 +25,8 @@
         Task: PRACOVID19-187
 
     --> Time: "1h 00m";     Status: "In Progress"
-        Description: "Updating Views For Position, Contract And Contract Rate Of Pay"
-        Task: PRACOVID19-189
+        # Description: "Updating Views For Position, Contract And Contract Rate Of Pay"
+        # Task: PRACOVID19-189
     
     --> Time: "1h 00m";     Status: "DONE in DEV"
         # Description: "MS Task 422157"
