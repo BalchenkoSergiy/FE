@@ -27,7 +27,11 @@
     --> Time: "1h 00m";     Status: "In Progress"
         Description: "Updating Views For Position, Contract And Contract Rate Of Pay"
         Task: PRACOVID19-189
-        
+    
+    --> Time: "1h 00m";     Status: "DONE in DEV"
+        # Description: "MS Task 422157"
+        # Task: MFTCP-441
+
 25.04.2023
     --> Time: "2h 00m";     Status: ""
         # Description: "Bug 424225"
