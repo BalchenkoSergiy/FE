@@ -6,16 +6,16 @@
 
 25.04.2023
     --> Time: "2h 00m";     Status: ""
-        Description: "Bug 424225"
-        Task: 
+        # Description: "Bug 424225"
+        # Task: MFTCP-441
 
     --> Time: "2h 00m";     Status: ""
-        Description: "Bug 419707"
-        Task: 
+        # Description: "Bug 419707"
+        # Task: MFTCP-441
 
     --> Time: "2h 15m";     Status: ""
-        Description: "Bug 419689"
-        Task: 
+        # Description: "Bug 419689"
+        # Task: MFTCP-441
 
     --> Time: "0h 00m";     Status: ""
         Description: "Bug 419167"
@@ -26,12 +26,12 @@
         Task: 
 
     --> Time: "0h 45m";     Status: ""
-        Description: "Meeting "Town Hall - Time Entry Refresher - Mandatory Attendance""
-        Task: 
+        # Description: "Meeting "Town Hall - Time Entry Refresher - Mandatory Attendance""
+        # Task: 
     
     --> Time: "1h 00m";     Status: ""
-        Description: "Meeting "PRA Physician Database - Kick-Off and Sprint Planning Meeting""
-        Task: PRACOVID19-199
+        # Description: "Meeting "PRA Physician Database - Kick-Off and Sprint Planning Meeting""
+        # Task: PRACOVID19-199
 
 24.04.2023
     --> Time: "1h 30m";     Status: "Done in DEV"
