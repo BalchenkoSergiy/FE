@@ -4,19 +4,23 @@
         Task: 
 //endTemplate
 27.04.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 20m";     Status: ""
+        Description: "BUG 420260"
+        Task: MFTCP-441
+
+    --> Time: "1h 20m";     Status: ""
         Description: "BUG 424225"
         Task: MFTCP-441
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "1h 20m";     Status: ""
         Description: "BUG 419707"
         Task: MFTCP-441
 
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "2h 00m";     Status: ""
         Description: "BUG 419167"
         Task: MFTCP-441
     
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "2h 00m";     Status: ""
         Description: "BUG 421871"
         Task: MFTCP-441
 
