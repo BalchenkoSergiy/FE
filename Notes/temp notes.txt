@@ -5,8 +5,8 @@
 //endTemplate
 28.04.2023
     --> Time: "1h 45m";     Status: ""
-        Description: "Worked with Paul, shadowing"
-        Task: INFOTECH-198
+        # Description: "Worked with Paul, shadowing"
+        # Task: INFOTECH-198
 
     --> Time: "1h 30m";     Status: ""
         # Description: "FNU NCCIE Monthly mintenanse"
