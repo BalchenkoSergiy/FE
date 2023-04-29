@@ -5,24 +5,32 @@
 //endTemplate
 28.04.2023
     --> Time: "1h 45m";     Status: ""
-        Description: "FNU NCCIE Monthly mintenanse"
-        Task: 
-
-    --> Time: "0h 45m";     Status: ""
-        Description: "IT Meeting"
-        Task: 
-
-    --> Time: "0h 15m";     Status: ""
-        Description: "Stuff meeting"
-        Task: 
+        Description: "Worked with Paul, shadowing"
+        Task: INFOTECH-198
 
     --> Time: "1h 30m";     Status: ""
-        Description: "Worked with Paul"
-        Task: 
+        # Description: "FNU NCCIE Monthly mintenanse"
+        # Task: FNUWEB-209 and FNUNIVNCC-1880
+
+    --> Time: "0h 45m";     Status: ""
+        # Description: "IT Meeting"
+        # Task: INFOTECH-195
+
+    --> Time: "2h 00m";     Status: ""
+        Description: "Shadowing Paul"
+        Task: INFOTECH-190
 
     --> Time: "0h 15m";     Status: ""
-        Description: "Checked Jatinder working place"
-        Task: 
+        Description: "Meeting - Team Huddle"
+        Task: HR-184
+
+    --> Time: "1h 30m";     Status: ""
+        Description: "Call with Alex 424225"
+        Task: MSFTCP-442
+
+    --> Time: "0h 15m";     Status: ""
+        Description: "Cleare confluence documents, replaced to sharepoint into the draft"
+        Task: INFOTECH-190
 27.04.2023
     --> Time: "1h 20m";     Status: ""
         # Description: "BUG 420260"
