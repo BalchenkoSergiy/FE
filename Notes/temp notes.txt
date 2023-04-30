@@ -17,8 +17,8 @@
         # Task: INFOTECH-195
 
     --> Time: "2h 00m";     Status: ""
-        Description: "Shadowing Paul"
-        Task: INFOTECH-190
+        # Description: "Shadowing Paul"
+        # Task: INFOTECH-190
 
     --> Time: "0h 15m";     Status: ""
         Description: "Meeting - Team Huddle"
