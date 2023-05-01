@@ -4,20 +4,24 @@
         Task: 
 //endTemplate
 01.05.2023
-    --> Time: "0h 00m";     Status: "In progress"
+    --> Time: "1h 00m";     Status: "In progress"
         Description: "BUG 421089"
         Task: 
     
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "1h 00m";     Status: "In progress"
+        Description: "BUG 420260"
         Task: 
     
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "1h 00m";     Status: "In progress"
+        Description: "BUG 421871"
         Task: 
     
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "4h 00m";     Status: ""
+        Description: "Shadowing Jacob, worked on 421089"
+        Task: 
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Discussed with Paul 420260"
         Task: 
 
 28.04.2023
