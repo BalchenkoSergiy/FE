@@ -17,8 +17,8 @@
         # Task: 
     
     --> Time: "4h 00m";     Status: ""
-        Description: "Shadowing Jacob, worked on 421089"
-        Task: 
+        # Description: "Shadowing Jacob, worked on 421089"
+        # Task: 
 
     --> Time: "1h 00m";     Status: ""
         Description: "Discussed with Paul 420260"
