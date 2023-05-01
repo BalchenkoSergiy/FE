@@ -9,8 +9,8 @@
         # Task: 
     
     --> Time: "1h 00m";     Status: "In progress"
-        Description: "BUG 420260"
-        Task: 
+        # Description: "BUG 420260"
+        # Task: 
     
     --> Time: "1h 00m";     Status: "In progress"
         Description: "BUG 421871"
