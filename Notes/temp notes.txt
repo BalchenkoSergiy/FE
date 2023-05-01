@@ -21,8 +21,8 @@
         # Task: 
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Discussed with Paul 420260"
-        Task: 
+        # Description: "Discussed with Paul 420260"
+        # Task: 
 
 28.04.2023
     --> Time: "1h 45m";     Status: ""
