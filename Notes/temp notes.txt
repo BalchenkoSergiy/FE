@@ -5,8 +5,8 @@
 //endTemplate
 01.05.2023
     --> Time: "1h 00m";     Status: "In progress"
-        Description: "BUG 421089"
-        Task: 
+        # Description: "BUG 421089"
+        # Task: 
     
     --> Time: "1h 00m";     Status: "In progress"
         Description: "BUG 420260"
