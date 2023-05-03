@@ -9,8 +9,8 @@
         # Task: MSFTCP-452
 
     --> Time: "03 00m";     Status: ""
-        Description: "BUG 421871; BUG 420260"
-        Task: MSFTCP-452
+        # Description: "BUG 421871; BUG 420260"
+        # Task: MSFTCP-452
 
     --> Time: "1h 45m";     Status: ""
         Description: "BUG 421896"
