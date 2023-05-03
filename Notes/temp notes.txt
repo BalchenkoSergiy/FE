@@ -5,8 +5,8 @@
 //endTemplate
 02.05.2023
     --> Time: "3h 00m";     Status: ""
-        Description: "BUG 419682; BUG 421881"
-        Task: MSFTCP-452
+        # Description: "BUG 419682; BUG 421881"
+        # Task: MSFTCP-452
 
     --> Time: "03 00m";     Status: ""
         Description: "BUG 421871; BUG 420260"
