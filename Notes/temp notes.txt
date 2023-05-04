@@ -9,8 +9,8 @@
         # Task: NSFTCP-447
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Shadowing Jacob 421093"
-        Task: NSFTCP-447
+        # Description: "Shadowing Jacob 421093"
+        # Task: NSFTCP-447
 
     --> Time: "2h 00m";     Status: ""
         Description: "Worked on 421093 and 421896"
