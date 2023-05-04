@@ -21,8 +21,8 @@
         # Task: INFOTECH-202
 
     --> Time: "0h 30m";     Status: ""
-        Description: "Connected to Exchange 365"
-        Task: INFOTECH-203
+        # Description: "Connected to Exchange 365"
+        # Task: INFOTECH-203
 
 02.05.2023
     --> Time: "3h 00m";     Status: ""
