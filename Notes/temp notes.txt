@@ -3,6 +3,20 @@
         Description: ""
         Task: 
 //endTemplate
+04.05.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task:
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task:
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task:
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task:
+        
 03.05.2023
     --> Time: "4h 00m";     Status: ""
         # Description: "Shadowing Jacob 421896"
