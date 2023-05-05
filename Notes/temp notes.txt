@@ -9,8 +9,8 @@
         # Task: Infotech-20
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Tested Nick's account, sent letter to support team"
-        Task: Infotech-202
+        # Description: "Tested Nick's account, sent letter to support team"
+        # Task: Infotech-202
 
     --> Time: "2h 30m";     Status: ""
         Description: ""
