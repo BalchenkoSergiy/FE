@@ -5,8 +5,8 @@
 //endTemplate
 04.05.2023
     --> Time: "3h 00m";     Status: ""
-        Description: "Setup EC Computers for INTUNE"
-        Task: Infotech-20
+        # Description: "Setup EC Computers for INTUNE"
+        # Task: Infotech-20
 
     --> Time: "1h 00m";     Status: ""
         Description: "Tested Nick's account, sent letter to support team"
