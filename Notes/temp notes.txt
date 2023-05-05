@@ -4,19 +4,22 @@
         Task: 
 //endTemplate
 04.05.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "3h 00m";     Status: ""
+        Description: "Setup EC Computers for INTUNE"
+        Task: Infotech-20
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Tested Nick's account, sent letter to support team"
+        Task: Infotech-202
+
+    --> Time: "2h 30m";     Status: ""
         Description: ""
-        Task:
-    --> Time: "0h 00m";     Status: ""
+        Task: NSFTCP-447
+
+    --> Time: "1h 30m";     Status: ""
         Description: ""
-        Task:
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task:
-        
+        Task: MSFTCP-452
+
 03.05.2023
     --> Time: "4h 00m";     Status: ""
         # Description: "Shadowing Jacob 421896"
@@ -28,7 +31,7 @@
 
     --> Time: "2h 00m";     Status: ""
         # Description: "Worked on 421093 and 421896"
-        # Task:MSFTCP-452
+        # Task: MSFTCP-452
 
     --> Time: "0h 30m";     Status: ""
         # Description: "Tried to connect to FreshBooks"
