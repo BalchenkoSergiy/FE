@@ -47,7 +47,7 @@ console.log(`Start check Numbers letters`)
 while (varCoursor < (clientPassword.length)) 
     {
         console.log(`************************************************`)
-        console.log(`Started check Number letters`)
+        console.log(`Started check Number and CamelCase letters`)
 
         if (
         clientPassword[varCoursor] == 0 || 
@@ -64,6 +64,14 @@ while (varCoursor < (clientPassword.length))
         {
             checkNumber = true
         }
+        else
+        {if (
+                clientPassword[varCoursor] === clientPassword[varCoursor].toUpperCase()
+            )
+            {
+                checkSymbol = true
+            }
+        }
 
         console.log(`Details (Number check):
             1. clientName: ${clientName}
@@ -73,52 +81,11 @@ while (varCoursor < (clientPassword.length))
         varCoursor += 1
     }
     
-console.log(`Finished check Number letters`)
+console.log(`Finished check Number and CamelCase letters`)
 console.log(`************************************************`)
-console.log(`************************************************`)
-console.log(`Start check CamelCase letters`)
-    
-if ((clientPassword.length-1) > varCoursor) 
-    {   
-        console.log(`************************************************`)
-        console.log(`Started check CamelCase letters`)
-        if (
-                (clientPassword[varCoursor] === clientPassword[varCoursor].toUpperCase()) 
-                &&  
-                (clientPassword[varCoursor] != 0 || 
-                clientPassword[varCoursor] != 1 || 
-                clientPassword[varCoursor] != 2 ||
-                clientPassword[varCoursor] != 3 || 
-                clientPassword[varCoursor] != 4 || 
-                clientPassword[varCoursor] != 5 ||
-                clientPassword[varCoursor] != 6 ||
-                clientPassword[varCoursor] != 7 || 
-                clientPassword[varCoursor] != 8 || 
-                clientPassword[varCoursor] != 9)
-            )
-            {
-                console.log(`Symbol is: ${clientPassword[varCoursor]}`)
-                console.log(`Symbol is UpperCase = true`)
-                checkSymbol = true
-                varCoursor = 0
-            }
-        else
-            {
-                console.log(`Symbol is: ${clientPassword[varCoursor]}`)
-                console.log(`Symbol is UpperCase = false`)
-                console.log(`****************************************`)
-                varCoursor += 1
-                console.log(`Details (Length check):
-                1. clientName: ${clientName}
-                2. clientPassword: ${clientPassword}
-                3. client symbol: ${clientPassword[varCoursor]}
-                4. clientPasswordLenght: ${clientPassword.length}`)
-            }
-                  
-    } 
-        
-console.log(`Finished check Camel Case`)
-console.log(`************************************************`)
+
+
+
 console.log(`************************************************`)
 
 
