@@ -2,7 +2,7 @@ const developerName = 'Maxim';
 const programmingLanguage = 'JavaScript';
 
 const programmingLanguages = {
-    javaScript: 'javaScript',
+    javaScript: 'JavaScript',
     nodeJS: 'NodeJS',
 };
 
