@@ -4,9 +4,13 @@
         Task: 
 //endTemplate
 08.05.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "4Sh 00m";     Status: ""
         Description: "Bug 422173"
         Task: MSFTCP-452
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Tested creating backups all services"
+        Task: INFOTECH-203
 
     --> Time: "0h 15m";     Status: ""
         Description: "Meeting 'Show Melina how to put a document into Confluence - Policy'"
