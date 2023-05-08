@@ -5,11 +5,11 @@
 //endTemplate
 08.05.2023
     --> Time: "0h 00m";     Status: ""
-        Description: ""
-        Task: 
-        
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+        Description: "Bug 422173"
+        Task: MSFTCP-452
+
+    --> Time: "0h 15m";     Status: ""
+        Description: "Meeting 'Show Melina how to put a document into Confluence - Policy'"
         Task: 
 04.05.2023
     --> Time: "3h 00m";     Status: ""
