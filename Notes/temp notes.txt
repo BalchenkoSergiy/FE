@@ -112,20 +112,20 @@
 
 09.05.2023
     --> Time: "4h 00m";     Status: ""
-        Description: "Bug 422173"
-        Task: MSFTCP-452
+        # Description: "Bug 422173"
+        # Task: MSFTCP-452
     
     --> Time: "1h 00m";     Status: ""
-        Description: "Shadowing Paul"
-        Task: infotech-212
+        # Description: "Shadowing Paul"
+        # Task: infotech-212
 
     --> Time: "2h 00m";     Status: ""
-        Description: "CoudAlly"
-        Task: infotech-203
+        # Description: "CoudAlly"
+        # Task: infotech-203
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Skyvia"
-        Task: infotech-202
+        # Description: "Skyvia"
+        # Task: infotech-202
 08.05.2023
     --> Time: "4h 00m";     Status: ""
         # Description: "Bug 422173"
