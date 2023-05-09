@@ -5,20 +5,20 @@
 //endTemplate
 08.05.2023
     --> Time: "4h 00m";     Status: ""
-        Description: "Bug 422173"
-        Task: MSFTCP-452
+        # Description: "Bug 422173"
+        # Task: MSFTCP-452
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Tested creating backups all services"
-        Task: INFOTECH-203
+        # Description: "Tested creating backups all services"
+        # Task: INFOTECH-203
 
     --> Time: "0h 15m";     Status: ""
-        Description: "Meeting 'Show Melina how to put a document into Confluence - Policy'"
-        Task: 
+        # Description: "Meeting 'Show Melina how to put a document into Confluence - Policy'"
+        # Task: INFOTECH-210
 
     --> Time: "2h 45m";     Status: ""
-        Description: "Shadowing Paul"
-        Task: 
+        # Description: "Shadowing Paul"
+        # Task: INFOTECH-212
 04.05.2023
     --> Time: "3h 00m";     Status: ""
         # Description: "Setup EC Computers for INTUNE"
