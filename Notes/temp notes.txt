@@ -56,24 +56,24 @@
 
 12.05.2023
     --> Time: "2h 30m";     Status: ""
-        Description: ""
-        Task: 
+        Description: "Updated MacMINI"
+        Task: infotech-103
     
     --> Time: "1h 00m";     Status: ""
-        Description: ""
-        Task: 
+        Description: "Connected to FreshBooks"
+        Task: infotech-202
 
     --> Time: "2h 30m";     Status: ""
-        Description: ""
-        Task: 
+        Description: "418618; 422157"
+        Task: MSFTCP-452
 
     --> Time: "1h 00m";     Status: ""
-        Description: ""
-        Task: 
+        Description: "Reviewed SSL spreadsheet"
+        Task: SUPPORT-852
     
     --> Time: "1h 00m";     Status: ""
-        Description: ""
-        Task: 
+        Description: "Sprint meeting for IT"
+        Task: infotech-218
 
 11.05.2023
     --> Time: "4h 00m";     Status: ""
