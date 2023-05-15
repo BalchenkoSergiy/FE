@@ -39,32 +39,32 @@
 
 15.05.2023
     --> Time: "2h 00m";     Status: ""
-        Description: "DNS Firewall"
-        Task: infotech-152
+        # Description: "DNS Firewall"
+        # Task: infotech-152
 
     --> Time: "0h 30m";     Status: ""
-        Description: "Udated Mac mini"
-        Task: infotech-103
+        # Description: "Udated Mac mini"
+        # Task: infotech-103
 
     --> Time: "1h 00m";     Status: ""
-        Description: "WIFI access points"
-        Task: infotech-135
+        # Description: "WIFI access points"
+        # Task: infotech-135
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Monthly Meeting for staff"
-        Task: infotech-376
+        # Description: "Monthly Meeting for staff"
+        # Task: infotech-376
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Malware software"
-        Task: infotech-105
+        # Description: "Malware software"
+        # Task: infotech-105
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Encrypting data"
-        Task: infotech-167
+        # Description: "Encrypting data"
+        # Task: infotech-167
 
     --> Time: "1h 30m";     Status: ""
-        Description: "Encryptyng database"
-        Task: infotech-168
+        # Description: "Encryptyng database"
+        # Task: infotech-168
 
 12.05.2023
     --> Time: "2h 30m";     Status: ""
