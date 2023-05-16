@@ -22,16 +22,16 @@
 
 16.05.2023
     --> Time: "4h 00m";     Status: ""
-        Description: "421089"
-        Task: MSFTCP-452
+        # Description: "421089"
+        # Task: MSFTCP-452
 
     --> Time: "3h 30m";     Status: ""
-        Description: "422157"
-        Task: MSFTCP-452
+        # Description: "422157"
+        # Task: MSFTCP-452
 
     --> Time: "0h 30m";     Status: ""
-        Description: "Meeting for PRA weekly status"
-        Task: PRACOVID-216
+        # Description: "Meeting for PRA weekly status"
+        # Task: PRACOVID-216
 
 15.05.2023
     --> Time: "2h 00m";     Status: ""
