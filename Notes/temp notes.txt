@@ -5,16 +5,16 @@
 //endTemplate
 17.05.2023
     --> Time: "3h 00m";     Status: ""
-        Description: "421089"
-        Task: MSFTCP-452
+        # Description: "421089"
+        # Task: MSFTCP-452
 
     --> Time: "3h 00m";     Status: ""
-        Description: "421093"
-        Task: MSFTCP-452
+        # Description: "421093"
+        # Task: MSFTCP-452
 
     --> Time: "2h 00m";     Status: ""
-        Description: "Worked with Paul for PRA"
-        Task: PRACOVID-220
+        # Description: "Worked with Paul for PRA"
+        # Task: PRACOVID-220
 
 16.05.2023
     --> Time: "4h 00m";     Status: ""
