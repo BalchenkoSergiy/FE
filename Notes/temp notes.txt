@@ -4,9 +4,21 @@
         Task: 
 //endTemplate
 09.05.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "4h 00m";     Status: ""
         Description: "Bug 422173"
         Task: MSFTCP-452
+    
+    --> Time: "1h 00m";     Status: ""
+        Description: "Shadowing Paul"
+        Task: infotech-212
+
+    --> Time: "2h 00m";     Status: ""
+        Description: "CoudAlly"
+        Task: infotech-203
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Skyvia"
+        Task: infotech-202
 08.05.2023
     --> Time: "4h 00m";     Status: ""
         # Description: "Bug 422173"
