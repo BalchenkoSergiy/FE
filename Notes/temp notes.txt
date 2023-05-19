@@ -3,6 +3,15 @@
         Description: ""
         Task: 
 //endTemplate
+18.05.2023
+    --> Time: "4h 00m";     Status: ""
+        # Description: "Shadowing Paul and Jacob"
+        # Task: infotech-212
+
+    --> Time: "4h 00m";     Status: ""
+        # Description: "Shadowing Paul and Jacob"
+        # Task: infotech-212
+
 17.05.2023
     --> Time: "3h 00m";     Status: ""
         # Description: "421089"
