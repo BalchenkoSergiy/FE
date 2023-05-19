@@ -3,6 +3,23 @@
         Description: ""
         Task: 
 //endTemplate
+19.05.2023
+    --> Time: "4h 00m";     Status: ""
+        Description: "Shadowing Paul and Jacob"
+        Task: MSFTCP-452
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Sprint meeting for IT"
+        Task: infotech-228
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Present from Nick 1h"
+        Task: HR-210
+
+    --> Time: "2h 00m";     Status: ""
+        Description: "Study JavaScript"
+        Task: infotech-212
+
 18.05.2023
     --> Time: "4h 00m";     Status: ""
         # Description: "Shadowing Paul and Jacob"
