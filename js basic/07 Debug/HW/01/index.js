@@ -1,14 +1,14 @@
 // Task 01
-let health = prompt('Введите число параметра "здоровье" для персонажа')
+let health = prompt('Insert your value for "health" please')
 
 if ((health <= 0) || (health.type == undefined)) {
         console.log(`Value: ${health}`)
         console.log(`Type: ${health.type}`)
-        alert('Параметр "здоровье" должен быть больше нуля!')
+        alert('Value needs to be more then 0!')
     } 
 else 
     {
         console.log(`Value: ${health}`)
         console.log(`Type: ${health.type}`)
-        alert(`Параметр "здоровье" равен ${health}`);
+        alert(`The value of "health" is: ${health}`);
     }
