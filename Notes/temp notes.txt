@@ -74,12 +74,12 @@ s
         Task: 
 
 --> Time: "2h 00m";     Status: ""
-        Description: "Shadowing Paul. Creating PR for VistaMaria"
-        Task: 
+        # Description: "Shadowing Paul. Creating PR for VistaMaria"
+        # Task: 
 
     --> Time: "4h 45m";     Status: ""
-        Description: "Added expected results for test steps. Testing and criating new users stories"
-        Task: 
+        # Description: "Added expected results for test steps. Testing and criating new users stories"
+        # Task: 
 
 23.05.2023
     --> Time: "1h 00m";     Status: ""
