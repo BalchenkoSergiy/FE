@@ -9,7 +9,7 @@
         Description: "worked on editing documents"
         Task: 
 
-    --> Time: "1h 00m";     Status: ""
+    --> Time: "1h 00m";     Status: "VM-93"
         Description: "VM taskss"
         Task: 
 s
