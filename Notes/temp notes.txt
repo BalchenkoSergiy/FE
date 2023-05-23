@@ -3,6 +3,25 @@
         Description: ""
         Task: 
 //endTemplate
+
+23.05.2023
+    --> Time: "1h 00m";     Status: ""
+        # Description: "Meeting with Jacob and Paul for PRA"
+        # Task: PRACOVID-231
+
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
+
 19.05.2023
     --> Time: "4h 00m";     Status: ""
         # Description: "Shadowing Paul and Jacob"
