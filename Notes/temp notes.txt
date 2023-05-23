@@ -17,8 +17,8 @@
         # Task: HR-210
 
     --> Time: "2h 00m";     Status: ""
-        Description: "Study JavaScript"
-        Task: infotech-212
+        # Description: "Study JavaScript"
+        # Task: infotech-212
 
 18.05.2023
     --> Time: "4h 00m";     Status: ""
