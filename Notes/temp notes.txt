@@ -17,6 +17,10 @@
         Description: "Meeting for VM"
         Task: 
 
+    --> Time: "1h 00m";     Status: ""
+        Description: "Recycling program"
+        Task: 
+
 07.09.2023
     --> Time: "4h 00m";     Status: ""
         Description: "Google ADS studying"
