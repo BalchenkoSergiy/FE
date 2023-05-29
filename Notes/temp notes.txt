@@ -5,9 +5,9 @@
 //endTemplate
 
 11.09.2023
-    --> Time: "3h 00m";     Status: ""
-        Description: "worked on editing documents"
-        Task: 
+    --> Time: "4h 00m";     Status: ""
+        # Description: "worked on editing documents"
+        # Task: 
 
     --> Time: "1h 00m";     Status: "VM-93"
         # Description: "Created new basic form"
