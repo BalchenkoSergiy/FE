@@ -3,6 +3,11 @@
         Description: ""
         Task: 
 //endTemplate
+12.09.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: ""
+        Task: 
+
 
 11.09.2023
     --> Time: "4h 00m";     Status: ""
