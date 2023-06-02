@@ -4,8 +4,8 @@
         Task: 
 //endTemplate
 12.09.2023
-    --> Time: "0h 00m";     Status: ""
-        Description: ""
+    --> Time: "2h 00m";     Status: ""
+        Description: "Worked with documents"
         Task: 
 
 
