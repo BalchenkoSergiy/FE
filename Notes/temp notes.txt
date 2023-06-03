@@ -7,6 +7,11 @@
     --> Time: "2h 00m";     Status: ""
         Description: "Worked with documents"
         Task: 
+    
+    --> Time: "1h 30m";     Status: ""
+        Description: "Shadowing Paul, reviewed support mailbox"
+        Task: 
+    
 
 
 11.09.2023
