@@ -8,11 +8,13 @@
         Description: "Worked with documents"
         Task: 
     
-    --> Time: "1h 30m";     Status: ""
+    --> Time: "2h 30m";     Status: ""
         Description: "Shadowing Paul, reviewed support mailbox"
         Task: 
     
-
+    --> Time: "1h 00m";     Status: ""
+        Description: "Order whiteboard"
+        Task: 
 
 11.09.2023
     --> Time: "4h 00m";     Status: ""
