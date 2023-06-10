@@ -21,8 +21,8 @@
         # Task: 
 
     --> Time: "2h 00m";     Status: ""
-        ! Description: "Studied - Community call"
-        ! Task: 
+        # Description: "Studied - Community call"
+        # Task: 
 
 11.09.2023
     --> Time: "4h 00m";     Status: ""
