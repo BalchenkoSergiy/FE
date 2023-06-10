@@ -13,8 +13,8 @@
         ! Task: 
     
     --> Time: "1h 00m";     Status: ""
-        ! Description: "Order whiteboard"
-        ! Task: 
+        # Description: "Order whiteboard"
+        # Task: 
     
     --> Time: "1h 00m";     Status: ""
         # Description: "Quotes for EC site"
