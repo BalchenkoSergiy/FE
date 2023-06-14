@@ -6,7 +6,7 @@
 
 13.09.2023
     --> Time: "0h 00m";     Status: ""
-        Description: ""
+        Description: "Work with documents"
         Task: 
 
 12.09.2023
