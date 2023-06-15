@@ -1,11 +1,13 @@
 //startTemplate
-    --> Time: "0h 00m";     Status: ""
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
         Description: ""
         Task: 
 //endTemplate
 
 13.09.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "08h 30m";     Time to: "0h 00m";
         Description: "Work with documents"
         Task: 
 
