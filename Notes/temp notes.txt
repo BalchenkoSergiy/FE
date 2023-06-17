@@ -11,6 +11,12 @@
         Description: "Work with documents"
         Task: 
 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "14h 00m";     Time to: "0h 00m";
+        Description: "LMS Testing"
+        Task: 
+
 12.09.2023
     --> Time: "2h 00m";     Status: ""
         # Description: "Worked with documents"
