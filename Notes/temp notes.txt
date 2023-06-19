@@ -6,20 +6,24 @@
 //endTemplate
 
 13.09.2023
-    --> Time total: "5h 00m";     Status: "";
+    --> Time total: "4h 00m";     Status: "";
         Time from:  "08h 30m";     Time to: "13h 30m";
         Description: "Work with documents"
         Task: 
 
+    --> Time total: "1h 30m";     Status: "";
+        # Time from:  "15h 30m";     Time to: "17h 00m";
+        # Description: "LMS Testing"
+        Task: 
 
     --> Time total: "1h 00m";     Status: "";
         Time from:  "14h 00m";     Time to: "15h 00m";
         Description: "Discussed with Paul and Hosey"
         Task: 
 
-    --> Time total: "0h 45m";     Status: "";
+    --> Time total: "1h 30m";     Status: "";
         Time from:  "15h 00m";     Time to: "15h 45m";
-        Description: "Shadowing Paul - worked on VM request"
+        Description: "Shadowing Paul - worked on VM and Patagonia requests"
         Task: 
 
 12.09.2023
