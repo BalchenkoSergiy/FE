@@ -7,14 +7,14 @@
 
 13.09.2023
     --> Time total: "4h 00m";     Status: "";
-        Time from:  "08h 30m";     Time to: "13h 30m";
-        Description: "Work with documents"
-        Task: 
+        # Time from:  "08h 30m";     Time to: "13h 30m";
+        # Description: "Work with documents"
+        # Task: 
 
     --> Time total: "1h 30m";     Status: "";
         # Time from:  "15h 30m";     Time to: "17h 00m";
         # Description: "LMS Testing"
-        Task: 
+        # Task: 
 
     --> Time total: "1h 00m";     Status: "";
         Time from:  "14h 00m";     Time to: "15h 00m";
