@@ -17,14 +17,14 @@
         # Task: 
 
     --> Time total: "1h 00m";     Status: "";
-        Time from:  "14h 00m";     Time to: "15h 00m";
-        Description: "Discussed with Paul and Hosey"
-        Task: 
+        # Time from:  "14h 00m";     Time to: "15h 00m";
+        # Description: "Discussed with Paul and Hosey"
+        # Task: 
 
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "15h 00m";     Time to: "15h 45m";
-        Description: "Shadowing Paul - worked on VM and Patagonia requests"
-        Task: 
+        # Time from:  "15h 00m";     Time to: "15h 45m";
+        # Description: "Shadowing Paul - worked on VM and Patagonia requests"
+        # Task: 
 
 12.09.2023
     --> Time: "2h 00m";     Status: ""
