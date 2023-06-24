@@ -10,7 +10,10 @@
         Description: "Call with Teta"
         Task: 
 
-
+    --> Time total: "1h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Recycling program"
+        Task: 
 13.09.2023
     --> Time total: "4h 00m";     Status: "";
         # Time from:  "08h 30m";     Time to: "13h 30m";
