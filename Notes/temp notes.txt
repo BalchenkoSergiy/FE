@@ -4,6 +4,32 @@
         Description: ""
         Task: 
 //endTemplate
+15.09.2023
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "1h 30m";     Time to: "0h 00m";
+        Description: "Vista Maria meeting"
+        Task: 
+
+    --> Time total: "2h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "PRA Tasks"
+        Task: 
+
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "EC Site"
+        Task: 
+    
+    --> Time total: "0h 15m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Ordered Whiteboard"
+        Task: 
+    
+    --> Time total: "2h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Online studying"
+        Task: 
+    
 14.09.2023
     --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
