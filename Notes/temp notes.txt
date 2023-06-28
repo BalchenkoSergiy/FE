@@ -178,6 +178,31 @@
         Description: "Created additional FTE fields on the Position Table"
         Task: 
 
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Created additional FTE fields on the Position Table"
+        Task: 
+    
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Created additional FTE fields on the Position Table"
+        Task: 
+
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Created additional FTE fields on the Position Table"
+        Task: 
+
+    --> Time total: "3h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Created additional FTE fields on the Position Table"
+        Task: 
+
+    --> Time total: "2h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Studied “Web Link Sets in Power Pages“"
+        Task: 
+
 23.05.2023
     --> Time: "1h 00m";     Status: ""
         # Description: "Meeting with Jacob and Paul for PRA"
