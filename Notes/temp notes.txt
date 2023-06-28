@@ -172,6 +172,12 @@
         # Description: "Added expected results for test steps. Testing and criating new users stories"
         # Task: 
 
+28.06.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
 23.05.2023
     --> Time: "1h 00m";     Status: ""
         # Description: "Meeting with Jacob and Paul for PRA"
