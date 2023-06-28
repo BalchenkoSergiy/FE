@@ -173,9 +173,9 @@
         # Task: 
 
 28.06.2023
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 15m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Created additional FTE fields on the Position Table"
         Task: 
 
 23.05.2023
