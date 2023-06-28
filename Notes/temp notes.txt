@@ -177,20 +177,15 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Created additional FTE fields on the Position Table"
         Task: 
-
-    --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Created additional FTE fields on the Position Table"
-        Task: 
     
-    --> Time total: "0h 45m";     Status: "";
+    --> Time total: "1h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Created additional FTE fields on the Position Table"
+        Description: "Monthly Maintenance Upgraded"
         Task: 
 
     --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Created additional FTE fields on the Position Table"
+        Description: "Add FTE fields on 'Main form'"
         Task: 
 
     --> Time total: "3h 30m";     Status: "";
