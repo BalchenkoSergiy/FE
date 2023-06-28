@@ -195,7 +195,7 @@
 
     --> Time total: "3h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Created additional FTE fields on the Position Table"
+        Description: "We had problem with this task and I worked first time alone after 1 h I came to Paul and we tried together, after we worked together with Jacob… In result we finished it."
         Task: 
 
     --> Time total: "2h 00m";     Status: "";
