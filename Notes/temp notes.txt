@@ -180,7 +180,7 @@
     
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied “Write Custom JavaScript in Power Pages“"
         # Task: 
 
     --> Time total: "1h 30m";     Status: "";
