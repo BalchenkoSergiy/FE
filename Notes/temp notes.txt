@@ -173,30 +173,51 @@
         # Task: 
 
 28.06.2023
+    --> Time total: "4h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+    
+    --> Time total: "2h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+    --> Time total: "1h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+    --> Time total: "0h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+28.06.2023
     --> Time total: "0h 15m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Created additional FTE fields on the Position Table"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Created additional FTE fields on the Position Table"
+        # Task: 
     
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Monthly Maintenance Upgraded"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Monthly Maintenance Upgraded"
+        # Task: 
 
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Add FTE fields on 'Main form'"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Add FTE fields on 'Main form'"
+        # Task: 
 
     --> Time total: "3h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "We had problem with this task and I worked first time alone after 1 h I came to Paul and we tried together, after we worked together with Jacob… In result we finished it."
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "We had problem with this task and I worked first time alone after 1 h I came to Paul and we tried together, after we worked together with Jacob… In result we finished it."
+        # Task: 
 
     --> Time total: "2h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Studied “Web Link Sets in Power Pages“"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Studied “Web Link Sets in Power Pages“"
+        # Task: 
 
 23.05.2023
     --> Time: "1h 00m";     Status: ""
