@@ -172,7 +172,49 @@
         # Description: "Added expected results for test steps. Testing and criating new users stories"
         # Task: 
 
-28.06.2023
+!!! DATA !!!
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+        
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+30.06.2023
+    --> Time total: "4h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "1h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "3h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+29.06.2023
     --> Time total: "4h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Validated data between old end new environments"
