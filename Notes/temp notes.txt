@@ -201,7 +201,7 @@
 04.07.2023
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied “Operation in Dataverse using Power Pages WEB API (CRUD)"
         # Task: 
 
     --> Time total: "3h 45m";     Status: "";
