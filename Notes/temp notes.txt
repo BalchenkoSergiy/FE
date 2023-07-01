@@ -211,7 +211,7 @@
 
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Worked on: - 425303 - [Portal] Knowledge article default font size does not align to site CSS - 363638 - Create way to monitor for new Areas in GPS Data - 446169: Error message when deleting images and trying to update knowledge articles in P..."
         # Task: 
 
     --> Time total: "0h 15m";     Status: "";
