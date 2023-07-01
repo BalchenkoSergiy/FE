@@ -206,7 +206,7 @@
 
     --> Time total: "3h 45m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Turned off autocomplete for all data sensitive fields in the Portal. All results I sent to Jacob"
         # Task: 
 
     --> Time total: "2h 00m";     Status: "";
