@@ -174,45 +174,66 @@
 
 !!! DATA !!!
     --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
 
     --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
 
     --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
 
     --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
         
     --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+04.07.2023
+    --> Time total: "2h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+    --> Time total: "3h 45m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+    --> Time total: "2h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+    --> Time total: "0h 15m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
 
 30.06.2023
     --> Time total: "4h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Researched all fields in portal which auto filled"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Researched all fields in portal which auto filled"
+        # Task: 
 
     --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Customize Power Page using Liquid Template Code"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Customize Power Page using Liquid Template Code"
+        # Task: 
 
     --> Time total: "3h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Researched all fields in portal which auto filled, Created report list and sent to Jacob"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Researched all fields in portal which auto filled, Created report list and sent to Jacob"
+        # Task: 
 
 29.06.2023
     --> Time total: "4h 00m";     Status: "";
