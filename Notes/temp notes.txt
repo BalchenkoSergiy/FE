@@ -36,14 +36,16 @@
         # Task: INFOTECH-282
 
     --> Time total: "1h 30m";     Status: "";
+        //Asked_Melina_add_1h_30m_for_this_task
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Help Hosey"
-        Task:
+        Task: INFOTECH-279
     
     --> Time total: "2h 00m";     Status: "";
+        //Asked_Melina_add_2h_for_this_task
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "LMS testing - create tasks"
-        Task: LMS-468
+        Task: LMS-512
 
 21.09.2023
     --> Time total: "03h 30m";     Status: "";
