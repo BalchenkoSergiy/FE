@@ -221,7 +221,7 @@
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "We didn’t finish, Jacob found a problem which need investigate more time"
         # Task: 
 
     --> Time total: "1h 00m";     Status: "";
