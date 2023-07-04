@@ -216,7 +216,7 @@
 
     --> Time total: "1h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Worked on: MS 446169: Error message when deleting images and trying to update knowledge articles in PRM"
         # Task: 
 
     --> Time total: "1h 00m";     Status: "";
