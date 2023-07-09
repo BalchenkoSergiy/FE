@@ -201,17 +201,17 @@
 
 06.07.2023
     --> Time total: "0h 00m";     Status: "";
-        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Time from:  "0h 00m";     Time to: "4h 00m";
         # Description: ""
         # Task: 
 
     --> Time total: "0h 00m";     Status: "";
-        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Time from:  "0h 00m";     Time to: "2h 00m";
         # Description: ""
         # Task: 
 
     --> Time total: "0h 00m";     Status: "";
-        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Time from:  "0h 00m";     Time to: "2h 00m";
         # Description: ""
         # Task: 
 
