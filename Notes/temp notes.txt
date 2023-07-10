@@ -212,7 +212,7 @@
 
     --> Time total: "0h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "2h 00m";
-        # Description: ""
+        # Description: "Studied “JS DOM and work with DOM“"
         # Task: 
 
 05.07.2023
