@@ -43,7 +43,7 @@
     --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "LMS testing - create tasks"
-        Task:
+        Task: LMS-468
 
 21.09.2023
     --> Time total: "03h 30m";     Status: "";
