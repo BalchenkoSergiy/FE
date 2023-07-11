@@ -207,7 +207,7 @@
 
     --> Time total: "0h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "2h 00m";
-        # Description: ""
+        # Description: "Studied “Administer Power Page Site using Portal Admin Center | Power Apps Portals Admin Center“"
         # Task: 
 
     --> Time total: "0h 00m";     Status: "";
