@@ -202,7 +202,7 @@
 06.07.2023
     --> Time total: "0h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "4h 00m";
-        # Description: ""
+        # Description: "427243: Portal - Public Portal Project - Allow unauthenticated, authenticated, and Microsoft Internal web role access to IDEAS"
         # Task: 
 
     --> Time total: "0h 00m";     Status: "";
