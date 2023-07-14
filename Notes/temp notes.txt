@@ -221,7 +221,7 @@
         
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied “Embed Chat BOT with Power Pages Site | Integrate Power Pages Site with Power Virtual Agent“"
         # Task: 
 
 06.07.2023
