@@ -216,7 +216,7 @@
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied “Integrate PowerApps with Power Pages | Embed Canvas App in Power Pages Site“"
         # Task: 
         
     --> Time total: "1h 00m";     Status: "";
