@@ -211,7 +211,7 @@
 
     --> Time total: "1h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied “Integrate Power Pages Site with SharePoint | Document Management in Power Pages“"
         # Task: 
 
     --> Time total: "1h 00m";     Status: "";
