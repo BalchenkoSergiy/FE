@@ -198,6 +198,27 @@
         # Description: ""
         # Task: 
 
+10.07.2023
+    --> Time total: "3h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+    --> Time total: "2h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+    --> Time total: "2h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
+    --> Time total: "1h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: ""
+        # Task: 
+
 07.07.2023
     --> Time total: "3h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
