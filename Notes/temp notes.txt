@@ -216,7 +216,7 @@
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Worked on: ”[Product Backlog Item 445597|https://dev.azure.com/O365fasttrack/PGI/_workitems/edit/445597]: Portal - Update MRPP Resource Page with FY24 updates” Commented: ready in DEV"
         # Task: 
 
 07.07.2023
