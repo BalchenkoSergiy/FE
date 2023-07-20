@@ -31,9 +31,9 @@
         # Task: VM-99
 
     --> Time total: "2h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "INFOTECH-282, creating PR"
-        Task:
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "INFOTECH-282, creating PR"
+        # Task: INFOTECH-282
 
     --> Time total: "1h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
