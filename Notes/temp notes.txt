@@ -206,12 +206,12 @@
 
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied “Customize Header & Footer in Power Pages Site & Customize Login and Registration Page in Power Pages Site | Design default pages of Power Pages Site“"
         # Task: 
 
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied/Watched "Power Pages Tips“"
         # Task: 
 
     --> Time total: "1h 00m";     Status: "";
