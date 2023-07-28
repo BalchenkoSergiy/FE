@@ -226,12 +226,12 @@
 
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied/watched “Power Pages tips“"
         # Task: 
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Reviewed SSL Certificates"
         # Task: 
 
     --> Time total: "1h 00m";     Status: "";
