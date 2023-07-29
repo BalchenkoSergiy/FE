@@ -221,7 +221,7 @@
 11.07.2023
     --> Time total: "2h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Shadowing Jacob (He worked on different tasks)"
         # Task: 
 
     --> Time total: "2h 00m";     Status: "";
