@@ -6,24 +6,24 @@
 //endTemplate
 
 18.09.2023
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Review SSL Ceritficates"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "PRA meeting"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Shadowing Jacob for PRA"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+    --> Time total: "1h 30m";     Status: "";
+        Time from:  "11h 30m";     Time to: "0h 00m";
+        Description: "Shadowing Paul - He worked on VM"
         Task: 
 
 15.09.2023
