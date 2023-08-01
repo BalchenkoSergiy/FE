@@ -20,14 +20,15 @@
         # Task: PRACOVID19-314
 
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "9h 00m";     Time to: "9h 35m";
-        Description: "VM meeting"
-        Task:
+        # Time from:  "9h 00m";     Time to: "9h 35m";
+        # Description: "VM meeting"
+        # Task: VM-99
     
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "14h 45m";     Time to: "14h 45m";
-        Description: "VM meeting #2"
-        Task:
+        //Asked_Melina_add_15_minutes
+        # Time from:  "14h 45m";     Time to: "14h 45m";
+        # Description: "VM meeting #2"
+        # Task: VM-99
 
     --> Time total: "2h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
