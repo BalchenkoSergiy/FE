@@ -31,6 +31,11 @@
         Description: "Shadowing Paul - He worked on VM"
         Task: 
 
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "14h 00m";     Time to: "0h 00m";
+        Description: "VM Meeting"
+        Task: 
+
 15.09.2023
     --> Time total: "0h 30m";     Status: "";
         Time from:  "1h 30m";     Time to: "0h 00m";
