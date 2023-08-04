@@ -17,9 +17,9 @@
         ! Task: 
 
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "PRA meeting"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "PRA meeting"
+        # Task: PRACOVID19-298
 
     --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
