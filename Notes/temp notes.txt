@@ -22,19 +22,19 @@
         # Task: PRACOVID19-298
 
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Shadowing Jacob for PRA"
-        Task: 
+        ! Time from:  "0h 00m";     Time to: "0h 00m";
+        ! Description: "Shadowing Jacob for PRA"
+        ! Task: INFOTECH-279 
 
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "11h 30m";     Time to: "0h 00m";
-        Description: "Shadowing Paul - He worked on VM"
-        Task: 
+        ! Time from:  "11h 30m";     Time to: "0h 00m";
+        ! Description: "Shadowing Paul - He worked on VM"
+        ! Task: INFOTECH-279
 
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "14h 00m";     Time to: "0h 00m";
-        Description: "VM Meeting"
-        Task: 
+        # Time from:  "14h 00m";     Time to: "0h 00m";
+        # Description: "VM Meeting"
+        # Task: VM-99
 
     --> Time total: "1h 30m";     Status: "";
         Time from:  "11h 30m";     Time to: "0h 00m";
