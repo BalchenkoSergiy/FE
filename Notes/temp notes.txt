@@ -5,6 +5,32 @@
         Task: 
 //endTemplate
 
+19.09.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
 18.09.2023
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
@@ -12,9 +38,9 @@
         # Task: TRAIN-376
 
     --> Time total: "0h 45m";     Status: "";
-        ! Time from:  "0h 00m";     Time to: "0h 00m";
-        ! Description: "Review SSL Ceritficates"
-        ! Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Review SSL Ceritficates"
+        # Task: 
 
     --> Time total: "0h 45m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
@@ -22,70 +48,70 @@
         # Task: PRACOVID19-298
 
     --> Time total: "0h 45m";     Status: "";
-        ! Time from:  "0h 00m";     Time to: "0h 00m";
-        ! Description: "Shadowing Jacob for PRA"
-        ! Task: INFOTECH-279 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Shadowing Jacob for PRA"
+        # Task: INFOTECH-279 
 
     --> Time total: "1h 30m";     Status: "";
-        ! Time from:  "11h 30m";     Time to: "0h 00m";
-        ! Description: "Shadowing Paul - He worked on VM"
-        ! Task: INFOTECH-279
+        # Time from:  "11h 30m";     Time to: "0h 00m";
+        # Description: "Shadowing Paul - He worked on VM"
+        # Task: INFOTECH-279
 
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "14h 00m";     Time to: "0h 00m";
         # Description: "VM Meeting"
         # Task: VM-99
 
-    --> Time total: "1h 30m";     Status: "";
-        Time from:  "11h 30m";     Time to: "0h 00m";
-        Description: "Shadowing Paul - He worked on VM"
-        Task: 
+    --> Time total: "1h 00m";     Status: "";
+        # Time from:  "11h 30m";     Time to: "0h 00m";
+        # Description: "Shadowing Paul - He worked on VM"
+        # Task: 
     
-    --> Time total: "2h 00m";     Status: "";
-        Time from:  "11h 30m";     Time to: "0h 00m";
-        Description: "Shadowing Paul - He worked Power TIPS"
-        Task: 
+    --> Time total: "3h 30m";     Status: "";
+        # Time from:  "11h 30m";     Time to: "0h 00m";
+        # Description: "Shadowing Paul - He worked Power TIPS"
+        # Task: 
 15.09.2023
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "1h 30m";     Time to: "0h 00m";
-        Description: "Vista Maria meeting"
-        Task: 
+        # Time from:  "1h 30m";     Time to: "0h 00m";
+        # Description: "Vista Maria meeting"
+        # Task: 
 
     --> Time total: "2h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "PRA Tasks"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "PRA Tasks"
+        # Task: 
 
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "EC Site"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "EC Site"
+        # Task: 
     
     --> Time total: "0h 15m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Ordered Whiteboard"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Ordered Whiteboard"
+        # Task: 
     
     --> Time total: "2h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Online studying"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Online studying"
+        # Task: 
     
 14.09.2023
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Call with Teta"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Call with Teta"
+        # Task: 
 
     --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Recycling program"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Recycling program"
+        # Task: 
 
     --> Time total: "4h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Online Studying - Testing"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Online Studying - Testing"
+        # Task: 
 13.09.2023
     --> Time total: "4h 00m";     Status: "";
         # Time from:  "08h 30m";     Time to: "13h 30m";
