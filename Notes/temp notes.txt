@@ -7,8 +7,8 @@
 
 19.09.2023
     --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Time from:  "08h 00m";     Time to: "0h 00m";
+        Description: "Beckups and how can we check our data"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
