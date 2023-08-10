@@ -15,9 +15,9 @@
         # Task: LMS-502
 
     --> Time total: "0h 15m";     Status: "";
-        Time from:  "11h 30m";     Time to: "11h 45m";
-        Description: "PRA Meeting"
-        Task:
+        # Time from:  "11h 30m";     Time to: "11h 45m";
+        # Description: "PRA Meeting"
+        # Task: PRACOVID19-314
 
     --> Time total: "0h 30m";     Status: "";
         Time from:  "9h 00m";     Time to: "9h 35m";
