@@ -12,9 +12,9 @@
         # Task:  INFOTECH-290
 
     --> Time total: "1h 15m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting - LMS"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Meeting - LMS"
+        # Task: 
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
