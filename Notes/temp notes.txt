@@ -14,12 +14,12 @@
     --> Time total: "1h 15m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Meeting - LMS"
-        # Task: 
+        # Task: LMS-502
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Online studying LIQUID"
-        Task: 
+        Task: INFOTECH-279
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
