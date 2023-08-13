@@ -17,14 +17,14 @@
         # Task: LMS-502
 
     --> Time total: "2h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Online studying LIQUID"
-        Task: INFOTECH-279
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Online studying LIQUID"
+        # ßTask: INFOTECH-279
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 15m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+        Description: "Shadowing Paul"
+        Task: INFOTECH-279
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
