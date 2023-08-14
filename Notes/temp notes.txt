@@ -22,9 +22,9 @@
         # ßTask: INFOTECH-279
 
     --> Time total: "1h 15m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Shadowing Paul"
-        Task: INFOTECH-279
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Shadowing Paul"
+        # Task: INFOTECH-279
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
