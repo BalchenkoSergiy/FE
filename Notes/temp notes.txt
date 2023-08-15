@@ -5,8 +5,29 @@
         Task: 
 //endTemplate
 
+20.09.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
 19.09.2023
-    --> Time total: "3h 30m";     Status: "";
+--> Time total: "3h 30m";     Status: "";
         # Time from:  "08h 00m";     Time to: "11h 30m";
         # Description: "Beckups and how can we check our data"
         # Task:  INFOTECH-290
@@ -25,11 +46,6 @@
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Shadowing Paul"
         # Task: INFOTECH-279
-
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
 
 18.09.2023
     --> Time total: "1h 00m";     Status: "";
