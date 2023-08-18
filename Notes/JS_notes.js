@@ -42,3 +42,23 @@
         </body>
         </html>
 */
+
+/*
+    DOM ELEMENTS:
+    While manipulating HTML documents we need to first find elements. There are few ways to do so:
+        • By ID:
+        Suppose id =’intro’, example:
+        var myElement = document.getElementById(“Intro”);
+        • By TagName:
+        Suppose tag=’hello’, example:
+        var buttons = document.getElementByTagName(‘hello’);
+        • By ClassName:
+        var myElement = document.getElementByClassName(‘stock’);
+        • By CSS Selectors:
+        var resetElement = document.querySelector(‘#reset’);
+        • By querySelectorAll():
+        var myElements = document.querySelector(‘#elements’);
+        • parentNode
+        • firstElementChild
+        • lastElementChild
+*/
