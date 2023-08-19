@@ -62,3 +62,8 @@
         • firstElementChild
         • lastElementChild
 */
+
+/*
+    Top 10 Essential JavaScript DOM methods List
+
+*/
