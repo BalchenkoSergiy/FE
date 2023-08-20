@@ -10,9 +10,9 @@
     // 'Уточнити за ліцензію для відео редактора'
     // 'Попросити оновлений джоб офер'
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting with Teta"
-        Task:
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Meeting with Teta"
+        # Task: LMS-502
 
     --> Time total: "0h 15m";     Status: "";
         Time from:  "11h 30m";     Time to: "11h 45m";
