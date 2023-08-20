@@ -65,5 +65,31 @@
 
 /*
     Top 10 Essential JavaScript DOM methods List
+        1) getElementId
+            getElementId is a method to access any element virtually. It accesses the first element with the specified ID.
+            
+            Syntax:
+                var myVariable = document.getElementById(“my_squad”);
 
+            It can also be used dynamically as follows:
+                var myVariable = document.getElementById(mySquad);
+
+            This method places object which needs to be accessed in a variable called “myVariable”. 
+            myVariable allows your program to access object directly.
+            Suppose you need to find an id “SY”, you just need to use the above syntax & replace “my_element” with “SY”. 
+            Secondly, you can also apply few additional codes on getElementById as follows:
+                var myVariable = document.getElementById(“SY”);
+                myVariable.style.display = “block”;
+                myVariable.style.backgroundColor = “#f00”;
+                myVariable.style.border = “solid 1 px #00f”;
+
+            Here the above code will display in block font with a Hex-red background & blue border. 
+            So using myVariable code you can add font & color. A lot of people face trouble using getElementId usually because of silly mistakes.
+            Consider the following example:
+                myVariable = document.getElementByID(“my_squad”);
+
+            Here it might look correct, but remember, “JavaScript is a case sensitive language.” So “ID” won’t work in place of “Id.”
+            Usually, beginners commit this mistake & find methods to be complicated. Meanwhile, 
+            code might look a bit messed up because you need to apply an id in your HTML. 
+            So this method is robust but may look messy as it encourages you to mess up your markup.
 */
