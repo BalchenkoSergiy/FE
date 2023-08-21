@@ -65,6 +65,9 @@
 
 /*
     Top 10 Essential JavaScript DOM methods List
+*/
+
+/*
         1) getElementId
             getElementId is a method to access any element virtually. It accesses the first element with the specified ID.
             
@@ -92,4 +95,30 @@
             Usually, beginners commit this mistake & find methods to be complicated. Meanwhile, 
             code might look a bit messed up because you need to apply an id in your HTML. 
             So this method is robust but may look messy as it encourages you to mess up your markup.
+*/
+
+/*
+        2) getElementsByTagName:
+            In the previous method, we may have some errors. But this method can eradicate those issues. 
+            getElementByTagName allows you to search all the elements with a specified tag name on your page. 
+                var myLinkcollection = document.getElementsByTagName(“abc”);
+            
+            Here myVariable is substituted by “myLinkCollection”. myLinkCollection holds all the elements on the page. 
+            Pictorially it is like an array holding elements. Here also you can add few additional features. Following is an example:
+                var myLinkCollection = document.getElementsByTagName(“abc”);
+                for (i = 0; i < myLinkCollection.length; i++) {
+                    if (myLinkCollection[i].className == “std_class”) {
+                        myLinkCollection[i].onclick = function() {
+                            this.style.backgroundColor = “#f00”;
+                        }
+                    }
+                }
+                
+            The above code isn’t complicated if you know the basics & use of methods. 
+            Here, when you collect the link into an array i.e., myLinkCollection, we use for loop to navigate.
+            Next, if the loop sets a condition if class_Name equal to “std_class”, 
+            there’s a trigger attached to it using “onclick.” The trigger is “Background color.”
+            If we can use link in getElementById why should we use getElementByTagName? Well, using id allows you to access only one element. 
+            Because it can have “id” but not “ids.” So for each element, you need to use multiple getId elements. 
+            Meanwhile, ByTagName allows you to have multiple links with the same class name. We can set onclick triggers in a precise manner.
 */
