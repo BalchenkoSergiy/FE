@@ -160,3 +160,15 @@
         //    Different browsers may give different outputs.
         //    For example, Firefox’s output would be different than Chrome because it views whitespaces as nodes. 
         //    Nodes can be interpreted differently. So be selective & carefully while using & test nodes.
+
+    /*            
+        4) createElement:
+    */
+        //    As the name goes, it is used to create an element & place it anywhere in the DOM structure. 
+        //    Let’s add an element to the previous example:
+                var myNewListItem = document.createElement(“li”)
+                var myNewProd = document.createElement(“prod5”);
+
+        //    Here a new element will be created & added in the DOM structure.
+
+ 
