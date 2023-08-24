@@ -171,4 +171,16 @@
 
         //    Here a new element will be created & added in the DOM structure.
 
- 
+    /*
+        5) appendChild:
+    */
+        //    Previously we created element, now we will add two elements to our list of links using appendChild.
+                var myNewListItem = document.createElement(“li”)
+                var myNewProd = document.createElement(“prod5”);
+
+                var myLinkList = document.getElementById(“List”)
+                myLinkList.appendChild(myNewListItem);
+                myLinkList.LastChild.appendChild(myNewProd);
+
+        //    Above the code adds anchor tag inside of element at the endpoint.
+        //    If we can create or append, then we can remove it too.
