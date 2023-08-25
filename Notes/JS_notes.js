@@ -184,3 +184,14 @@
 
         //    Above the code adds anchor tag inside of element at the endpoint.
         //    If we can create or append, then we can remove it too.
+
+    /*
+        6) removeChild:
+    */
+        //    o remove the effect of appendChild, we can use removeChild. Here, 
+        //    we need to remove the list item because it includes both “list item & newly created anchor.” 
+        //    And, if we didn’t create a new element, it might remove the last list item.
+        //    It doesn’t matter whether it was created recently or it existed. Following is a code to remove Child method:
+                var myLinkList = document.getElementById(“list”)
+                var myRemovedLink = myLinkList.lastChild;
+                myLinkList.removeChild(myRemoveLink);
