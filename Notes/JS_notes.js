@@ -195,3 +195,15 @@
                 var myLinkList = document.getElementById(“list”)
                 var myRemovedLink = myLinkList.lastChild;
                 myLinkList.removeChild(myRemoveLink);
+
+    /*
+        7) getAttribute:
+    */
+        //    With the getAttribute method, you can access the value of any attribute of an element on a page. 
+        //    Suppose there’s an id with abc attribute having value “Best.” 
+        //    Now, if we want to retrieve that attribute, we will use getAttribute. 
+        //    Following is an example:
+                var myLinkFive = document.getElementById(“Prod_5”);
+                var myLinkAttribute = myLinkFive.getAttribute(“abc”);
+
+        //    Now getAttribute will retrieve the value from “abc,” i.e., “Best.” This method is used to target links with specific attributes & values. 
