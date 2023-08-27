@@ -206,4 +206,19 @@
                 var myLinkFive = document.getElementById(“Prod_5”);
                 var myLinkAttribute = myLinkFive.getAttribute(“abc”);
 
-        //    Now getAttribute will retrieve the value from “abc,” i.e., “Best.” This method is used to target links with specific attributes & values. 
+        //    Now getAttribute will retrieve the value from “abc,” i.e., “Best.” 
+        //    This method is used to target links with specific attributes & values. 
+
+    /*
+        8) setAttribute:
+    */
+        //    A useful method to replace values in the attribute. 
+        //    Assigning a new value to an existing attribute is done using setAttribute. 
+        //    Suppose we have an attribute “abc” containing value “Best.” 
+        //    Now we want to change the value to “Awesome.” Following is a suitable code:
+                Var myLinkFive = document.getElementById(“Prod_5);
+                myLinkFive.setAttribute(“abc”, ”Awesome”);
+
+        //    Here, the value inside the abc attribute has been replaced. 
+        //    This method cannot change attributes; 
+        //    it can only make changes in values of an attribute.
