@@ -8,7 +8,11 @@
         Description: "Shadowing Paul. We tried to find a way for using external account in booking process"
         Task: 
 
-    --> Time: "6h 45m";     Status: ""
+--> Time: "2h 00m";     Status: ""
+        Description: "Shadowing Paul. Creating PR for VistaMaria"
+        Task: 
+
+    --> Time: "4h 45m";     Status: ""
         Description: "Added expected results for test steps. Testing and criating new users stories"
         Task: 
 
