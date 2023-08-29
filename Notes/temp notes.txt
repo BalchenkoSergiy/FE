@@ -6,19 +6,19 @@
 //endTemplate
 
 20.09.2023
-    --> Time total: "0h 45m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Meeting about PR"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Shadowing Paul - Worked on VM"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Shadowing Paul - Worked on Video tipes 234"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
