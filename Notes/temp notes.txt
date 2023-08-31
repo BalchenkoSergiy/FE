@@ -4,19 +4,19 @@
         Task: 
 //endTemplate
 31.08.2023
-    --> Time: "2h 30m";     Status: ""
+    !--> Time: "2h 30m";     Status: "Asked Melina"
         Description: "Shadowing Paul"
         Task: 
 
-    --> Time: "2h 30m";     Status: "Actual time 14:30"
+    !--> Time: "2h 30m";     Status: "Asked Melina"
         Description: "LMS - Testing"
         Task: 
 
-    --> Time: "2h 00m";     Status: ""
+    !--> Time: "2h 00m";     Status: "Asked Melina"
         Description: "Online studying - manual testing"
         Task: 
 
-    --> Time: "1h 00m";     Status: ""
+    !--> Time: "1h 00m";     Status: "Ask added 15m"
         Description: "Meeting - VM-Regroup"
         Task: 
 
