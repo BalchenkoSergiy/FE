@@ -4,7 +4,11 @@
         Task: 
 //endTemplate
 31.08.2023
-    --> Time: "2h 00m";     Status: "Actual time 14:00"
+    --> Time: "2h 30m";     Status: ""
+        Description: "Shadowing Paul"
+        Task: 
+
+    --> Time: "2h 30m";     Status: "Actual time 14:30"
         Description: "LMS - Testing"
         Task: 
 
