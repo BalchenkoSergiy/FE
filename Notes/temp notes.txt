@@ -8,6 +8,10 @@
         Description: "Online studying - manual testing"
         Task: 
 
+    --> Time: "1h 00m";     Status: ""
+        Description: "Meeting - VM-Regroup"
+        Task: 
+
 29.08.2023
     --> Time: "1h 15m";     Status: ""
         Description: "Shadowing Paul. We tried to find a way for using external account in booking process"
