@@ -72,7 +72,7 @@
             getElementId is a method to access any element virtually. It accesses the first element with the specified ID.
     */        
         //    Syntax:
-                var myVariable = document.getElementById(“my_squad”);
+                var myVariable = document.getElementById("my_squad");
 
         //    It can also be used dynamically as follows:
                 var myVariable = document.getElementById(mySquad);
@@ -81,15 +81,15 @@
         //    myVariable allows your program to access object directly.
         //    Suppose you need to find an id “SY”, you just need to use the above syntax & replace “my_element” with “SY”. 
         //    Secondly, you can also apply few additional codes on getElementById as follows:
-                var myVariable = document.getElementById(“SY”);
-                myVariable.style.display = “block”;
-                myVariable.style.backgroundColor = “#f00”;
-                myVariable.style.border = “solid 1 px #00f”;
+                var myVariable = document.getElementById("SY");
+                myVariable.style.display = "block";
+                myVariable.style.backgroundColor = "#f00";
+                myVariable.style.border = "solid 1 px #00f";
 
         //    Here the above code will display in block font with a Hex-red background & blue border. 
         //    So using myVariable code you can add font & color. A lot of people face trouble using getElementId usually because of silly mistakes.
         //    Consider the following example:
-                myVariable = document.getElementByID(“my_squad”);
+                myVariable = document.getElementByID("my_squad");
 
         //    Here it might look correct, but remember, “JavaScript is a case sensitive language.” So “ID” won’t work in place of “Id.”
         //    Usually, beginners commit this mistake & find methods to be complicated. Meanwhile, 
@@ -102,15 +102,15 @@
     */
         //    In the previous method, we may have some errors. But this method can eradicate those issues. 
         //    getElementByTagName allows you to search all the elements with a specified tag name on your page. 
-                var myLinkcollection = document.getElementsByTagName(“abc”);
+                var myLinkcollection = document.getElementsByTagName("abc");
             
         //    Here myVariable is substituted by “myLinkCollection”. myLinkCollection holds all the elements on the page. 
         //    Pictorially it is like an array holding elements. Here also you can add few additional features. Following is an example:
-                var myLinkCollection = document.getElementsByTagName(“abc”);
+                var myLinkCollection = document.getElementsByTagName("abc");
                 for (i = 0; i < myLinkCollection.length; i++) {
-                    if (myLinkCollection[i].className == “std_class”) {
+                    if (myLinkCollection[i].className == "std_class") {
                         myLinkCollection[i].onclick = function() {
-                            this.style.backgroundColor = “#f00”;
+                            this.style.backgroundColor = "#f00";
                         }
                     }
                 }
@@ -130,29 +130,29 @@
             Nodes can be between XHTML Tags.
             Nodes available in DOM:
     */
-                node.childNodes
-                node.firstChild
-                node.lastChild
-                node.parentNode
-                node.nextSibling
-                node.previousSibling
+                node.childNodes;
+                node.firstChild;
+                node.lastChild;
+                node.parentNode;
+                node.nextSibling;
+                node.previousSibling;
 
         //    Suppose we have following XHTML:
-                <ul id-“list”>
-                    <li><a href=”prod1.html” class=”list_one”> Product Number One</a></li>
-                    <li><a href=”prod2.html”> Product Number Two</a></li> 
-                    <li><a href=”prod3.html”> Product Number Three</a></li>
-                    <li><a href=”prod4.html”> Product Number Four</a></li>
+                <ul id="list">
+                    <li><a href="prod1.html" class="list_one"> Product Number One</a></li>;
+                    <li><a href="prod2.html"> Product Number Two</a></li> ;
+                    <li><a href="prod3.html"> Product Number Three</a></li>;
+                    <li><a href="prod4.html"> Product Number Four</a></li>;
                 </ul>
 
         //    Now if we want to access “Prod1” we can do so using 2 ways:
         //    Using ChildNodes:
-                var myLinkList = document.getElementsById(“list”)
+                var myLinkList = document.getElementsById("list")
                 var myFirstProduct = myLinklist.childNodes[0].childNodes[0];
                 alert(myFirstLink.className);
 
         //    Using firstChild:
-                var myLinkList = document.getElementsById(“list”)
+                var myLinkList = document.getElementsById("list")
                 var myFirstProduct = myLinklist.firstChild.firstChild;
                 alert(myFirstLink.className);
 
@@ -166,8 +166,8 @@
     */
         //    As the name goes, it is used to create an element & place it anywhere in the DOM structure. 
         //    Let’s add an element to the previous example:
-                var myNewListItem = document.createElement(“li”)
-                var myNewProd = document.createElement(“prod5”);
+                var myNewListItem = document.createElement("li");
+                var myNewProd = document.createElement("prod5");
 
         //    Here a new element will be created & added in the DOM structure.
 
@@ -175,10 +175,10 @@
         5) appendChild:
     */
         //    Previously we created element, now we will add two elements to our list of links using appendChild.
-                var myNewListItem = document.createElement(“li”)
-                var myNewProd = document.createElement(“prod5”);
+                var myNewListItem = document.createElement("li");
+                var myNewProd = document.createElement("prod5");
 
-                var myLinkList = document.getElementById(“List”)
+                var myLinkList = document.getElementById("List");
                 myLinkList.appendChild(myNewListItem);
                 myLinkList.LastChild.appendChild(myNewProd);
 
@@ -192,7 +192,7 @@
         //    we need to remove the list item because it includes both “list item & newly created anchor.” 
         //    And, if we didn’t create a new element, it might remove the last list item.
         //    It doesn’t matter whether it was created recently or it existed. Following is a code to remove Child method:
-                var myLinkList = document.getElementById(“list”)
+                var myLinkList = document.getElementById("list");
                 var myRemovedLink = myLinkList.lastChild;
                 myLinkList.removeChild(myRemoveLink);
 
@@ -203,8 +203,8 @@
         //    Suppose there’s an id with abc attribute having value “Best.” 
         //    Now, if we want to retrieve that attribute, we will use getAttribute. 
         //    Following is an example:
-                var myLinkFive = document.getElementById(“Prod_5”);
-                var myLinkAttribute = myLinkFive.getAttribute(“abc”);
+                var myLinkFive = document.getElementById("Prod_5");
+                var myLinkAttribute = myLinkFive.getAttribute("abc");
 
         //    Now getAttribute will retrieve the value from “abc,” i.e., “Best.” 
         //    This method is used to target links with specific attributes & values. 
@@ -216,8 +216,8 @@
         //    Assigning a new value to an existing attribute is done using setAttribute. 
         //    Suppose we have an attribute “abc” containing value “Best.” 
         //    Now we want to change the value to “Awesome.” Following is a suitable code:
-                Var myLinkFive = document.getElementById(“Prod_5);
-                myLinkFive.setAttribute(“abc”, ”Awesome”);
+                var myLinkFive = document.getElementById("Prod_5");
+                myLinkFive.setAttribute("abc", "Awesome");
 
         //    Here, the value inside the abc attribute has been replaced. 
         //    This method cannot change attributes; 
