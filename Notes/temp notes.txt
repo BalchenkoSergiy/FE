@@ -5,8 +5,20 @@
 //endTemplate
 
 07.09.2023
-    --> Time: "0h 00m";     Status: ""
+    --> Time: "4h 00m";     Status: ""
         Description: "Google ADS studying"
+        Task: 
+
+    --> Time: "1h 00m";     Status: ""
+        Description: "Shadowing paul - support issue"
+        Task: 
+
+    --> Time: "0h 30m";     Status: ""
+        Description: "Meeting IT"
+        Task: 
+
+    --> Time: "2h 30m";     Status: ""
+        Description: "video tips"
         Task: 
 
 1.09.2023
