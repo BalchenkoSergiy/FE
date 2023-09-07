@@ -3,6 +3,12 @@
         Description: ""
         Task: 
 //endTemplate
+
+07.09.2023
+    --> Time: "0h 00m";     Status: ""
+        Description: "Google ADS studying"
+        Task: 
+
 1.09.2023
     --> Time: "0h 30m";     Status: ""
         Description: "LMS meeting with Teta"
