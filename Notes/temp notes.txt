@@ -10,6 +10,11 @@
         Description: "Testing LMS"
         Task: 
 
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "09h 00m";     Time to: "0h 00m";
+        Description: "VM tasks"
+        Task: 
+
 20.09.2023
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
