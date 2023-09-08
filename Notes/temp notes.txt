@@ -10,9 +10,9 @@
         Description: "Testing LMS"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "09h 00m";     Time to: "0h 00m";
-        Description: "VM tasks"
+    --> Time total: "1h 30m";     Status: "";
+        Time from:  "09h 00m";     Time to: "10h 30m";
+        Description: "VM tasks - Created new flow 'VM-Reminders Modal Email Flow'"
         Task: 
 
 20.09.2023
