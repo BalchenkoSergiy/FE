@@ -15,6 +15,11 @@
         Description: "VM tasks - Created new flow 'VM-Reminders Modal Email Flow'"
         Task: 
 
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "10h 30m";     Time to: "10h 30m";
+        Description: "VM tasks - Researched how to fix problem with flow which I have"
+        Task: 
+
 20.09.2023
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
