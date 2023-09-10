@@ -23,7 +23,11 @@
         Time from:  "9h 00m";     Time to: "9h 35m";
         Description: "VM meeting"
         Task:
-
+    
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "14h 45m";     Time to: "14h 45m";
+        Description: "VM meeting #2"
+        Task:
 
     --> Time total: "2h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
