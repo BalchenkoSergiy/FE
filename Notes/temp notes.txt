@@ -5,7 +5,7 @@
         Task: 
 //endTemplate
 21.09.2023
-    --> Time total: "01h 30m";     Status: "";
+    --> Time total: "02h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Testing LMS"
         Task: 
@@ -15,9 +15,9 @@
         # Description: "VM tasks - Created new flow 'VM-Reminders Modal Email Flow'"
         # Task: VM-104
 
-    --> Time total: "1h 00m";     Status: "";
-        Time from:  "10h 30m";     Time to: "10h 30m";
-        Description: "VM tasks - Researched how to fix problem with flow which I have"
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "VM tasks - Worked with Paul"
         Task: 
     
     --> Time total: "0h 30m";     Status: "";
@@ -25,6 +25,10 @@
         Description: "Shadowing Paul - worked on problem from support mailbox"
         Task: 
 
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
 
 20.09.2023
     --> Time total: "0h 30m";     Status: "";
