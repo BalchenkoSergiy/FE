@@ -16,9 +16,9 @@
         # Task: VM-104
 
     --> Time total: "0h 30m";     Status: "";
-        ! Time from:  "0h 00m";     Time to: "0h 00m";
-        ! Description: "VM tasks - Worked with Paul"
-        ! Task: INFOTECH-279
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "VM tasks - Worked with Paul"
+        # Task: INFOTECH-279
     
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
