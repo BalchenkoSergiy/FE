@@ -19,14 +19,25 @@
         Description: "PRA Meeting"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "9h 00m";     Time to: "9h 35m";
+        Description: "VM meeting"
+        Task:
+
+
+    --> Time total: "2h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "INFOTECH-282, creating PR"
         Task:
 
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "9h 00m";     Time to: "9h 35m";
-        Description: "VM meeting"
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Help Hosey"
+        Task:
+    
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "LMS testing - create tasks"
         Task:
 
 21.09.2023
