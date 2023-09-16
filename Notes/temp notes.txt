@@ -15,7 +15,7 @@
         # Description: "VM tasks - Created new flow 'VM-Reminders Modal Email Flow'"
         # Task: VM-104
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "VM tasks - Worked with Paul"
         Task: 
