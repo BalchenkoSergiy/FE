@@ -25,6 +25,11 @@
         Description: "Shadowing Paul - worked on problem from support mailbox"
         Task: 
 
+    --> Time total: "1h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Research information about flow"
+        Task: 
+
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Add a Project Manager field"
