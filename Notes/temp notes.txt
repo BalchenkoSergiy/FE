@@ -5,10 +5,10 @@
         Task: 
 //endTemplate
 21.09.2023
-    --> Time total: "02h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Testing LMS"
-        Task: 
+    --> Time total: "03h 30m";     Status: "";
+        ! Time from:  "0h 00m";     Time to: "0h 00m";
+        ! Description: "Testing LMS"
+        ! Task: LMS-478
 
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "09h 00m";     Time to: "10h 30m";
