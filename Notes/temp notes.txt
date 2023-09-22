@@ -228,54 +228,54 @@
 
 07.09.2023
     --> Time: "4h 00m";     Status: ""
-        Description: "Google ADS studying"
-        Task: 
+        # Description: "Google ADS studying"
+        # Task: 
 
     --> Time: "1h 00m";     Status: ""
-        Description: "Shadowing paul - support issue"
-        Task: 
+        # Description: "Shadowing paul - support issue"
+        # Task: 
 
     --> Time: "0h 30m";     Status: ""
-        Description: "Meeting IT"
-        Task: 
+        # Description: "Meeting IT"
+        # Task: 
 
     --> Time: "2h 30m";     Status: ""
-        Description: "video tips"
-        Task: 
+        # Description: "video tips"
+        # Task: 
 
 1.09.2023
     --> Time: "0h 30m";     Status: ""
-        Description: "LMS meeting with Teta"
-        Task: 
+        # Description: "LMS meeting with Teta"
+        # Task: 
 
-    --> Time: "1h 00m";     Status: ""
-        Description: "VM meeting"
-        Task: 
+    --> # Time: "1h 00m";     Status: ""
+        # Description: "VM meeting"
+        # Task: 
 
     --> Time: "2h 30m";     Status: ""
-        Description: "Shadowing Jacob and Paul"
-        Task:
+        # Description: "Shadowing Jacob and Paul"
+        # Task:
 
     --> Time: "4h 00m";     Status: ""
-        Description: "LMS Testing"
-        Task:
+        # Description: "LMS Testing"
+        # Task:
 
 31.08.2023
     --> Time: "2h 30m";     Status: "Asked Melina"
-        Description: "Shadowing Paul"
-        Task: 
+        # Description: "Shadowing Paul"
+        # Task: 
 
     --> Time: "2h 30m";     Status: "Asked Melina"
-        Description: "LMS - Testing"
-        Task: 
+        # Description: "LMS - Testing"
+        # Task: 
 
     --> Time: "2h 00m";     Status: "Asked Melina"
-        Description: "Online studying - manual testing"
-        Task: 
+        # Description: "Online studying - manual testing"
+        # Task: 
 
     --> Time: "1h 00m";     Status: "Ask added 15m"
-        Description: "Meeting - VM-Regroup"
-        Task: 
+        # Description: "Meeting - VM-Regroup"
+        # Task: 
 
 29.08.2023
     --> Time: "1h 15m";     Status: ""
