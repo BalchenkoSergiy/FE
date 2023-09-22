@@ -21,9 +21,9 @@
         ! Task: INFOTECH-279
     
     --> Time total: "0h 30m";     Status: "";
-        ! Time from:  "0h 00m";     Time to: "0h 00m";
-        ! Description: "Shadowing Paul - worked on problem from support mailbox"
-        ! Task: INFOTECH-279
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Shadowing Paul - worked on problem from support mailbox"
+        # Task: INFOTECH-279
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
