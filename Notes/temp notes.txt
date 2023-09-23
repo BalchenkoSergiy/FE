@@ -321,19 +321,20 @@
         # Description: ""
         # Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+12.07.2023
+    --> Time total: "3h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Shadowing Jacob and Paul"
         # Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "3h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Studied"
         # Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "449135 and 449434"
         # Task: 
         
 11.07.2023
