@@ -301,24 +301,25 @@
         # Description: ""
         # Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+24.07.2023
+    --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Shadowing Paul"
         # Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "420255, 420233"
         # Task: 
         
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "319258, 350307"
         # Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
+        # Description: "Review certificate"
         # Task: 
 
 12.07.2023
