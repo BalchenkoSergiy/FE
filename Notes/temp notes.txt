@@ -6,6 +6,8 @@
 //endTemplate
 
 25.09.2023
+    // 'Уточнити у Ніка на рахунок завдання від Тети про видимість Меліни у полі вибору PM'
+    // 'Уточнити за ліцензію для відео редактора'
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: ""
@@ -22,8 +24,8 @@
         Task:
 
     --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Time from:  "9h 00m";     Time to: "9h 35m";
+        Description: "VM meeting"
         Task:
 
 21.09.2023
