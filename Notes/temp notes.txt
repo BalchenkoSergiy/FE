@@ -20,11 +20,11 @@
         Task:
 
     --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Time from:  "9h 35m";     Time to: "0h 00m";
+        Description: "Read about Microsoft Supplier Code of Conduct training course"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "9h 00m";     Time to: "9h 35m";
         Description: "VM meeting"
         Task:
