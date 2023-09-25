@@ -301,6 +301,22 @@
         # Description: ""
         # Task: 
 
+25.07.2023
+    --> Time total: "3h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Shadowing Paul"
+        # Task: 
+
+    --> Time total: "3h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "319258, 420255"
+        # Task: 
+
+    --> Time total: "2h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "420233"
+        # Task: 
+
 24.07.2023
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
