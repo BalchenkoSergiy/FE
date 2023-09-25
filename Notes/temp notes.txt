@@ -4,6 +4,28 @@
         Description: ""
         Task: 
 //endTemplate
+
+25.09.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
 21.09.2023
     --> Time total: "03h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
@@ -282,23 +304,12 @@
         # Description: "Shadowing Paul. We tried to find a way for using external account in booking process"
         # Task: 
 
---> Time: "2h 00m";     Status: ""
+    --> Time: "2h 00m";     Status: ""
         # Description: "Shadowing Paul. Creating PR for VistaMaria"
         # Task: 
 
     --> Time: "4h 45m";     Status: ""
         # Description: "Added expected results for test steps. Testing and criating new users stories"
-        # Task: 
-
-!!! DATA !!!
-    --> Time total: "0h 00m";     Status: "";
-        # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
-        # Task: 
-
-    --> Time total: "0h 00m";     Status: "";
-        # Time from:  "0h 00m";     Time to: "0h 00m";
-        # Description: ""
         # Task: 
 
 25.07.2023
