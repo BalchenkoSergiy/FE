@@ -14,8 +14,8 @@
         Description: ""
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "11h 30m";     Time to: "0h 00m";
+    --> Time total: "0h 15m";     Status: "";
+        Time from:  "11h 30m";     Time to: "11h 45m";
         Description: "PRA Meeting"
         Task:
 
