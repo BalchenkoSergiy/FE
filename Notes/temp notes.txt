@@ -5,7 +5,30 @@
         Task: 
 //endTemplate
 26.09.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
 
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
 
 25.09.2023
     // 'Уточнити у Ніка на рахунок завдання від Тети про видимість Меліни у полі вибору PM'
