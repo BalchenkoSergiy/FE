@@ -36,10 +36,9 @@
         # Task: INFOTECH-282
 
     --> Time total: "1h 30m";     Status: "";
-        //Asked_Melina_add_1h_30m_for_this_task
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Help Hosey"
-        Task: INFOTECH-279
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Help Hosey"
+        # Task: INFOTECH-279
     
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
