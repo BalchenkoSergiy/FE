@@ -9,9 +9,9 @@
     // 'Уточнити за ліцензію для відео редактора'
     // 'Попросити оновлений джоб офер'
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "10h 00m";     Time to: "10h 30m";
-        Description: "Meeting Vista Maria - Sprint Planing"
-        Task: 
+        # Time from:  "10h 00m";     Time to: "10h 30m";
+        # Description: "Meeting Vista Maria - Sprint Planing"
+        # Task: VM-109
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
