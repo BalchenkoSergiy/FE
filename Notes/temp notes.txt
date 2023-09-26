@@ -23,7 +23,7 @@
         Description: "PRA - create the PR"
         Task: 
 
-    --> Time total: "2h 00m";     Status: "";
+    --> Time total: "3h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "LMS Testing"
         Task: 
