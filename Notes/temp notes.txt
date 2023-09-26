@@ -4,9 +4,14 @@
         Description: ""
         Task: 
 //endTemplate
+--> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "PRA - create the PR"
+        Task: 
+
 26.09.2023
-    // 'Уточнити у Ніка на рахунок завдання від Тети про видимість Меліни у полі вибору PM'
-    // 'Уточнити за ліцензію для відео редактора'
+    + 'Уточнити у Ніка на рахунок завдання від Тети про видимість Меліни у полі вибору PM'
+    + 'Уточнити за ліцензію для відео редактора'
     // 'Попросити оновлений джоб офер'
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "10h 00m";     Time to: "10h 30m";
@@ -18,25 +23,23 @@
         # Description: "Meeting EcLearn - Adding PPT"
         # Task: 
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "PRA - create the PR"
-        Task: 
-
     --> Time total: "3h 30m";     Status: "";
+        //Asked_Melina_add_time
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "LMS Testing"
         Task: 
 
     --> Time total: "0h 30m";     Status: "";
+        //Asked_Melina_add_time
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Payed for VideoPad license"
-        Task: 
+        Task: INFOTECH-279
 
     --> Time total: "2h 00m";     Status: "";
+        //Asked_Melina_add_time
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Worked on Video tips 235"
-        Task: 
+        Task: INFOTECH-279
 
 25.09.2023
     --> Time total: "0h 30m";     Status: "";
