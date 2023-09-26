@@ -33,9 +33,9 @@
         Description: "Payed for VideoPad license"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Worked on Video tips 235"
         Task: 
 
 25.09.2023
