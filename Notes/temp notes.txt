@@ -5,24 +5,27 @@
         Task: 
 //endTemplate
 26.09.2023
+    // 'Уточнити у Ніка на рахунок завдання від Тети про видимість Меліни у полі вибору PM'
+    // 'Уточнити за ліцензію для відео редактора'
+    // 'Попросити оновлений джоб офер'
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Meeting Vista Maria - Sprint Planing"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Meeting EcLearn - Adding PPT"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "PRA - create the PR"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "LMS Testing"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
@@ -31,9 +34,6 @@
         Task: 
 
 25.09.2023
-    // 'Уточнити у Ніка на рахунок завдання від Тети про видимість Меліни у полі вибору PM'
-    // 'Уточнити за ліцензію для відео редактора'
-    // 'Попросити оновлений джоб офер'
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Meeting with Teta"
