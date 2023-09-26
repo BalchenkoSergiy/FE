@@ -25,7 +25,6 @@
         # Task: VM-99
     
     --> Time total: "0h 45m";     Status: "";
-        //Asked_Melina_add_15_minutes
         # Time from:  "14h 45m";     Time to: "14h 45m";
         # Description: "VM meeting #2"
         # Task: VM-99
