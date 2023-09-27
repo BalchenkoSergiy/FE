@@ -31,7 +31,7 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: ""
         Task: 
-        
+
 26.09.2023
     + 'Уточнити у Ніка на рахунок завдання від Тети про видимість Меліни у полі вибору PM'
     + 'Уточнити за ліцензію для відео редактора'
@@ -46,19 +46,16 @@
         # Task: 
 
     --> Time total: "3h 30m";     Status: "";
-        //Asked_Melina_add_time
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "LMS Testing"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "LMS Testing"
+        # Task: 
 
     --> Time total: "0h 30m";     Status: "";
-        //Asked_Melina_add_time
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Payed for VideoPad license"
         Task: INFOTECH-279
 
     --> Time total: "2h 00m";     Status: "";
-        //Asked_Melina_add_time
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Worked on Video tips 235"
         Task: INFOTECH-279
