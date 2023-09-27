@@ -51,14 +51,14 @@
         # Task: 
 
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Payed for VideoPad license"
-        Task: INFOTECH-279
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Payed for VideoPad license"
+        # Task: INFOTECH-279
 
     --> Time total: "2h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on Video tips 235"
-        Task: INFOTECH-279
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Worked on Video tips 235"
+        # Task: INFOTECH-279
 
 25.09.2023
     --> Time total: "0h 30m";     Status: "";
