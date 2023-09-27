@@ -22,14 +22,14 @@
         Description: ""
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "PR for PRA - with Jacob"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "3h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "worked on video tips"
         Task: 
 
 26.09.2023
