@@ -5,13 +5,29 @@
         Task: 
 //endTemplate
 
-27.09.2023
-    // 'Попросити оновлений джоб офер'
+28.09.2023
+// 'Попросити оновлений джоб офер'
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: ""
         Task: 
-    
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+        
+27.09.2023
     --> Time total: "4h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: ""
