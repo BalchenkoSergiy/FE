@@ -12,22 +12,23 @@
         Description: ""
         Task: 
     
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "4h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: ""
         Task: 
 
     --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting for LMS"
-        Task: 
+        \\Asked_Melina_add_15m
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Meeting for LMS"
+        #Task: 
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "PR for PRA - with Jacob"
         # Task: PRACOVID19-314
 
-    --> Time total: "3h 00m";     Status: "";
+    --> Time total: "4h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "worked on video tips"
         Task: 
