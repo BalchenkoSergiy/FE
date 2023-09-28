@@ -27,10 +27,10 @@
         # Description: "PR for PRA - with Jacob"
         # Task: PRACOVID19-314
 
-    --> Time total: "4h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "worked on video tips"
-        Task: 
+    --> Time total: "1h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "bug tasks"
+        # Task: 
 
 26.09.2023
     + 'Уточнити у Ніка на рахунок завдання від Тети про видимість Меліни у полі вибору PM'
