@@ -18,7 +18,6 @@
         Task: 
 
     --> Time total: "1h 00m";     Status: "";
-        \\Asked_Melina_add_15m
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Meeting for LMS"
         #Task: 
