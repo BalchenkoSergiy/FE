@@ -14,9 +14,9 @@
         # Task: FNUWED-209
 
     --> Time total: "7h 15m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Video Tips"
-        Task: LMS-536
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Video Tips"
+        # Task: LMS-536
 
 27.09.2023
     --> Time total: "4h 30m";     Status: "";
