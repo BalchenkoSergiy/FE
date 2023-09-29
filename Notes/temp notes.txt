@@ -7,18 +7,20 @@
 
 29.09.2023
 // 'Попросити оновлений джоб офер'
-1. Одне відео із спогадів
++ 1. Одне відео із спогадів
 2. Показати сторінку 403
 3. Показати сторінку залогінення у інкогніто
 4. Меньше суєти з мишкою
 5. Акцент тільки на потрібних обʼєктах
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "3h 00m";     Status: "";
+    //Asked_melina_add_time
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting - VM Reminders"
+        Description: "Edited video"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "5h 00m";     Status: "";
+    //Asked_melina_add_1h
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Brandings ecLearn"
         Task: LMS-534
