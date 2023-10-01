@@ -223,4 +223,6 @@
         //    This method cannot change attributes; 
         //    it can only make changes in values of an attribute.
 
-    
+    /*
+        Для того щоб відобразити струкнтуру HTML файлу використовуємо комбінцію клавіш: !+Enter
+    */
