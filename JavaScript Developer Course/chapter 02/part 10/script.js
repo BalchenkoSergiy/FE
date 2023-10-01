@@ -12,3 +12,7 @@ console.log(color);
 
 //JavaScript names can include:
 //letters, numbers, $, _
+
+/*
+    Multiline comments
+*/
