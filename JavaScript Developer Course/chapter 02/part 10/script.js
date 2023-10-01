@@ -19,5 +19,5 @@ console.log(color);
 
 myMainColor = 'green'; //canel case
 my_main_color = 'gray'; //snake case
-my-color = 'black'; //kebab case
+//my-color = 'black'; //kebab case
 MyMainCase = 'Just case'; //Pascal case 
