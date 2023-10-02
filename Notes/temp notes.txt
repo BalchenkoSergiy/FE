@@ -13,9 +13,9 @@
 
 02.10.2023
     --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting - Ec Documentation"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Meeting - Ec Documentation"
+        # Task: 
 
     --> Time total: "3h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
@@ -31,7 +31,7 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "ScreenShots for documentation"
         Task: 
-        
+
 29.09.2023
     --> Time total: "3h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
