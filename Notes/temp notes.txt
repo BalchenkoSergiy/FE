@@ -34,10 +34,9 @@
 5. Акцент тільки на потрібних обʼєктах
 
     --> Time total: "3h 00m";     Status: "";
-    //Asked_melina_add_time
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Edited video"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Edited video"
+        # Task: LMS-536
 
     --> Time total: "5h 00m";     Status: "";
     //Asked_melina_add_1h
