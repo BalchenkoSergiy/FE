@@ -5,6 +5,12 @@
         Task: 
 //endTemplate
 
+// 'Попросити оновлений джоб офер'
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Clean up Azure"
+        Task:
+
 02.10.2023
     --> Time total: "1h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
@@ -25,14 +31,8 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "ScreenShots for documentation"
         Task: 
+        
 29.09.2023
-// 'Попросити оновлений джоб офер'
-+ 1. Одне відео із спогадів
-2. Показати сторінку 403
-3. Показати сторінку залогінення у інкогніто
-4. Меньше суєти з мишкою
-5. Акцент тільки на потрібних обʼєктах
-
     --> Time total: "3h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Edited video"
@@ -42,11 +42,6 @@
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Brandings ecLearn"
         # Task: LMS-534
-
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Clean up Azure"
-        Task:
 
 28.09.2023
     --> Time total: "0h 45m";     Status: "";
