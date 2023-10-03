@@ -11,25 +11,25 @@
         Description: "Clean up Azure"
         Task:
 
-02.10.2023
+03.10.2023
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Meeting with Jacob (pra)"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "LMS-540"
         Task: 
     
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Documentation for LMS"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Video 236"
         Task: 
 
 02.10.2023
