@@ -17,14 +17,14 @@
         Description: "Helped Hosey with his computer"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "3h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting with Jacob (pra)"
+        Description: "Meeting with Jacob (pra) and worked on Cleare database"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "LMS-540"
+        Description: "Record Screen for LMS"
         Task: 
     
     --> Time total: "1h 30m";     Status: "";
@@ -35,6 +35,11 @@
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Video 236"
+        Task: 
+
+    --> Time total: "1h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Make working places"
         Task: 
 
 02.10.2023
