@@ -10,34 +10,44 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Clean up Azure"
         Task:
-
-03.10.2023
-    --> Time total: "0h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Helped Hosey with his computer"
-        Task: 
-
-    --> Time total: "3h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting with Jacob (pra) and worked on Cleare database"
-        Task: 
-
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Record Screen for LMS"
-        Task: 
     
-    --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Documentation for LMS"
-        Task: 
-
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Video 236"
         Task: 
 
+03.10.2023
+    --> Time total: "0h 30m";     Status: "";
+        //Asked_time
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Helped Hosey with his computer"
+        Task: 
+
+    --> Time total: "1h 00m";     Status: "";
+        //Asked_15M
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Meeting with Jacob (pra) and worked on Cleare database"
+        Task: 
+
+    --> Time total: "2h 00m";     Status: "";
+        //Asked_create_task
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Cleared few fields and created few new"
+        Task: 
+
     --> Time total: "1h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Record Screen for LMS"
+        # Task: 
+    
+    --> Time total: "1h 30m";     Status: "";
+        //Asked_time
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Documentation for LMS"
+        Task: 
+
+    --> Time total: "1h 30m";     Status: "";
+        //Asked-TIME
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Make working places"
         Task: 
