@@ -43,10 +43,9 @@
         # Task: 
 
     --> Time total: "1h 30m";     Status: "";
-        //Asked-TIME
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Make working places"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Make working places"
+        # Task: 
 
 02.10.2023
     --> Time total: "1h 00m";     Status: "";
