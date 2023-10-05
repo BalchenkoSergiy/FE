@@ -19,9 +19,9 @@
         Description: "Help Hosey with working place"
         Task:
     
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting for rcSprint"
+        Description: "Meeting for ecSprint"
         Task: 
     
     --> Time total: "0h 00m";     Status: "";
