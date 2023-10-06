@@ -14,25 +14,30 @@
     
 
 06.10.2023
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task:
+    --> Time total: "2h 45m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Dashport in the portal"
+        # Task: LMS-547
 
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Meeting with Hosey"
-        Task:
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Deleting old courses"
+        # Task:
+
+    --> Time total: "0h 45m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Meeting with Hosey"
+        # Task:
     
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Checked SSL Certificates"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Checked SSL Certificates"
+        # Task: 
     
-    --> Time total: "4h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Video 236"
-        Task: 
+    --> Time total: "3h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Video 236"
+        # Task: 
 
 05.10.2023
     --> Time total: "0h 30m";     Status: "";
