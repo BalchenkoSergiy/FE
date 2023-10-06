@@ -14,7 +14,12 @@
     
 
 05.10.2023
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "ДЬІ-542"
+        Task:
+
+    --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Help Hosey with working place"
         Task:
@@ -24,7 +29,7 @@
         Description: "Meeting for ecSprint"
         Task: 
     
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "5h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Video 236"
         Task: 
