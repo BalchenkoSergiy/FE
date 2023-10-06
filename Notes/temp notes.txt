@@ -13,6 +13,27 @@
     
     
 
+06.10.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+    
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+    
+    --> Time total: "4h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Video 236"
+        Task: 
+
 05.10.2023
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
