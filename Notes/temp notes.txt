@@ -19,14 +19,14 @@
         Description: ""
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Meeting with Hosey"
         Task:
     
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Checked SSL Certificates"
         Task: 
     
     --> Time total: "4h 00m";     Status: "";
