@@ -18,7 +18,12 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Record video courses"
         Task: LMS-541
-        
+
+    --> Time total: "2h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Worked on Video Tip 237"
+        Task: LMS-532
+
 06.10.2023
     --> Time total: "2h 45m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
