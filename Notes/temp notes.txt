@@ -13,6 +13,22 @@
     
     
 
+11.10.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Work on Video Tip 237"
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Meeting - ec documentation"
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Delete old courses"
+        Task:
+
 10.10.2023
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
