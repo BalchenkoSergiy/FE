@@ -24,10 +24,10 @@
         # Description: "Replacing icons"
         # Task: LMS-541
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Delete old courses"
-        Task:
+    --> Time total: "4h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Dashboards records"
+        # Task: LMS-541
 
 10.10.2023
     --> Time total: "2h 00m";     Status: "";
