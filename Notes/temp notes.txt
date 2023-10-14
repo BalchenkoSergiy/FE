@@ -18,40 +18,43 @@
         Task:
 
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
+    //Asked_Melina
+        #Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Changed Icons in the CRM and added data into dashboards"
         Task:
     
     --> Time total: "2h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on Video Tips 237"
-        Task:
     
-    --> Time total: "0h 00m";     Status: "";
+        #Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Worked on Video Tips 237"
+        Task: LMS-536
+    
+    --> Time total: "3h 00m";     Status: "";
+    //Asked_Melina_1h
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "ecLearn Video records"
         Task:
 
 12.10.2023
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Creating ecLearn records"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Clean up Azure"
+        Description: "LMS-561"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "ecLearn meeting"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Video Tip 237"
-        Task: 
+    --> Time total: "3h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Video Tip 237"
+        # Task: 
 
 11.10.2023
     --> Time total: "2h 00m";     Status: "";
