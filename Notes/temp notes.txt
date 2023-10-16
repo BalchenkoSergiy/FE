@@ -37,9 +37,9 @@
 
 12.10.2023
     --> Time total: "2h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Creating ecLearn records"
-        Task:
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Creating ecLearn records"
+        # Task:
 
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
