@@ -30,10 +30,9 @@
         Task: LMS-536
     
     --> Time total: "3h 00m";     Status: "";
-    //Asked_Melina_1h
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "ecLearn Video records"
-        Task:
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "ecLearn Video records"
+        # Task:
 
 12.10.2023
     --> Time total: "2h 00m";     Status: "";
