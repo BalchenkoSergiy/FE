@@ -22,6 +22,10 @@
         Description: "Short meeting for PRA and Created PR with Jacob"
         Task:    
 
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "2h 00m";     Time to: "0h 00m";
+        Description: "VM - Meeting"
+        Task: 
 13.10.2023
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
