@@ -13,10 +13,9 @@
     
 16.10.2023
     --> Time total: "4h 00m";     Status: "";
-    //Asked_Melina_add_4h
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "ecLearn Video records"
-        Task: LMS-532
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "ecLearn Video records"
+        # Task: LMS-532
 
     --> Time total: "0h 45m";     Status: "";
     //Asked_Melina_add_45m
