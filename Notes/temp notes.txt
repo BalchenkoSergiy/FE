@@ -18,10 +18,9 @@
         # Task: LMS-532
 
     --> Time total: "0h 45m";     Status: "";
-    //Asked_Melina_add_45m
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Short meeting for PRA and Created PR with Jacob"
-        Task:    
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Short meeting for PRA and Created PR with Jacob"
+        # Task: PRACIVID19-314
 
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "2h 00m";     Time to: "0h 00m";
