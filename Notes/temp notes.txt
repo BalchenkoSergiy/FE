@@ -23,9 +23,9 @@
         Task: LMS-517
 
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on Tip 238"
-        Task: LMS-536
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Worked on Tip 238"
+        # Task: LMS-536
 
 16.10.2023
     --> Time total: "4h 00m";     Status: "";
