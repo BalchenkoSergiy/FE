@@ -15,17 +15,17 @@
     --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Meeting - Vista Maria srint meeting"
-        Task: 
+        Task: VM-119
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "6h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Deleted old courses"
         Task: LMS-517
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+        Description: "Worked on Tip 238"
+        Task: LMS-536
 
 16.10.2023
     --> Time total: "4h 00m";     Status: "";
