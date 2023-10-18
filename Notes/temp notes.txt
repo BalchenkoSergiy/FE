@@ -32,6 +32,11 @@
         Description: "VM 123"
         Task: VM-123
 
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Portal Tip - 239"
+        Task: Portal Tip - 239
+
 17.10.2023
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
