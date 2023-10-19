@@ -33,9 +33,9 @@
         Task: VM-123
 
     --> Time total: "1h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Portal Tip - 239"
-        Task: LMS-536
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Portal Tip - 239"
+        # Task: LMS-536
 
 17.10.2023
     --> Time total: "0h 30m";     Status: "";
