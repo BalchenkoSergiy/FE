@@ -18,9 +18,9 @@
         Task: MSFTCP-520
 
     --> Time total: "4h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Portal Tip - 238"
-        Task: LMS-536
+        #v Time from:  "0h 00m";     Time to: "0h 00m";
+        #v Description: "Portal Tip - 238"
+        #v Task: LMS-536
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "2h 30m";     Time to: "0h 00m";
