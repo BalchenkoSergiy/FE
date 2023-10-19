@@ -17,14 +17,19 @@
         Description: "ecLearn meeting"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "4h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "MS accessebility bug"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Video tip"
+        Task:
+
+    --> Time total: "1h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Editing promotional video"
         Task:
 
 18.10.2023
