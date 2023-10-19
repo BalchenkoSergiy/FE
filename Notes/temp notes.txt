@@ -13,9 +13,9 @@
     
 18.10.2023
     --> Time total: "1h 00m";     Status: "";
-        Time from:  "9h 00m";     Time to: "10h 00m";
-        Description: "MS - Portal Design"
-        Task: MSFTCP-520
+        # Time from:  "9h 00m";     Time to: "10h 00m";
+        # Description: "MS - Portal Design"
+        # Task: MSFTCP-520
 
     --> Time total: "4h 00m";     Status: "";
         #v Time from:  "0h 00m";     Time to: "0h 00m";
