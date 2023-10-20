@@ -18,9 +18,9 @@
         Task: 
 
     --> Time total: "4h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "MS accessebility bug"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "MS accessebility bug"
+        # Task: MSFTCP-526 
 
     --> Time total: "1h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
