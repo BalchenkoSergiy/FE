@@ -85,15 +85,15 @@
         # Description: "Video for Hosey"
         # Task: LMS-541
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+    --> Time total: "2h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Tested bug tasks"
+        # Task: LMS-469
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+    --> Time total: "1h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "VM - meeting"
+        # Task: VM-119
 
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
