@@ -22,15 +22,15 @@
         Description: "MS accessebility bug"
         Task: 
 
-    --> Time total: "2h 00m";     Status: "";
+    --> Time total: "1h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Video tip"
         Task:
 
-    --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Editing promotional video"
-        Task:
+    --> Time total: "1h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Editing promotional video"
+        # Task: LMS-541
 
 18.10.2023
     --> Time total: "1h 00m";     Status: "";
