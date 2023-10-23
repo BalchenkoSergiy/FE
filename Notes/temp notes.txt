@@ -69,10 +69,10 @@
         Description: "Create the PR for PRA and VM"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Video tip 239"
-        Task:
+    --> Time total: "5h 15m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Video tip 239"
+        # Task: LMS-536
 
     --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
