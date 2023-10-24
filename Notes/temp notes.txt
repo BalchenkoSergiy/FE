@@ -11,6 +11,27 @@
         Description: "Clean up Azure"
         Task:
     
+24.10.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
 23.10.2023
     --> Time total: "1h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
@@ -22,7 +43,7 @@
         Description: "vm - Meeting with Jacob"
         Task: VM-104
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Create the PR for PRA and VM"
         Task: 
