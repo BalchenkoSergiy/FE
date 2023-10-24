@@ -33,25 +33,15 @@
         Task:        
 
 24.10.2023
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+    --> Time total: "7h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Video TIp-239"
+        # Task: LMS-536
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
-
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
-
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+        Description: "Removal snow"
+        Task: INFOTECH-240
 
 23.10.2023
     --> Time total: "1h 30m";     Status: "";
