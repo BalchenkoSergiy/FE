@@ -19,7 +19,7 @@
         Description: "lms - meeting"
         Task: 
 
-    --> Time total: "1h 00m";     Status: "";
+    --> Time total: "3h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Worked on video for Hosey"
         Task: 
@@ -29,9 +29,9 @@
         Description: "Worked on MS task"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Ordering Battary"
         Task:     
 
 25.10.2023
