@@ -32,7 +32,17 @@
     --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Ordering Battary"
+        Task:   
+
+    --> Time total: "2h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "TIP - 240"
         Task:     
+
+    --> Time total: "0h 15m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Move text in the midle of top"
+        Task: LMS-540
 
 25.10.2023
     --> Time total: "0h 00m";     Status: "";
