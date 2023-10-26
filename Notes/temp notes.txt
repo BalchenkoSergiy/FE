@@ -15,9 +15,9 @@
 
 26.10.2023
     --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "lms - meeting"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "lms - meeting"
+        # Task: LMS-559
 
     --> Time total: "3h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
@@ -40,9 +40,9 @@
         Task:     
 
     --> Time total: "0h 15m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Move text in the midle of top"
-        Task: LMS-540
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Move text in the midle of top"
+        # Task: LMS-540
 
 25.10.2023
     --> Time total: "0h 00m";     Status: "";
