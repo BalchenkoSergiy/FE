@@ -31,10 +31,9 @@
         # Task: MSFTCP-526
 
     --> Time total: "0h 30m";     Status: "";
-        //Asked_add_time
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Ordering Battary"
-        Task: INFOTECH-240 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Ordering Battary"
+        # Task: INFOTECH-240 
 
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
