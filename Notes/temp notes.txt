@@ -20,10 +20,9 @@
         # Task: LMS-559
 
     --> Time total: "2h 45m";     Status: "";
-        //Asked_add_time
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on video for Hosey"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Worked on video for Hosey"
+        # Task: LMS-541
 
     --> Time total: "1h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
