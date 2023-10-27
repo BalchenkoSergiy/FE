@@ -8,8 +8,23 @@
 // 'Попросити оновлений джоб офер'
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Clean up Azure"
-        Task:
+        Description: ""
+        Task: VM-136
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: VM-132
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Reviwed my TO DO list"
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Tip - 241"
+        Task: 
  
 
 
