@@ -6,17 +6,19 @@
 //endTemplate
 
 // 'Попросити оновлений джоб офер'
-    --> Time total: "0h 00m";     Status: "";
+
+27.10.2023
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: ""
         Task: VM-136
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: ""
         Task: VM-132
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Reviwed my TO DO list"
         Task: 
@@ -26,8 +28,6 @@
         Description: "Tip - 241"
         Task: 
  
-
-
 26.10.2023
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
