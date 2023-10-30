@@ -14,9 +14,9 @@
         # Task: vm-129
 
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "VM - PR - Shadowing Paul"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "VM - PR - Shadowing Paul"
+        # Task: vm-93 and vm-103
 
     --> Time total: "4h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
