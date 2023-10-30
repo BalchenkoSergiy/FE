@@ -8,19 +8,19 @@
 // 'Попросити оновлений джоб офер'
 
 30.10.2023
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "VM - Portal Internal touch Point meeting"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "VM - PR - Shadowing Paul"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "4h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Video TIp - 241"
         Task: 
 
     --> Time total: "0h 00m";     Status: "";
