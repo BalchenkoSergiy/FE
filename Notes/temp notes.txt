@@ -23,9 +23,9 @@
         Description: "Video TIp - 241"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Video TIp - 242"
         Task: 
 
 27.10.2023
