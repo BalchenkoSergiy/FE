@@ -18,6 +18,11 @@
         # Description: "VM - PR - Shadowing Paul"
         # Task: vm-93 and vm-103
 
+    --> Time total: "0h 45m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Monthly Maintenance Upgrade"
+        # Task: FNUWEB-209
+
     --> Time total: "4h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Video TIp - 241"
