@@ -9,9 +9,9 @@
 
 30.10.2023
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "VM - Portal Internal touch Point meeting"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "VM - Portal Internal touch Point meeting"
+        # Task: vm-129
 
     --> Time total: "1h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
