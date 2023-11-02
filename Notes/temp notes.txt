@@ -9,7 +9,7 @@
     git commit --date='2023-11-03 12:12:45' -m "Your commit message" 
 </commit_for_previous_date>
 
-//Попросити_оновлений_джоб_офер
+<Попросити_оновлений_джоб_офер>
 
 02.11.2023
     --> Time total: "0h 00m";     Status: "";
