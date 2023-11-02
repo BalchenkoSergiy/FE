@@ -60,30 +60,20 @@
         Task: 
 
 31.10.2023
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task:
+    --> Time total: "2h 45m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "tip-242"
+        # Task: infotech-298
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task:
+    --> Time total: "1h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "sprint meeting"
+        # Task: vm-143
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task:
-
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task:
-
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
-        Task: 
+    --> Time total: "4h 15m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "tested permissions on CRM"
+        # Task: lms-592
 
 30.10.2023
     --> Time total: "0h 30m";     Status: "";
