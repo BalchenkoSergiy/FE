@@ -63,6 +63,22 @@
         Description: ""
         Task: 
 
+03.11.2023
+    --> Time total: "4h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "tip 242"
+        # Task:
+
+    --> Time total: "1h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "PR VM"
+        # Task:
+
+    --> Time total: "3h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Tip 243"
+        # Task:
+
 02.11.2023
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
