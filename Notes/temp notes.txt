@@ -11,30 +11,56 @@
 
 <Попросити_оновлений_джоб_офер>
 
+06.11.2023
+    --> Time total: "4h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Tip 243"
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
 02.11.2023
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+    --> Time total: "1h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "meeting ecLearn sprint planing"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+    --> Time total: "0h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Meeting for PR VM"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+    --> Time total: "3h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "ecLearn"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Support mailbox"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "3h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Tip"
         Task: 
 
 01.11.2023
