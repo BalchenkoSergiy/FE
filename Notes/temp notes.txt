@@ -11,20 +11,46 @@
 
 <Попросити_оновлений_джоб_офер>
 
+07.11.2023
+    --> Time total: "4h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Tip 244"
+        Task:
+
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Cleared snow"
+        Task:
+
+    --> Time total: "1h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "VM - sprint planing meeting"
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task:
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
 06.11.2023
     --> Time total: "4h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Tip 243"
         Task:
 
-    --> Time total: "1h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Worked with Paul on interneth access"
         Task:
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "2h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Tip 244"
         Task:
 
     --> Time total: "0h 00m";     Status: "";
