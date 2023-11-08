@@ -11,6 +11,22 @@
 
 <Попросити_оновлений_джоб_офер>
 
+08.11.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Worked on Tip 244"
+        Task: 
+
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Called to Allarm service for battery"
+        Task: 
+
+    --> Time total: "1h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "research and order water filter for refrigerator"
+        Task: 
+
 07.11.2023
     --> Time total: "4h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
