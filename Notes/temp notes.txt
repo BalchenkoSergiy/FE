@@ -38,8 +38,7 @@
         Task: 
 08.11.2023
     --> Time total: "3h 30m";     Status: "";
-        //Asked
-        Time from:  "0h 00m";     Time to: "0h 00m";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Worked on Tip 244"
         Task: INFOTECH-298
 
