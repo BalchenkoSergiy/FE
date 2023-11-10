@@ -12,30 +12,31 @@
 <Попросити_оновлений_джоб_офер>
 
 09.11.2023
-    --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "ecLearn sprint meeting"
-        Task: 
+    --> Time total: "1h 30m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "ecLearn sprint meeting"
+        # Task: 
     
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Clock on the wall"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Clock on the wall"
+        # Task: 
     
     --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Cleared owen in the kitchen"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Cleared owen in the kitchen"
+        # Task: 
     
-    --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Research teams record auto"
-        Task: 
+    --> Time total: "1h 45m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Research teams record auto"
+        # Task: 
 
-    --> Time total: "0h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Tested ecLearn"
-        Task: 
+    --> Time total: "0h 45m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Tested ecLearn"
+        # Task: 
+        
 08.11.2023
     --> Time total: "3h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
