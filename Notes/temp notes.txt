@@ -66,28 +66,28 @@
 08.11.2023
     --> Time total: "3h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on Tip 244"
-        Task: INFOTECH-298
+        # Description: "Worked on Tip 244"
+        # Task: INFOTECH-298
 
     --> Time total: "1h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Called to Allarm service for battery and put picture on the wall"
-        Task: 
+        # Description: "Called to Allarm service for battery and put picture on the wall"
+        # Task: 
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "research and order water filter for refrigerator"
-        Task: 
+        # Description: "research and order water filter for refrigerator"
+        # Task: 
 
     --> Time total: "1h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on PR with Paul"
-        Task: 
+        # Description: "Worked on PR with Paul"
+        # Task: 
 
     --> Time total: "1h 00m";     Status: "";
         #Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Tested ecLearn - using videos from Google drive"
-        Task: 
+        # Description: "Tested ecLearn - using videos from Google drive"
+        # Task: 
 
 07.11.2023
     --> Time total: "4h 00m";     Status: "";
