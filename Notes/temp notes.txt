@@ -31,10 +31,9 @@
     
     
     --> Time total: "5h 00m";     Status: "";
-    //Asked3h45m
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Tested CRM"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Tested CRM"
+        # Task: 
     
     --> Time total: "2h 15m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
