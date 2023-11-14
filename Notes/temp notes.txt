@@ -27,9 +27,9 @@
         Description: "Vista Maria sprint meeting"
         Task: 
     
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Added screenshots for PR (VM - 104)"
         Task: 
 
     --> Time total: "1h 00m";     Status: "";
