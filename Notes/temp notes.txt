@@ -32,9 +32,9 @@
         Description: "Added screenshots for PR (VM - 104)"
         Task: 
 
-    --> Time total: "1h 00m";     Status: "";
+    --> Time total: "2h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Checked SSL"
+        Description: "VM - 159"
         Task: 
 
 
