@@ -10,6 +10,7 @@
 </commit_for_previous_date>
 
 <Попросити_оновлений_джоб_офер>
+
 14.11.2023
     --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
@@ -21,9 +22,9 @@
         Description: "Worked on vertical video"
         Task: 
     
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Vista Maria sprint meeting"
         Task: 
     
     --> Time total: "0h 00m";     Status: "";
