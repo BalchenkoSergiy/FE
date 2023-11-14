@@ -10,11 +10,10 @@
 </commit_for_previous_date>
 
 <Попросити_оновлений_джоб_офер>
-
-10.11.2023
-    --> Time total: "0h 00m";     Status: "";
+14.11.2023
+    --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "PRA request - worked with Paul"
         Task: 
     
     --> Time total: "0h 00m";     Status: "";
@@ -36,6 +35,7 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Checked SSL"
         Task: 
+
 
 09.11.2023
     --> Time total: "1h 30m";     Status: "";
