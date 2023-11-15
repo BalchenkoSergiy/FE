@@ -12,32 +12,58 @@
 <Попросити_оновлений_джоб_офер>
 
 14.11.2023
-    --> Time total: "0h 30m";     Status: "";
-        # Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "PRA request - worked with Paul"
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
         Task: 
+    
+    
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+    
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+    
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+14.11.2023
+    --> Time total: "4h 00m";     Status: "";
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Shadowing Paul - worked on support tasks and VM tasks"
+        # Task: 
     
     
     --> Time total: "2h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on vertical video"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Worked on vertical video"
+        # Task: 
     
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Vista Maria sprint meeting"
-        Task: 
+        # Description: "Vista Maria sprint meeting"
+        # Task: 
     
     --> Time total: "0h 15m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Added screenshots for PR (VM - 104)"
-        Task: 
+        # Description: "Added screenshots for PR (VM - 104)"
+        # Task: 
 
     --> Time total: "2h 00m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "VM - 159"
-        Task: 
-
+        # Description: "VM - 159"
+        # Task: 
 
 09.11.2023
     --> Time total: "1h 30m";     Status: "";
