@@ -11,6 +11,13 @@
 
 <Попросити_оновлений_джоб_офер>
 
+17.11.2023
+    --> Time total: "2h 15m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Research application for flowchat; Cleaning carpet; Buildings tasks"
+        Task: INFOTECH-304
+
+
 16.11.2023
     --> Time total: "2h 00m";     Status: "";
         //asked 
