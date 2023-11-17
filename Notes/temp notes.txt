@@ -17,6 +17,12 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "ecLearn testing Hosey request"
         Task: LMS-592
+
+    --> Time total: "2h 15m";     Status: "";
+        //asked 
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "building tasks"
+        Task: infotech-304
     
     
     --> Time total: "1h 15m";     Status: "";
@@ -28,19 +34,7 @@
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "Create ecLearn flowchart"
         # Task: LMS-614
-
-    --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "internal ecLearn meeting"
-        Task: 
-
-    --> Time total: "1h 00m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Research mindmap application"
-        Task: 
-
     
-
 15.11.2023
     --> Time total: "0h 15m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
