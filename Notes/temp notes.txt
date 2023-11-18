@@ -17,6 +17,11 @@
         Description: "Research application for flowchat; Cleaning carpet; Buildings tasks"
         Task: INFOTECH-304
 
+    --> Time total: "2h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Testing CRM"
+        Task: LMS-592
+
 
 16.11.2023
     --> Time total: "2h 00m";     Status: "";
