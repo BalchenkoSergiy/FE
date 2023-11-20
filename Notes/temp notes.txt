@@ -22,6 +22,12 @@
         Description: "Testing CRM"
         Task: LMS-592
 
+    --> Time total: "2h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Workflow tasks"
+        Task: LMS-614
+    
+
 
 16.11.2023
     --> Time total: "2h 00m";     Status: "";
