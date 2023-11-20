@@ -26,8 +26,11 @@
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Workflow tasks"
         Task: LMS-614
-    
 
+    --> Time total: "1h 15m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Meeting ec-sprint"
+        Task: LMS-627
 
 16.11.2023
     --> Time total: "2h 00m";     Status: "";
