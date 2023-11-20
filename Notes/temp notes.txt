@@ -14,10 +14,17 @@
 
 
 18.11.2023
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "1h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: ""
+        Description: "Worked with Paul on VM tasks"
         Task: 
+
+    --> Time total: "2h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Worked won flowchart for ecLearn"
+        Task: 
+
+    
 
 17.11.2023
     --> Time total: "2h 15m";     Status: "";
