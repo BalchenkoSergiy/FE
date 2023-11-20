@@ -29,6 +29,11 @@
         Description: "ecLearn meeting"
         Task: 
 
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "VM meeting"
+        Task: 
+
     
 
 17.11.2023
