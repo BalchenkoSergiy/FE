@@ -13,19 +13,33 @@
 
 
 
+22.11.2023
+    --> Time total: "7h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Worked on Vertical video"
+        Task: 
+
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Worked on PR for VM"
+        Task: 
+
+
 21.11.2023
 
-    --> Time total: "4h 45m";     Status: "";
+    --> Time total: "4h 15m";     Status: "";
+        //Asked 3h 
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Worked on Vertical video"
         Task: 
 
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "VM - meetinge"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "VM - meetinge"
+        # Task: 
 
-    --> Time total: "2h 30m";     Status: "";
+    --> Time total: "3h 00m";     Status: "";
+    //Asked
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Reanamed view field"
         Task: 
