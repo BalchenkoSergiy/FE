@@ -6,7 +6,7 @@
 //endTemplate
 
 <commit_for_previous_date>
-    git commit --date='2023-11-03 12:12:45' -m "Your commit message" 
+    git commit --date='2023-11-22 12:12:45' -m "f 23-11" 
 </commit_for_previous_date>
 
 <Попросити_оновлений_джоб_офер>
@@ -15,14 +15,14 @@
 
 22.11.2023
     --> Time total: "7h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on Vertical video"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Worked on Vertical video"
+        # Task: 
 
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Worked on PR for VM"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Worked on PR for VM"
+        # Task: 
 
 
 21.11.2023
