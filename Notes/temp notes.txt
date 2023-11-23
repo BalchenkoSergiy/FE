@@ -19,6 +19,11 @@
         Description: "Worked on Vertical video"
         Task: 
 
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Meeting - ecLearn"
+        Task: 
+
 22.11.2023
     --> Time total: "7h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
