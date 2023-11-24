@@ -19,6 +19,21 @@
         Description: "Checked Certificates"
         Task: 
 
+    --> Time total: "1h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Helped Allan with ecLearn Portal"
+        Task: 
+
+    --> Time total: "0h 30m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "VM - reviewed Nicks comments"
+        Task: 
+
+    --> Time total: "3h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Vertical TV editing"
+        Task: 
+
 23.11.2023
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
