@@ -13,6 +13,12 @@
 
 
 
+24.11.2023
+    --> Time total: "1h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Checked Certificates"
+        Task: 
+
 23.11.2023
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
