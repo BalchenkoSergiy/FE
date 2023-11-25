@@ -6,7 +6,7 @@
 //endTemplate
 
 <commit_for_previous_date>
-    git commit --date='2023-11-22 12:12:45' -m "f 23-11" 
+    git commit --date='2023-11-24 12:12:45' -m "structured 24.11" 
 </commit_for_previous_date>
 
 <Попросити_оновлений_джоб_офер>
@@ -14,6 +14,21 @@
 
 
 29.11.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+        
     --> Time total: "0h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: ""
