@@ -1,2 +1,1 @@
-#   <- 8
-#   -> 9
+print('Hello Serhii')
