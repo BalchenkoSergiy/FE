@@ -12,6 +12,11 @@
 <Попросити_оновлений_джоб_офер>
 
 
+14.12.2023
+    --> Time total: "0h 15m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Meeting - 'IT Discussion on EC CRM'"
+        Task: 
 
 08.12.2023
     --> Time total: "1h 30m";     Status: "";
