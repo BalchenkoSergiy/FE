@@ -6,7 +6,7 @@
 //endTemplate
 
 <commit_for_previous_date>
-    git commit --date='2023-11-27 12:12:45' -m "changed setings" 
+    git commit --date='2023-12-05 12:12:45' -m "finished video 16" 
 </commit_for_previous_date>
 
 <Попросити_оновлений_джоб_офер>
@@ -14,7 +14,7 @@
 
 
 30.11.2023
-    --> Time total: "2h 00m";     Status: "";
+    --> Time total: "2h 15m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Worked with Poul - support request and cleanup Azure"
         Task: 
@@ -24,7 +24,7 @@
         Description: "ecLearn meeting"
         Task: 
 
-    --> Time total: "0h 00m";     Status: "";
+    --> Time total: "4h 00m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Document your strategy for backup"
         Task: infotech-126
