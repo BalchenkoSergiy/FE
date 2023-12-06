@@ -1,5 +1,4 @@
-name = input("Enter your name please: ")
-print(name)
+name = 'Serhii'
+print(dir(name))
 
-# +14
-# -15
+print(name.upper())
