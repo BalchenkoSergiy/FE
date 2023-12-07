@@ -1,3 +1,5 @@
-#10 +
-#11 -
-print('Hello Serhii')
+name = input("Enter your name please: ")
+print(name)
+
+# +14
+# -15
