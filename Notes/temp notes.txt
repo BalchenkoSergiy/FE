@@ -14,22 +14,24 @@
 
 18.12.2023
     --> Time total: "2h 30m";     Status: "";
+    //Asked
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Bug with Hosey contact - I created bug task"
         Task: 
 
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Call with Microsoft support team"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Call with Microsoft support team"
+        # Task: 
 
     --> Time total: "1h 00m";     Status: "";
+    \\Asked
         Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Tip - 248"
         Task: 
 
     --> Time total: "1h 15m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
+        #Time from:  "0h 00m";     Time to: "0h 00m";
         Description: "Monthly staff meeting"
         Task: 
 
