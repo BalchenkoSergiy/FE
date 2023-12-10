@@ -14,10 +14,9 @@
 
 18.12.2023
     --> Time total: "2h 30m";     Status: "";
-    //Asked
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Bug with Hosey contact - I created bug task"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Bug with Hosey contact - I created bug task"
+        # Task: 
 
     --> Time total: "1h 30m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
