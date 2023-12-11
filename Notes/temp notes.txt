@@ -24,10 +24,9 @@
         # Task: 
 
     --> Time total: "1h 00m";     Status: "";
-    \\Asked
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Tip - 248"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Tip - 248"
+        # Task: 
 
     --> Time total: "1h 15m";     Status: "";
         #Time from:  "0h 00m";     Time to: "0h 00m";
