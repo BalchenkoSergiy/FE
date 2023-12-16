@@ -19,9 +19,9 @@
         # Task: LMS-740
 
     --> Time total: "1h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Migrate all choice columns to use global choices"
-        Task: LMS-743
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Migrate all choice columns to use global choices"
+        # Task: LMS-743
 
 18.12.2023
     --> Time total: "2h 30m";     Status: "";
