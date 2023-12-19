@@ -12,6 +12,17 @@
 <Попросити_оновлений_джоб_офер>
 
 
+19.12.2023
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "ecLearn Meeting - Testing strategies"
+        Task: 
+
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
 18.12.2023
     --> Time total: "0h 15m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
