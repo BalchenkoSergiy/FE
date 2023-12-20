@@ -18,20 +18,30 @@
         # Description: "ecLearn Meeting - Testing strategies"
         # Task: 
 
-    --> Time total: "1h 30m";     Status: "";
+    --> Time total: "3h 45m";     Status: "";
+    //Asked
         Time from:  "9h 30m";     Time to: "11h 00m";
         Description: "Work on Hosey document Expected Features"
         Task: 
 
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "11h 00m";     Time to: "11h 30m";
-        Description: "ecLearn - meeting about Testing strategy with Nick"
+        # Time from:  "11h 00m";     Time to: "11h 30m";
+        # Description: "ecLearn - meeting about Testing strategy with Nick"
+        # Task: 
+
+    --> Time total: "1h 00m";     Status: "";
+        # Time from:  "11h 30m";     Time to: "12h 30m";
+        # Description: "MS meeting about my issue"
+        # Task: 
+
+    --> Time total: "2h 00m";     Status: "";
+    \\Asked30m
+        Time from:  "0h 00m";     Time to: "00h 00m";
+        Description: "Internal meeting with Hosey and Paul"
         Task: 
 
-    --> Time total: "0h 45m";     Status: "";
-        Time from:  "11h 30m";     Time to: "12h 15m";
-        Description: "MS meeting about my issue"
-        Task: 
+    
+
 
 18.12.2023
     --> Time total: "0h 15m";     Status: "";
