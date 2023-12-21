@@ -12,8 +12,8 @@
 <Попросити_оновлений_джоб_офер>
 
 
-20.12.2023
-    --> Time total: "0h 00m";     Status: "";
+21.12.2023
+    --> Time total: "3h 00m";     Status: "";
         Time from:  "9h 15m";     Time to: "0h 00m";
         Description: "Update dashboards"
         Task: LMS-666
