@@ -19,10 +19,9 @@
         # Task: 
 
     --> Time total: "3h 45m";     Status: "";
-    //Asked
-        Time from:  "9h 30m";     Time to: "11h 00m";
-        Description: "Work on Hosey document Expected Features"
-        Task: 
+        # Time from:  "9h 30m";     Time to: "11h 00m";
+        # Description: "Work on Hosey document Expected Features"
+        # Task: 
 
     --> Time total: "0h 30m";     Status: "";
         # Time from:  "11h 00m";     Time to: "11h 30m";
@@ -35,10 +34,9 @@
         # Task: 
 
     --> Time total: "2h 00m";     Status: "";
-    \\Asked30m
-        Time from:  "0h 00m";     Time to: "00h 00m";
-        Description: "Internal meeting with Hosey and Paul"
-        Task: 
+        # Time from:  "0h 00m";     Time to: "00h 00m";
+        # Description: "Internal meeting with Hosey and Paul"
+        # Task: 
 
     
 
