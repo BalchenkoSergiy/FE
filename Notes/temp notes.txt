@@ -12,7 +12,18 @@
 <Попросити_оновлений_джоб_офер>
 
 
-19.12.2023
+20.12.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "9h 15m";     Time to: "0h 00m";
+        Description: "Update dashboards"
+        Task: LMS-666
+
+    --> Time total: "0h 15m";     Status: "";
+        Time from:  "9h 00m";     Time to: "9h 15m";
+        Description: "Meeting with Teta"
+        Task:
+
+20.12.2023
     --> Time total: "0h 45m";     Status: "";
         # Time from:  "0h 00m";     Time to: "0h 00m";
         # Description: "ecLearn Meeting - Testing strategies"
