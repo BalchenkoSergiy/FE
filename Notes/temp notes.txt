@@ -13,10 +13,10 @@
 
 
 21.12.2023
-    --> Time total: "3h 00m";     Status: "";
-        Time from:  "9h 15m";     Time to: "0h 00m";
-        Description: "Update dashboards"
-        Task: LMS-666
+    --> Time total: "2h 30m";     Status: "";
+        # Time from:  "9h 15m";     Time to: "0h 00m";
+        # Description: "Update dashboards"
+        # Task: LMS-666
 
     --> Time total: "0h 15m";     Status: "";
         Time from:  "9h 00m";     Time to: "9h 15m";
