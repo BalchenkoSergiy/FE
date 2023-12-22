@@ -18,6 +18,11 @@
         # Description: "Update dashboards"
         # Task: LMS-666
 
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Created two views"
+        Task: LMS-810
+
     --> Time total: "0h 15m";     Status: "";
         Time from:  "9h 00m";     Time to: "9h 15m";
         Description: "Meeting with Teta"
