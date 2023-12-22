@@ -24,9 +24,9 @@
         # Task: LMS-810
 
     --> Time total: "0h 15m";     Status: "";
-        Time from:  "9h 00m";     Time to: "9h 15m";
-        Description: "Meeting with Teta"
-        Task:
+        # Time from:  "9h 00m";     Time to: "9h 15m";
+        # Description: "Meeting with Teta"
+        # Task:
 
     --> Time total: "0h 30m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
