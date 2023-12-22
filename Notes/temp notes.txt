@@ -44,9 +44,9 @@
         # Task: LMS-812
 
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Updated view - Course Author"
-        Task: LMS-813
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Updated view - Course Author"
+        # Task: LMS-813
 
 
 20.12.2023
