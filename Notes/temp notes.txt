@@ -29,9 +29,9 @@
         # Task:
 
     --> Time total: "0h 30m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "ecLearn sprint meeting"
-        Task: LMS-751
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "ecLearn sprint meeting"
+        # Task: LMS-751
 
 
 20.12.2023
