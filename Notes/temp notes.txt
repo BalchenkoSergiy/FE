@@ -39,9 +39,9 @@
         # Task: LMS-811
 
     --> Time total: "0h 45m";     Status: "";
-        Time from:  "0h 00m";     Time to: "0h 00m";
-        Description: "Update tab 4 FORM - Course Author"
-        Task: LMS-812
+        # Time from:  "0h 00m";     Time to: "0h 00m";
+        # Description: "Update tab 4 FORM - Course Author"
+        # Task: LMS-812
 
 
 20.12.2023
