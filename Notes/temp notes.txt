@@ -12,6 +12,12 @@
 <Попросити_оновлений_джоб_офер>
 
 
+22.12.2023
+    --> Time total: "0h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: ""
+        Task: 
+
 21.12.2023
     --> Time total: "2h 30m";     Status: "";
         # Time from:  "9h 15m";     Time to: "0h 00m";
