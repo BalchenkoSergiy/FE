@@ -6,11 +6,17 @@
 //endTemplate
 
 <commit_for_previous_date>
-    git commit --date='2023-12-05 12:12:45' -m "finished video 16" 
+    git commit --date='2023-12-22 12:12:45' -m "finished 22.12" 
 </commit_for_previous_date>
 
 <Попросити_оновлений_джоб_офер>
 
+
+02.01.2024
+    --> Time total: "0h 45m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Checked SSL certificates"
+        Task: 
 
 22.12.2023
     --> Time total: "0h 00m";     Status: "";
