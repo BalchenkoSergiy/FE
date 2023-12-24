@@ -12,6 +12,12 @@
 <Попросити_оновлений_джоб_офер>
 
 
+03.01.2024
+    --> Time total: "2h 00m";     Status: "";
+        Time from:  "0h 00m";     Time to: "0h 00m";
+        Description: "Tested CRM and portal, created task for allan, answered on MS support team request"
+        Task: 
+
 02.01.2024
     --> Time total: "0h 45m";     Status: "";
         Time from:  "0h 00m";     Time to: "0h 00m";
