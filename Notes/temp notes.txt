@@ -6,7 +6,7 @@
 //endTemplate
 
 <commit_for_previous_date>
-    git commit --date='2023-12-22 12:12:45' -m "finished 22.12" 
+    git commit --date='2023-12-25 12:12:45' -m "tasks updates for 25.12" 
 </commit_for_previous_date>
 
 <Попросити_оновлений_джоб_офер>
