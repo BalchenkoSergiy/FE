@@ -1,5 +1,0 @@
-ДЗ:
-* Закінчити рівні 14-24 у https://flexboxfroggy.com
-* Зверстати компонент Pagination: https://github.com/eleks-bootcamp/online-store/tree/main/components/pagination
-
-https://cssgridgarden.com/

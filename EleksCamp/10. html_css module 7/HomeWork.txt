@@ -1,5 +1,0 @@
-html-css-module-7
-Володимир Шевчук
-•
-27 квіт. (Змінено 28 квіт.)
-ДЗ: https://github.com/eleks-bootcamp/online-store/tree/main/grid

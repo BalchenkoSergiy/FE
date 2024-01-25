@@ -1,4 +1,0 @@
-Додаткова домашка:
-
-https://learngitbranching.js.org/?locale=uk 
-Розділ "Віддалені репозиторії"

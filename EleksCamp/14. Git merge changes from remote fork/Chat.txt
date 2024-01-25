@@ -1,6 +1,0 @@
-
-Taras Hrytsun11 трав.
-Який саме репозиторій тут https://github.com/eleks-bootcamp нам потрібно фокнути?
-
-Serhii Oselskyi11 трав.
-+lvivtg@gmail.com Якщо не помиляюсь - там є репо "fork-me" :)
